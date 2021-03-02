@@ -1,4 +1,5 @@
-Month,D-SNP_Gain,MAPD_Gain,Map_Gain,Total_Gain,D-SNP_Loss,MAPD_Loss,MAP_Loss,Actual_loss,Cum_Balance,EnrollTarget,Target_Disenroll%,DisenrollTarget
-2020-12-31,495,491,1,987,151,78,0,229,0.0,193.0,0.02,0
-2021-01-31,725,545,11,1281,139,28,4,171,758.0,670.0,0.05,37
-2021-02-28,655,530,8,1193,46,15,1,62,1868.0,193.0,0.02,37
+Month,D-SNP_Gain,MAPD_Gain,Map_Gain,Total_Gain,D-SNP_Loss,MAPD_Loss,MAP_Loss,Actual_loss,Cum_Balance,EnrollTarget,Target_Disenroll%,DisenrollTarget,D-SNP_teamGain,MAPD_teamGain,MAP_teamGain
+2020-12-01,500,496,2,998,7,3,1,11,0.0,193.0,0.02,0,0,0,0
+2021-01-01,495,491,11,997,151,78,0,229,987.0,193.0,0.02,19,425,172,0
+2021-02-01,725,545,29,1299,139,28,4,171,1755.0,670.0,0.05,87,157,18,0
+2021-03-01,655,530,75,1260,63,22,2,87,2883.0,193.0,0.02,57,153,5,0
