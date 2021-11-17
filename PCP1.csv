@@ -1,217 +1,4 @@
 NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New Patients,category,Specialty,Site Name,Gender,Language
-1265595300,Sanjay Lodha,Queens,4572 Parsons Boulevard,Flushing,NY,11355,Y,PCP,Internal Medicine,,M,
-1265609127,Jean Herold Ancion,Queens,900 Franklin Avenue,Valley Stream,NY,11580,N,PCP,Internal Medicine,Long Island Jewish Valley Stream,M,
-1265609127,Jean Herold Ancion,Queens,900 Franklin Avenue,Valley Stream,NY,11580,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
-1265626816,Jaswinder Pal Singh,Nassau,2201 Hempstead Turnpike,East Meadow,NY,11554,Y,PCP,Internal Medicine,Nassau University Medical Center,M,
-1265641286,Paul Walter Beach Jr.,Bronx,1067 Ogden Avenue,Bronx,NY,10452,Y,PCP,Family Medicine,Ogden Dental Clinic,M,"French, Haitian-Creole, Spanish"
-1265641286,Paul Walter Beach Jr.,Bronx,1265 Franklin Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Martin Luther King Jr. Health Center,M,"French, Haitian-Creole, Spanish"
-1265641286,Paul Walter Beach Jr.,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Wellness Center,M,"French, Haitian-Creole, Spanish"
-1265641286,Paul Walter Beach Jr.,Bronx,1591 Fulton Avenue,Bronx,NY,10457,Y,PCP,Family Medicine,Crotona Park Family Practice,M,"French, Haitian-Creole, Spanish"
-1265641286,Paul Walter Beach Jr.,Bronx,1650 Grand Concourse,Bronx,NY,10457,Y,PCP,Family Medicine,BronxCare Inpatient,M,"French, Haitian-Creole, Spanish"
-1265641286,Paul Walter Beach Jr.,Bronx,1690 Bryant Avenue,Bronx,NY,10460,Y,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,M,"French, Haitian-Creole, Spanish"
-1265655575,Marcia Beth Pehr,Bronx,1154 East Tremont Avenue,Bronx,NY,10460,N,PCP,Family Medicine,"Audubon Primary Care Medicine, PLLC",F,Spanish
-1265655575,Marcia Beth Pehr,Bronx,1262 Boston Road,Bronx,NY,10456,N,PCP,Family Medicine,"Audubon Primary Care Medicine, PLLC",F,Spanish
-1265655575,Marcia Beth Pehr,New York,325 Audubon Avenue,New York,NY,10033,Y,PCP,Family Medicine,"Audubon Primary Care Medicine, PLLC",F,Spanish
-1265669832,Kathleen Davidson,New York,130 East 77th Street,New York,NY,10075,N,PCP,Adult Health - Nurse Practitioner,North Shore LIJ Medical PC,F,
-1265669832,Kathleen Davidson,Nassau,269-01 76th Avenue,New Hyde Park,NY,11040,N,PCP,Adult Health - Nurse Practitioner,North Shore LIJ Medical PC,F,
-1265669832,Kathleen Davidson,Nassau,300 Community Drive,Manhasset,NY,11030,N,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
-1265669832,Kathleen Davidson,Suffolk,301 East Main Street,Bay Shore,NY,11706,N,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
-1265687347,Jianlin Wu,Kings,839 58th Street,Brooklyn,NY,11220,Y,PCP,Internal Medicine,"Chinatown True Care Medical, PLLC aka RenDr Care Physicians",M,"Chinese - Cantonese, Chinese Mandarin"
-1265689608,Verna Lorraine Hamilton-Israel,Nassau,300 Community Drive,Manhasset,NY,11030,Y,PCP,Adult Health - Nurse Practitioner,North Shore LIJ Medical PC,F,
-1265690317,Gerin Rachel Stevens,Suffolk,205 South Ocean Avenue,Patchogue,NY,11772,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,
-1265690317,Gerin Rachel Stevens,Suffolk,39 Brentwood Road,Bay Shore,NY,11706,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,
-1265690317,Gerin Rachel Stevens,Suffolk,9 Brooksite Drive,Smithtown,NY,11787,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,
-1265690317,Gerin Rachel Stevens,Suffolk,951 Roanoke Avenue,Riverhead,NY,11901,Y,PCP,Internal Medicine,"Peconic Cardiology, PC",F,
-1265691042,Karen Anna Abrashkin,Nassau,1983 Marcus Avenue,New Hyde Park,NY,11040,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,
-1265694020,Rubina Akhter,Bronx,1825 Eastchester Road,Bronx,NY,10461,N,PCP,Internal Medicine,MMC Einstein Division,F,
-1265729792,Erin Goss,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Internal Medicine,Montefiore Medical Center,F,
-1265729792,Erin Goss,Bronx,305 East 161st Street,Bronx,NY,10451,Y,PCP,Internal Medicine,MMC CHCC,F,
-1265729792,Erin Goss,Bronx,3444 Kossuth Avenue,Bronx,NY,10467,N,PCP,Internal Medicine,MMC Family Care Center,F,
-1265734297,Kerry Morrone,Bronx,1250 Waters Place,Bronx,NY,10461,N,PCP,Pediatrics,MMC at 1250 Waters Place,F,
-1265734297,Kerry Morrone,Bronx,3415 Bainbridge Avenue,Bronx,NY,10467,N,PCP,Pediatrics,MMC CHAM,F,
-1265734297,Kerry Morrone,Bronx,600 East 233rd Street,Bronx,NY,10466,N,PCP,Pediatrics,Montefiore Wakefield Campus,F,
-1265741292,Sandra D Shivamber,Nassau,850 Hicksville Road,Seaford,NY,11783,N,PCP,Family Health - Nurse Practitioner,Sandra D  Shivamber  NP,F,
-1265749550,Jingbo Zhao,Queens,4316 215th Street,Bayside,NY,11361,Y,PCP,Internal Medicine,"Harbin Medical Care, PLLC",M,Chinese Mandarin
-1265751002,Simon Li,Kings,755-759 61st Street,Brooklyn,NY,11220,Y,PCP,Family Medicine,,M,"Chinese - Cantonese, Chinese Mandarin"
-1265751002,Simon Li,Kings,8510 19th Avenue,Brooklyn,NY,11214,Y,PCP,Family Medicine,Simon Li Medical PLLC,M,Chinese Mandarin
-1265751721,Nancy Lalanne-Brutus,Bronx,1371 Seabury Avenue,Bronx,NY,10461,N,PCP,Family Health - Nurse Practitioner,"House Call Medical Services of New York, PLLC",M,Haitian-Creole
-1265751721,Nancy Lalanne-Brutus,Bronx,2015 Grand Concourse,Bronx,NY,10453,Y,PCP,Family Health - Nurse Practitioner,"Essen Medical Associates, PC",M,Spanish
-1265751929,Anna Iris Foskin,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,N,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,Spanish
-1265758981,Kaushal Bharat Shah,Suffolk,301 East Main Street,Bay Shore,NY,11706,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,Gurjarati
-1265770085,Vahe Sis Shahnazarian,Richmond,355 Bard Avenue,Staten Island,NY,10310,Y,PCP,Internal Medicine,"Amboy Medical Practice, PC",M,
-1265770085,Vahe Sis Shahnazarian,Richmond,800 Castleton Avenue,Staten Island,NY,10310,Y,PCP,Internal Medicine,"Amboy Medical Practice, PC",M,
-1265775167,Samuel Rednor,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Internal Medicine,Montefiore Medical Center,M,
-1265792527,Daniel Riegel,Queens,149-16 80th Street,Howard Beach,NY,11414,Y,PCP,Internal Medicine,,M,
-1265792527,Daniel Riegel,Queens,8223 153rd Avenue,Howard Beach,NY,11414,Y,PCP,Internal Medicine,,M,
-1265793822,Ijeoma Oguagha,Queens,111-20 Merrick Boulevard,St. Albans,NY,11433,Y,PCP,Pediatrics,Medisys Family Care Center,F,Igbo
-1265801609,Margaret Patricia Boyd,Nassau,300 Community Drive,Manhasset,NY,11030,N,PCP,Adult Health - Nurse Practitioner,"Priatharsini Sriganesh, MD",F,
-1265812689,Neeharika Kasuganti,New York,332 East 14th Street,New York,NY,10003,Y,PCP,Internal Medicine,NYU Cardiology Associates,F,
-1265812689,Neeharika Kasuganti,New York,912 Columbus Avenue,New York,NY,10025,Y,PCP,Internal Medicine,,F,
-1265824684,Danielle Marie Carroll,Queens,133-03 Jamaica Avenue,Richmond Hill,NY,11418,Y,PCP,Family Medicine,Medisys Family Practice Center,F,
-1265824684,Danielle Marie Carroll,Queens,9120 Atlantic Avenue,Ozone Park,NY,11416,Y,PCP,Family Medicine,"TJH Medical Services, P.C.",F,
-1265825970,Andrea Ciano,Kings,1167 Nostrand Avenue,Brooklyn,NY,11225,Y,PCP,Family Medicine,Crown Heights Health Center,F,
-1265825970,Andrea Ciano,Queens,150 Essex Street,New York,NY,10002,Y,PCP,Family Medicine,Lower East Side Health Center,F,
-1265825970,Andrea Ciano,Kings,2581 Atlantic Avenue,Brooklyn,NY,11207,Y,PCP,Family Medicine,East New York Hub Health Center,F,
-1265825970,Andrea Ciano,Queens,3611 21st Street,Long Island City,NY,11106,Y,PCP,Family Medicine,Sutphin Boulevard Health Center,F,
-1265825970,Andrea Ciano,Bronx,4215 3rd Avenue,Bronx,NY,10457,Y,PCP,Family Medicine,Tremont Health Center,F,
-1265825970,Andrea Ciano,New York,511 West 157th Street,New York,NY,10032,Y,PCP,Family Medicine,Washington Heights Health Center,F,
-1265825970,Andrea Ciano,New York,81 West 115th Street,New York,NY,10026,Y,PCP,Family Medicine,Harlem Health Center,F,
-1265825970,Andrea Ciano,Queens,9004 161st Street,Jamaica,NY,11432,Y,PCP,Family Medicine,South Bronx Health Center,F,
-1265825970,Andrea Ciano,Kings,9498 Manhattan Avenue,Brooklyn,NY,11206,Y,PCP,Family Medicine,Williamsburg Health Center,F,
-1265825970,Andrea Ciano,Queens,9704 Sutphin Boulevard,Jamaica,NY,11435,Y,PCP,Family Medicine,Sutphin Boulevard Health Center,F,
-1265825970,Andrea Ciano,Bronx,975 Westchester Avenue,Bronx,NY,10459,Y,PCP,Family Medicine,Tremont Health Center,F,
-1265825970,Andrea Ciano,Kings,999 Blake Avenue,Brooklyn,NY,11208,Y,PCP,Family Medicine,Long Island City Health Center,F,
-1265844195,Blessey Mary Joseph,Nassau,1575 Hillside Avenue,New Hyde Park,NY,11040,Y,PCP,Internal Medicine,"Queens Nassau Cardiology, PC",F,"Hindi, Malayalam, Tamil"
-1265851604,Najia Dar,New York,121A West 20th Street,New York,NY,10011,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,Urdu
-1265851604,Najia Dar,Nassau,221 Jericho Turnpike,Syosset,NY,11791,Y,PCP,Internal Medicine,North Shore LIJ Medical PC,F,Urdu
-1265851604,Najia Dar,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,Urdu
-1265851604,Najia Dar,Nassau,300 Community Drive,Manhasset,NY,11030,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,Urdu
-1265851604,Najia Dar,Nassau,865 Northern Boulevard,Great Neck,NY,11021,Y,PCP,Internal Medicine,North Shore LIJ Medical PC,F,Urdu
-1265852628,Conor M Parks,Nassau,888 Old Country Road,Plainview,NY,11803,N,PCP,Family Medicine,North Shore-LIJ Medical PC,M,
-1265864409,Sandra Aleksic,Bronx,1225 Morris Park Avenue,Bronx,NY,10461,Y,PCP,Internal Medicine,Rose F. Kennedy Center,F,
-1265871008,Courtney McNamara,Bronx,1825 Eastchester Road,Bronx,NY,10461,Y,PCP,Pediatrics,Montefiore Medical Center,F,
-1265871008,Courtney McNamara,Bronx,3415 Bainbridge Avenue,Bronx,NY,10467,N,PCP,Pediatrics,MMC CHAM,F,
-1265881213,Gerard M Casale,Kings,4802 10th Avenue,Brooklyn,NY,11219,N,PCP,Internal Medicine,,M,Spanish
-1265881213,Gerard M Casale,Kings,4802 10th Avenue,Brooklyn,NY,11219,N,PCP,Internal Medicine,,M,Spanish
-1265881213,Gerard M Casale,Kings,948 48th Street,Brooklyn,NY,11219,N,PCP,Internal Medicine,,M,Spanish
-1265881213,Gerard M Casale,Kings,948 48th Street,Brooklyn,NY,11219,N,PCP,Internal Medicine,,M,Spanish
-1265895890,Raj Bharat Patel,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
-1265895890,Raj Bharat Patel,Nassau,300 Community Drive,Manhasset,NY,11030,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
-1265895890,Raj Bharat Patel,Queens,7559 263rd Street,Glen Oaks,NY,11004,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
-1265916779,Kristina Tzortzis,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,Y,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC ,F,
-1265920821,Heloisa DeCarvalho,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Internal Medicine,Montefiore Medical Center,F,
-1265920821,Heloisa DeCarvalho,Bronx,1825 Eastchester Road,Bronx,NY,10461,N,PCP,Internal Medicine,MMC Einstein Division,F,
-1265920821,Heloisa DeCarvalho,Bronx,600 East 233rd Street,Bronx,NY,10466,N,PCP,Internal Medicine,Montefiore Medical Center,F,
-1265931497,Riggi Mariamma Wilsant,Richmond,375 Seguine Avenue,Staten Island,NY,10309,Y,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
-1265941967,Denise Angelique Perez,Bronx,1550 University Avenue,Bronx,NY,10452,Y,PCP,Family Health - Nurse Practitioner,"Essen Medical Associates, PC",F,Spanish
-1265941967,Denise Angelique Perez,Bronx,1990 McGraw Avenue,Bronx,NY,10462,Y,PCP,Family Health - Nurse Practitioner,"Essen Medical Associates, PC",F,Spanish
-1265941967,Denise Angelique Perez,Bronx,2722 White Plains Road,Bronx,NY,10467,Y,PCP,Family Health - Nurse Practitioner,"Essen Medical Associates, PC",F,Spanish
-1265946230,Brittany Elizabeth Ring,New York,100 East 77th Street,New York,NY,10075,N,PCP,Family Health - Nurse Practitioner,Lenox Hill Hospital,F,
-1265946230,Brittany Elizabeth Ring,New York,130 East 77th Street,New York,NY,10075,Y,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
-1265946230,Brittany Elizabeth Ring,New York,200 West 13th Street,New York,NY,10011,Y,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
-1265965909,Pouyan Namakydoust,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Internal Medicine,Montefiore Medical Center,M,
-1265965909,Pouyan Namakydoust,Bronx,1825 Eastchester Road,Bronx,NY,10461,N,PCP,Internal Medicine,Montefiore Medical Center,M,
-1265965909,Pouyan Namakydoust,Bronx,600 East 233rd Street,Bronx,NY,10466,N,PCP,Internal Medicine,Montefiore Medical Center,M,
-1265966329,Carolina Miranda,Bronx,853 Longwood Avenue,Bronx,NY,10459,N,PCP,Family Medicine,MMC CHP Practice,F,
-1265966329,Carolina Miranda,Bronx,871 Prospect Avenue,Bronx,NY,10459,N,PCP,Family Medicine,MMC South Bronx Children and Families,F,
-1265966329,Carolina Miranda,Bronx,890 Prospect Avenue,Bronx,NY,10459,Y,PCP,Family Medicine,MMC South Bronx at 890,F,
-1275045312,Miziel Gulapa Remolona,Bronx,1371 Seabury Avenue,Bronx,NY,10461,N,PCP,Family Health - Nurse Practitioner,"House Call Medical Services of New York, PLLC",F,Filipino
-1275045312,Miziel Gulapa Remolona,Bronx,2015 Grand Concourse,Bronx,NY,10453,Y,PCP,Family Health - Nurse Practitioner,"Essen Medical Associates, PC",F,"Filipino, Spanish"
-1275045395,Danica Noel-Sylvester,Queens,207-01 116th Avenue,Cambria Heights,NY,11411,N,PCP,Family Health - Nurse Practitioner,"TJH Medical Services, P.C.",F,
-1275045593,Amelia Renee Hinkleman,Kings,186 Joralemon Street,Brooklyn,NY,11201,N,PCP,Adult Health - Nurse Practitioner,NYU Radiology Associates,F,
-1275045593,Amelia Renee Hinkleman,Kings,47 Plaza Street West,Brooklyn,NY,11217,N,PCP,Adult Health - Nurse Practitioner,NYU Langone Brooklyn Cardiology Associates - Park Slope,F,
-1275064867,Taranjit Arneja,Suffolk,3001 Expressway Drive North,Islandia,NY,11749,Y,PCP,Family Medicine,North Shore-LIJ Medical PC,M,
-1275185357,Sarah R Shapiro,Nassau,110 Main Street,Port Washington,NY,11050,Y,PCP,Gerontology - Nurse Practitioner,North Shore LIJ Medical PC,F,
-1275502593,Michael Jay Rothstein,New York,55 East 124th Street,New York,NY,10035,Y,PCP,Family Health - Nurse Practitioner,,M,
-1275521759,Patricia Joanna Fredette-Huffman,Queens,8900 Van Wyck Expressway,Jamaica,NY,11418,N,PCP,Family Medicine,"TJH Medical Services, PC",F,
-1275525040,Harlee Ann Fried,Orange,16 Front Street,Port Jervis,NY,12771,Y,PCP,Family Medicine,,F,
-1275525040,Harlee Ann Fried,Orange,28 Rykowski Lane,Middletown,NY,10941,Y,PCP,Family Medicine,,F,
-1275525446,Steven Mark Kobren,Nassau,488 Great Neck Road,Great Neck,NY,11021,Y,PCP,Internal Medicine,NYU Langone Great Neck Medical,M,
-1275527798,Vincent James Calamia,Richmond,375 Seguine Avenue,Staten Island,NY,10309,N,PCP,Internal Medicine,North Shore LIJ Medical PC,M,
-1275527798,Vincent James Calamia,Richmond,4106 Hylan Boulevard,Staten Island,NY,10308,N,PCP,Internal Medicine,"PHYSICIANS OF UNIVERSITY HOSPITAL, PC",M,
-1275527798,Vincent James Calamia,Richmond,475 Seaview Avenue,Staten Island,NY,10305,N,PCP,Internal Medicine,North Shore LIJ Medical PC,M,
-1275527798,Vincent James Calamia,Richmond,500 Seaview Avenue,Staten Island,NY,10305,N,PCP,Internal Medicine,North Shore LIJ Medical PC,M,
-1275528598,Moro O. Salifu,Kings,3839 Flatlands Avenue,Brooklyn,NY,11234,Y,PCP,Internal Medicine,,M,
-1275531931,Arunakumari Penumadu,Queens,3027 30th Street,Astoria,NY,11102,Y,PCP,Internal Medicine,Arunakumari Penumadu,F,
-1275558157,Rogelio Martinez Co,Suffolk,284 Pulaski Road,Greenlawn,NY,11740,Y,PCP,Internal Medicine,Huntington Hospital - Dolan Family Health Center,M,Filipino
-1275562415,Mohammad Saif,Nassau,672 Broadway,Massapequa,NY,11758,Y,PCP,Internal Medicine,,M,
-1275562456,Adrianne Mellos,Nassau,1155 Northern Boulevard,Manhasset,NY,11030,Y,PCP,Internal Medicine,NYU Langone Cardiovascular Associates,F,
-1275562456,Adrianne Mellos,Queens,2318 31st Street,Astoria,NY,11105,Y,PCP,Internal Medicine,NYU Langone Cardiovascular Associates,F,
-1275562456,Adrianne Mellos,Queens,5645 Main Street,Flushing,NY,11355,Y,PCP,Internal Medicine,North Shore LIJ Medical PC,F,
-1275573990,Alice Kit-Wah Lee,Queens,136-30 Maple Avenue,Flushing,NY,11355,Y,PCP,Internal Medicine,"Alice K. Lee, MD",F,"Chinese - Cantonese, Chinese Mandarin"
-1275573990,Alice Kit-Wah Lee,Nassau,2201 Hempstead Turnpike,East Meadow,NY,11554,N,PCP,Internal Medicine,,F,
-1275579443,Stuart Moser,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Internal Medicine,Montefiore Medical Center,M,
-1275584138,Shye S. Wortman,Richmond,2315 Victory Boulevard,Staten Island,NY,10314,Y,PCP,Internal Medicine,Icahn School of Medicine at Mount Sinai,M,
-1275584138,Shye S. Wortman,Richmond,4982 Hylan Boulevard,Staten Island,NY,10312,Y,PCP,Internal Medicine,Icahn School of Medicine at Mount Sinai,M,
-1275586182,Boris Serebryansky,Nassau,91A Carman Avenue,Cedarhurst,NY,11516,Y,PCP,Internal Medicine,"Boris Serebryansky, M.D., P.C.",M,Russian
-1275586687,Eli Inzlicht-Sprei,Kings,1041 East 8rd Street,Brooklyn,NY,11230,Y,PCP,Internal Medicine,Network Solutions IPA,M,"German, Hebrew, Yiddish"
-1275586687,Eli Inzlicht-Sprei,Queens,119-09 26th Avenue,Flushing,NY,11354,Y,PCP,Internal Medicine,Woodcrest,M,
-1275586687,Eli Inzlicht-Sprei,Queens,140 Beach 119th Street,Bell Harbor,NY,11694,Y,PCP,Internal Medicine,Network Solutions IPA,M,"German, Hebrew, Yiddish"
-1275586687,Eli Inzlicht-Sprei,Kings,1573 East 22nd Street,Brooklyn,NY,11210,Y,PCP,Internal Medicine,Network Solutions IPA,M,"German, Hebrew, Polish"
-1275586687,Eli Inzlicht-Sprei,Kings,620 Foster Avenue,Brooklyn,NY,11230,Y,PCP,Internal Medicine,,M,
-1275588022,Yashodhara Sanjay Kirtane,Queens,115-06 Beach Channel Drive,Rockaway Park,NY,11694,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,Hindi
-1275588022,Yashodhara Sanjay Kirtane,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,N,PCP,Internal Medicine,North Shore LIJ Medical PC,F,Hindi
-1275595787,Thomas Zong-Xun Lyo,Westchester,131 Park Avenue,Yonkers,NY,10703,Y,PCP,Internal Medicine,"Thomas Lyo Medical, PC",M,"Burmese, Chinese Mandarin"
-1275595787,Thomas Zong-Xun Lyo,Queens,139-87 35th Avenue,Flushing,NY,11354,Y,PCP,Internal Medicine,"Thomas Lyo Medical, PC",M,"Burmese, Chinese Mandarin"
-1275595787,Thomas Zong-Xun Lyo,Westchester,421 Huguenot Street,New Rochelle,NY,10801,Y,PCP,Internal Medicine,"Thomas Lyo Medical, PC",M,"Burmese, Chinese Mandarin"
-1275598575,Hue Tu Ly,Nassau,2001 Marcus Avenue,New Hyde Park,NY,11042,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,"Chinese Mandarin, Vietnamese"
-1275602096,Papanna Ravichandra,New York,120 East 36th Street,New York,NY,10016,Y,PCP,Internal Medicine,Arjun Medical Group PC,M,
-1275602963,Olusegun Olumuyiwa Ogunfowora,Kings,215 Rockaway Avenue,Brooklyn,NY,11233,Y,PCP,Internal Medicine,Multiviz Medical Services PC,M,Yoruba
-1275602963,Olusegun Olumuyiwa Ogunfowora,Queens,529 Beach 20th Street,Far Rockaway,NY,11691,Y,PCP,Internal Medicine,Multiviz Medical Services PC,M,Yoruba
-1275602963,Olusegun Olumuyiwa Ogunfowora,Nassau,80 North Franklin Street,Hempstead,NY,11550,Y,PCP,Internal Medicine,Multiviz Medical Services PC,M,Yoruba
-1275603250,Sergey V. Lugina,Kings,3049 Brighton 6th Street,Brooklyn,NY,11235,Y,PCP,Family Medicine,Executive Medical Care PC,M,
-1275611790,Muhammad Tahir,Kings,153 4th Avenue,Brooklyn,NY,11217,Y,PCP,Family Medicine,Network Solutions IPA,M,Urdu
-1275615551,Marcus Everest Riccioni,Kings,4802 10th Avenue,Brooklyn,NY,11219,Y,PCP,Family Medicine,MMC Emergency Physicians FPP,M,
-1275619892,Mark Tang,Nassau,221 Jericho Turnpike,Syosset,NY,11791,N,PCP,Family Medicine,North Shore-LIJ Medical PC ,M,
-1275619892,Mark Tang,Suffolk,270 Park Avenue,Huntington,NY,11743,N,PCP,Family Medicine,North Shore-LIJ Medical PC  ,M,
-1275619892,Mark Tang,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,N,PCP,Family Medicine,North Shore-LIJ Medical PC ,M,
-1275619892,Mark Tang,Nassau,300 Community Drive,Manhasset,NY,11030,N,PCP,Family Medicine,North Shore-LIJ Medical PC,M,
-1275619892,Mark Tang,Suffolk,301 East Main Street,Bay Shore,NY,11706,N,PCP,Family Medicine,North Shore-LIJ Medical PC ,M,
-1275619892,Mark Tang,Nassau,4300 Hempstead Turnpike,Bethpage,NY,11714,N,PCP,Family Medicine,North Shore-LIJ Medical PC,M,
-1275619892,Mark Tang,Westchester,701 North Broadway,Sleepy Hollow,NY,10591,Y,PCP,Family Medicine,North Shore-LIJ Medical PC ,M,
-1275619892,Mark Tang,Nassau,888 Old Country Road,Plainview,NY,11803,Y,PCP,Family Medicine,North Shore-LIJ Medical PC,M,
-1275619892,Mark Tang,Queens,900 Franklin Avenue,Valley Stream,NY,11580,Y,PCP,Family Medicine,North Shore-LIJ Medical PC,M,
-1275619892,Mark Tang,Queens,9525 Queens Boulevard,Rego Park,NY,11374,Y,PCP,Family Medicine,North Shore-LIJ Medical PC,M,
-1275631145,Emil Silberman,Queens,8900 Van Wyck Expressway,Jamaica,NY,11418,Y,PCP,Internal Medicine,Jamaica Hospital Medical Center,M,
-1275634651,Mark Harold Swartz,New York,55 East 124th Street,New York,NY,10035,Y,PCP,Internal Medicine,,M,
-1275639502,Benjamin Zibin Wu,Kings,730 60th Street,Brooklyn,NY,11220,Y,PCP,Family Medicine,"Benjamin Z. Wu, MD, PC",M,"Chinese - Cantonese, Chinese Mandarin"
-1275639502,Benjamin Zibin Wu,Kings,730 60th Street,Brooklyn,NY,11220,Y,PCP,Family Medicine,"Benjamin Z. Wu, MD, PC",M,"Chinese - Cantonese, Chinese Mandarin, Mandarin"
-1275647166,Robert Edward Fogel,Nassau,896 North Broadway,Massapequa,NY,11758,Y,PCP,Internal Medicine,Robert E Fogel  MD,M,
-1275650640,Sean Robert Wilson,Nassau,300 Community Drive,Manhasset,NY,11030,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
-1275657058,Naomi Smidt-Afek,Bronx,3011 Boston Road,Bronx,NY,10469,N,PCP,Family Medicine,MMC Williamsbridge Practice,F,
-1275657058,Naomi Smidt-Afek,Westchester,4401 Bronx Boulevard,Bronx,NY,10470,N,PCP,Family Medicine,MMC North Mental Health Clinic,F,
-1275657058,Naomi Smidt-Afek,New York,5525 Broadway,Bronx,NY,10463,N,PCP,Family Medicine,MMC Marble Hill Practice,F,
-1275693319,Grace Chia-Jong Lee,Nassau,300 Community Drive,Manhasset,NY,11030,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,
-1275693319,Grace Chia-Jong Lee,Nassau,865 Northern Boulevard,Great Neck,NY,11021,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,
-1275715153,Shakeel Ahmad Usmani,Kings,464 Bay Ridge Avenue,Brooklyn,NY,11220,Y,PCP,Internal Medicine,"RJ Medical & Urgent Care, PLLC",M,"Hindi, Urdu"
-1275728818,Laura Beth Czulada,Kings,1 Brookdale Plaza,Brooklyn,NY,11212,Y,PCP,Pediatrics,Brookdale Hospital Medical Center,F,
-1275763112,Okechukwu Christopher Igwe,Bronx,1550 University Avenue,Bronx,NY,10452,Y,PCP,Internal Medicine,"Essen Medical Associates, PC",M,"Igbo, Spanish"
-1275763112,Okechukwu Christopher Igwe,Bronx,2015 Grand Concourse,Bronx,NY,10453,Y,PCP,Internal Medicine,"Essen Medical Associates, PC",M,"Igbo, Spanish"
-1275776650,Irina Kimyagarova,Queens,111-29 Queens Boulevard,Forest Hills,NY,11375,Y,PCP,Family Medicine,Medex Diagnostic and Treatment center LLC,F,Russian
-1275787624,Gerald Thomas Field,Nassau,400 Community Drive,Manhasset,NY,11030,Y,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,M,
-1275800864,Reena J Patel,Queens,7846 Parson Boulevard,Flushing,NY,11366,Y,PCP,Internal Medicine,Network Solutions IPA,F,"Gurjarati, Hindi, Spanish"
-1275817827,Akshai Krishna Bhandary,New York,100 East 77th Street,New York,NY,10075,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
-1275819104,Joel Bumol,Bronx,1 Fordham Plaza,Bronx,NY,10458,N,PCP,Family Medicine,MMC Family Health Center,M,
-1275819104,Joel Bumol,Bronx,3011 Boston Road,Bronx,NY,10469,Y,PCP,Family Medicine,MMC Williamsbridge Practice,M,
-1275820078,Norah E Li,Bronx,100 West Mosholu Parkway South,Bronx,NY,10468,Y,PCP,Pediatrics,MMC at Dewitt Clinton School,F,
-1275820078,Norah E Li,Bronx,1000 Teller Avenue,Bronx,NY,10456,Y,PCP,Pediatrics,MMC at MS 145,F,
-1275820078,Norah E Li,Bronx,1110 Boston Road,Bronx,NY,10456,Y,PCP,Pediatrics,MMC at Morris Campus,F,
-1275820078,Norah E Li,Bronx,1180 Tinton Avenue,Bronx,NY,10456,Y,PCP,Pediatrics,MMC at PS 198,F,
-1275820078,Norah E Li,Bronx,1449 Shakespeare Avenue,Bronx,NY,10452,Y,PCP,Pediatrics,P.S. 199,F,
-1275820078,Norah E Li,Bronx,1501 Jerome Avenue,Bronx,NY,10452,Y,PCP,Pediatrics,Montefiore at New Settlement,F,
-1275820078,Norah E Li,Bronx,1600 Webster Avenue,Bronx,NY,10457,Y,PCP,Pediatrics,P.S. 147,F,
-1275820078,Norah E Li,Bronx,1861 Anthony Avenue,Bronx,NY,10457,Y,PCP,Pediatrics,Montefiore at CES 28/ PS 28,F,
-1275820078,Norah E Li,Bronx,1980 Lafayette Avenue,Bronx,NY,10473,Y,PCP,Pediatrics,Adlai E. Stevenson High School,F,
-1275820078,Norah E Li,Bronx,240 East 172nd Street,Bronx,NY,10457,Y,PCP,Pediatrics,MMC at Taft,F,
-1275820078,Norah E Li,Bronx,2400 Marion Avenue,Bronx,NY,10458,Y,PCP,Pediatrics,MMC at PS 85,F,
-1275820078,Norah E Li,Bronx,250 Thurman Munson Way,Bronx,NY,10451,Y,PCP,Pediatrics,JHS 151/KIPP Academy HS,F,
-1275820078,Norah E Li,Bronx,2502 Lorillard Place,Bronx,NY,10458,Y,PCP,Pediatrics,MMC at IS 45,F,
-1275820078,Norah E Li,Bronx,2780 Reservoir Avenue,Bronx,NY,10468,Y,PCP,Pediatrics,MMC at Walton High School,F,
-1275820078,Norah E Li,Bronx,3010 Briggs Avenue,Bronx,NY,10458,Y,PCP,Pediatrics,MMC at PS8,F,
-1275820078,Norah E Li,Bronx,3750 Baychester Avenue,Bronx,NY,10466,Y,PCP,Pediatrics,MMC at MS142/John Phillip Sousa,F,
-1275820078,Norah E Li,New York,3961 Hillman Avenue,Bronx,NY,10463,Y,PCP,Pediatrics,MMC at PS 95,F,
-1275820078,Norah E Li,Bronx,450 Saint Pauls Place,Bronx,NY,10456,Y,PCP,Pediatrics,MMC at PS 55,F,
-1275820078,Norah E Li,Bronx,456 White Plains Road,Bronx,NY,10473,N,PCP,Pediatrics,MMC at MS 174,F,
-1275820078,Norah E Li,Bronx,502 Morris Avenue,Bronx,NY,10451,Y,PCP,Pediatrics,MMC at PS 18,F,
-1275820078,Norah E Li,Bronx,701 Saint Anns Avenue,Bronx,NY,10455,Y,PCP,Pediatrics,MMC at South Bronx High School,F,
-1275820078,Norah E Li,Bronx,730 Concourse Village West,Bronx,NY,10451,Y,PCP,Pediatrics,MMC at Mott Haven School,F,
-1275820078,Norah E Li,Bronx,977 Fox Street,Bronx,NY,10459,Y,PCP,Pediatrics,MMC at IS 216 and 217/Rafael Herndez Middle School,F,
-1275832677,Shivani Verma,Kings,2316 Nostrand Avenue,Brooklyn,NY,11210,Y,PCP,Internal Medicine,,F,Spanish
-1275832677,Shivani Verma,Kings,4802 10th Avenue,Brooklyn,NY,11219,Y,PCP,Internal Medicine,Maimonides Cardiology FPP,F,
-1275832677,Shivani Verma,Kings,6010 Bay Parkway,Brooklyn,NY,11204,N,PCP,Internal Medicine,,F,Hindi
-1275832677,Shivani Verma,Kings,6323 7th Avenue,Brooklyn,NY,11220,Y,PCP,Internal Medicine,Maimonides Faculty Practice Plan,F,Hindi
-1275832677,Shivani Verma,Kings,648 Bay Ridge Parkway,Brooklyn,NY,11209,N,PCP,Internal Medicine,,F,Hindi
-1275832677,Shivani Verma,Kings,848 49th Street,Brooklyn,NY,11220,Y,PCP,Internal Medicine,Maimonides Cardiology FPP,F,
-1275832677,Shivani Verma,Kings,9020 5th Avenue,Brooklyn,NY,11209,Y,PCP,Internal Medicine,,F,
-1275836058,Marykutty Jacob,Suffolk,1267 East Main Street,Riverhead,NY,11901,N,PCP,Adult Health - Nurse Practitioner,North Shore LIJ Medical PC,F,Malayalam
-1275836058,Marykutty Jacob,Nassau,1554 Northern Boulevard,Manhasset,NY,11030,N,PCP,Adult Health - Nurse Practitioner,North Shore LIJ Medical PC,F,Malayalam
-1275836058,Marykutty Jacob,Suffolk,200 Motor Parkway,Hauppauge,NY,11788,N,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,Malayalam
-1275836058,Marykutty Jacob,Suffolk,222 Middle Country Road,Smithtown,NY,11787,N,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,Malayalam
-1275836058,Marykutty Jacob,Suffolk,284 Pulaski Road,Greenlawn,NY,11740,N,PCP,Adult Health - Nurse Practitioner,North Shore LIJ Medical PC,F,Malayalam
-1275836058,Marykutty Jacob,Nassau,300 Community Drive,Manhasset,NY,11030,N,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,Malayalam
-1275836058,Marykutty Jacob,Nassau,450 Lakeville Road,New Hyde Park,NY,11042,N,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,Malayalam
-1275837080,Khurram Shahzad Awan,Queens,2552 Steinway Street,Astoria,NY,11103,Y,PCP,Family Medicine,,M,
-1275847592,Shawna Andrade,Queens,8900 Van Wyck Expressway,Jamaica,NY,11418,N,PCP,Family Health - Nurse Practitioner,Jamaica Hospital Medical Center,F,
 1982717237,Marina Podval,Queens,4332 Kissena Boulevard,Flushing,NY,11355,Y,PCP,Internal Medicine,"Marina Amitina, MD",F,
 1982717237,Marina Podval,Kings,68 Avenue O,Brooklyn,NY,11204,Y,PCP,Internal Medicine,,F,
 1295723922,Amir Yazdani,Richmond,191 Bradley Avenue,Staten Island,NY,10314,Y,PCP,Internal Medicine,Island Nephrology Services PC,M,
@@ -379,6 +166,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1003902065,Jay Stuart Weinstein,Nassau,300 Community Drive,Manhasset,NY,11030,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
 1003902065,Jay Stuart Weinstein,Suffolk,504 Bayberry Walk,Ocean Beach,NY,11770,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
 1003902065,Jay Stuart Weinstein,New York,927 Park Avenue,New York,NY,10028,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
+1003911033,Svetlana Fuzaylova,Kings,3500 Nostrand Avenue,Brooklyn,NY,11229,Y,PCP,Internal Medicine,"Healthquest Health Center, LLC",F,
 1003912809,Arthur Michael Marush,Kings,2270 Kimball Street,Brooklyn,NY,11234,Y,PCP,Internal Medicine,,M,
 1003912809,Arthur Michael Marush,Kings,6410 Veterans Avenue,Brooklyn,NY,11234,Y,PCP,Internal Medicine,,M,
 1003914573,Bradley K Adler,Westchester,600 Mamaroneck Avenue,Harrison,NY,10528,Y,PCP,Internal Medicine,Scarsdale Medical Group (600 Mamaroneck),M,
@@ -449,12 +237,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1013036532,Yvonne Cruz,Bronx,2432 Grand Concourse,Bronx,NY,10458,Y,PCP,Internal Medicine,The Pediatric Sub-Speciality Center,F,Spanish
 1013036532,Yvonne Cruz,Bronx,2739-2745 3rd Avenue,Bronx,NY,10451,Y,PCP,Internal Medicine,BRONXCARE HEALTH SYSTEM,F,Spanish
 1013037738,Cristina Gonzalez,Bronx,1825 Eastchester Road,Bronx,NY,10461,N,PCP,Internal Medicine,MMC Einstein Division,F,Spanish
-1013040906,Robert Allen Silverman,Queens,102-01 66th Road,Forest Hills,NY,11375,N,PCP,Internal Medicine,North Shore-LIJ Medical PC ,M,
-1013040906,Robert Allen Silverman,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,N,PCP,Internal Medicine,North Shore-LIJ Medical PC ,M,
-1013040906,Robert Allen Silverman,Nassau,300 Community Drive,Manhasset,NY,11030,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
-1013040906,Robert Allen Silverman,Nassau,4300 Hempstead Turnpike,Bethpage,NY,11714,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
-1013040906,Robert Allen Silverman,Queens,900 Franklin Avenue,Valley Stream,NY,11580,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
-1013040906,Robert Allen Silverman,Queens,9525 Queens Boulevard,Rego Park,NY,11374,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
 1013057991,Gerard Francis Sykes,Bronx,2175 Westchester Avenue,Bronx,NY,10462,N,PCP,Internal Medicine,MMC Castle Hill Practice,M,
 1013057991,Gerard Francis Sykes,New York,3510 Johnson Avenue,Bronx,NY,10463,Y,PCP,Internal Medicine,MMC Johnson Avenue Practice,M,
 1013057991,Gerard Francis Sykes,New York,5525 Broadway,Bronx,NY,10463,Y,PCP,Internal Medicine,MMC Marble Hill Practice,M,
@@ -622,7 +404,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1023197233,Jana Marketa Galan,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,Y,PCP,Family Medicine,North Shore LIJ Medical PC,F,
 1023197233,Jana Marketa Galan,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,Y,PCP,Family Medicine,Long Island Jewish Medical Center,F,
 1023197233,Jana Marketa Galan,Nassau,300 Community Drive,Manhasset,NY,11030,Y,PCP,Family Medicine,TJH Medical Services PC,F,
-1023198801,Adenike Aderonke Adeyemo,Bronx,3108 3rd Avenue,Bronx,NY,10451,Y,PCP,Internal Medicine,,F,
 1023202447,Edward Mack Epstein,Kings,140 Saint Edwards Street,Brooklyn,NY,11201,Y,PCP,Internal Medicine,Island Nephrology Services PC,M,
 1023202447,Edward Mack Epstein,Richmond,470 Seaview Avenue,Staten Island,NY,10305,Y,PCP,Internal Medicine,Island Nephrology Services PC,M,
 1023208386,Vladimir Lekht,Kings,1659 78th Street,Brooklyn,NY,11214,Y,PCP,Internal Medicine,,M,
@@ -695,7 +476,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1023583762,Deborah Beauplan,Suffolk,301 East Main Street,Bay Shore,NY,11706,Y,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
 1023625639,Anisa P Nervais,Bronx,1371 Seabury Avenue,Bronx,NY,10461,N,PCP,Family Health - Nurse Practitioner,"House Call Medical Services of New York, PLLC",F,French
 1023625639,Anisa P Nervais,Bronx,2015 Grand Concourse,Bronx,NY,10453,Y,PCP,Family Health - Nurse Practitioner,"Essen Medical Associates, PC",F,French
-1023661188,Chabidou Sampain,Bronx,1371 Seabury Avenue,Bronx,NY,10461,N,PCP,Family Health - Nurse Practitioner,"House Call Medical Services of New York, PLLC",F,Haitian-Creole
 1033104419,Martin Siu-Fung Loy,Richmond,11 Ralph Place,Staten Island,NY,10304,Y,PCP,Internal Medicine,"PHYSICIANS OF UNIVERSITY HOSPITAL, PC",M,
 1033104419,Martin Siu-Fung Loy,Richmond,375 Seguine Avenue,Staten Island,NY,10309,Y,PCP,Internal Medicine,"PHYSICIANS OF UNIVERSITY HOSPITAL, PC",M,
 1033104419,Martin Siu-Fung Loy,Richmond,475 Seaview Avenue,Staten Island,NY,10305,Y,PCP,Internal Medicine,"PHYSICIANS OF UNIVERSITY HOSPITAL, PC",M,
@@ -703,6 +483,8 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1033119953,Tracy Lawrence-Black,Westchester,16 Guion Place,New Rochelle,NY,10802,N,PCP,Pediatrics,Montefiore New Rochelle Hospital,F,
 1033123823,Gail Bergin,Bronx,1225 Morris Park Avenue,Bronx,NY,10461,Y,PCP,Family Health - Nurse Practitioner,CERC/Rose F. Kennedy Center,F,
 1033144787,Jeffrey Bruce Greene,New York,222 East 41st Street,New York,NY,10017,N,PCP,Internal Medicine,NYU Infectious Disease Associates,M,
+1033147426,Ramon Rafael Pimentel,Queens,3744 75th Street,Jackson Heights,NY,11372,Y,PCP,Internal Medicine,,M,
+1033147426,Ramon Rafael Pimentel,Queens,4902 Queens Boulevard,Woodside,NY,11377,Y,PCP,Internal Medicine,,M,
 1033172143,Huajun Huang,Queens,133-38 41st Road,Flushing,NY,11355,Y,PCP,Internal Medicine,"Huajun Huang Physician, LLC",M,"Chinese - Cantonese, Chinese Mandarin"
 1033174958,David A Pawlowski,Erie,3950 East Robinson Road,West Amherst,NY,14228,Y,PCP,Family Medicine,,M,
 1033179080,Nilesh R. Patel,Queens,134-20 Jamaica Avenue,Jamaica,NY,11418,Y,PCP,Internal Medicine,"TJH Medical Services, P.C.",M,Hindi
@@ -1224,6 +1006,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1073601357,Fran Alexandra Ganz-Lord,Westchester,1010 Central Park Avenue,Yonkers,NY,10704,N,PCP,Internal Medicine,MMC Cross County Practice & Urgent Care,F,Spanish
 1073601357,Fran Alexandra Ganz-Lord,Bronx,1621 Eastchester Road,Bronx,NY,10461,N,PCP,Internal Medicine,MMC CFCC at Eastchester,F,Spanish
 1073601357,Fran Alexandra Ganz-Lord,Bronx,1825 Eastchester Road,Bronx,NY,10461,N,PCP,Internal Medicine,MMC Einstein Division,F,Spanish
+1073601357,Fran Alexandra Ganz-Lord,Bronx,305 East 161st Street,Bronx,NY,10451,N,PCP,Internal Medicine,MMC CHCC,F,Spanish
 1073601357,Fran Alexandra Ganz-Lord,New York,3510 Johnson Avenue,Bronx,NY,10463,N,PCP,Internal Medicine,MMC Johnson Avenue Practice,F,Spanish
 1073621231,Gil Roter,New York,5 Penn Plaza,New York,NY,10001,Y,PCP,Internal Medicine,,M,
 1073622874,Alex Constantine Spyropoulos,New York,100 East 77th Street,New York,NY,10075,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,Greek
@@ -1280,7 +1063,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1073827556,Meghan Curry O'Connell,Queens,8900 Van Wyck Expressway,Jamaica,NY,11418,N,PCP,Family Medicine,"TJH Medical Services, PC",F,
 1073862207,Elizabeth B Shelley,Bronx,1371 Seabury Avenue,Bronx,NY,10461,N,PCP,Family Health - Nurse Practitioner,"House Call Medical Services of New York, PLLC",F,Spanish
 1073862207,Elizabeth B Shelley,Bronx,3231 East Tremont Avenue,Bronx,NY,10461,N,PCP,Family Health - Nurse Practitioner,"Essen Medical Associates, PC",F,Spanish
-1073868873,Kinjal Gosalia,Suffolk,301 East Main Street,Bay Shore,NY,11706,N,PCP,Internal Medicine,North Shore-LIJ Medical PC  ,F,Hindi
 1073871067,Jason Simon Zimmerman,Kings,4915 10th Avenue,Brooklyn,NY,11219,Y,PCP,Internal Medicine,NYU Langone Physical Medicine and Rehabilitation Associates,M,
 1073878302,Yaw Adom,Bronx,2202 Grand Concourse,Bronx,NY,10453,N,PCP,Family Health - Nurse Practitioner,"Essen Medical Associates, PC",M,
 1073878302,Yaw Adom,Bronx,593 East Tremont,Bronx,NY,10457,N,PCP,Family Health - Nurse Practitioner,Essen Medical Associates PC,M,
@@ -1336,6 +1118,18 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1083116040,Courtney Dubrowsky,Suffolk,951 Roanoke Avenue,Riverhead,NY,11901,N,PCP,Family Health - Nurse Practitioner,"Peconic Cardiology, PC",F,
 1083154546,Kevin Tse,Kings,2567 East 14th Street,Brooklyn,NY,11235,Y,PCP,Family Medicine,Tse Medical PLLC,M,
 1083154546,Kevin Tse,Kings,846 55th Street,Brooklyn,NY,11220,Y,PCP,Family Medicine,Tse Medical PLLC,M,
+1083286876,Tayler Young,Kings,1167 Nostrand Avenue,Brooklyn,NY,11225,N,PCP,Family Health - Nurse Practitioner,Crown Heights Health Center,F,
+1083286876,Tayler Young,Queens,150 Essex Street,New York,NY,10002,N,PCP,Family Health - Nurse Practitioner,Lower East Side Health Center,F,
+1083286876,Tayler Young,Kings,2581 Atlantic Avenue,Brooklyn,NY,11207,N,PCP,Family Health - Nurse Practitioner,East New York Hub Health Center,F,
+1083286876,Tayler Young,Queens,3611 21st Street,Long Island City,NY,11106,N,PCP,Family Health - Nurse Practitioner,Sutphin Boulevard Health Center,F,
+1083286876,Tayler Young,Bronx,4215 3rd Avenue,Bronx,NY,10457,N,PCP,Family Health - Nurse Practitioner,Tremont Health Center,F,
+1083286876,Tayler Young,New York,511 West 157th Street,New York,NY,10032,Y,PCP,Family Health - Nurse Practitioner,Washington Heights Health Center,F,
+1083286876,Tayler Young,New York,81 West 115th Street,New York,NY,10026,N,PCP,Family Health - Nurse Practitioner,Harlem Health Center,F,
+1083286876,Tayler Young,Queens,9004 161st Street,Jamaica,NY,11432,N,PCP,Family Health - Nurse Practitioner,South Bronx Health Center,F,
+1083286876,Tayler Young,Kings,9498 Manhattan Avenue,Brooklyn,NY,11206,N,PCP,Family Health - Nurse Practitioner,Williamsburg Health Center,F,
+1083286876,Tayler Young,Queens,9704 Sutphin Boulevard,Jamaica,NY,11435,N,PCP,Family Health - Nurse Practitioner,Sutphin Boulevard Health Center,F,
+1083286876,Tayler Young,Bronx,975 Westchester Avenue,Bronx,NY,10459,N,PCP,Family Health - Nurse Practitioner,Tremont Health Center,F,
+1083286876,Tayler Young,Kings,999 Blake Avenue,Brooklyn,NY,11208,N,PCP,Family Health - Nurse Practitioner,Long Island City Health Center,F,
 1083613442,Michael B Finkelstein,Westchester,259 Heathcote Road,Scarsdale,NY,10583,Y,PCP,Internal Medicine,White Plains Physician Associates,M,
 1083613442,Michael B Finkelstein,Westchester,600 Mamaroneck Avenue,Harrison,NY,10528,Y,PCP,Internal Medicine,Scarsdale Medical Group (600 Mamaroneck),M,
 1083642938,Thomas Joseph Harrison,Suffolk,301 East Main Street,Bay Shore,NY,11706,N,PCP,Family Health - Nurse Practitioner,North Shore LIJ Medical PC,M,
@@ -1419,18 +1213,31 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1093155640,Cherly Maria Estevez Zorrilla,Bronx,1265 Franklin Avenue,Bronx,NY,10456,N,PCP,Family Medicine,Martin Luther King Jr. Health Center,F,
 1093155640,Cherly Maria Estevez Zorrilla,Bronx,1276 Fulton Avenue,Bronx,NY,10456,N,PCP,Family Medicine,Wellness Center,F,
 1093155640,Cherly Maria Estevez Zorrilla,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Family Medicine Center,F,
-1093155640,Cherly Maria Estevez Zorrilla,Bronx,1591 Fulton Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Crotona Park Family Practice,F,
+1093155640,Cherly Maria Estevez Zorrilla,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,F,Spanish
 1093161499,Hauchie Pang,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Internal Medicine,Montefiore Medical Center,F,
 1093161499,Hauchie Pang,Bronx,1621 Eastchester Road,Bronx,NY,10461,N,PCP,Internal Medicine,MMG CFCC,F,
 1093161499,Hauchie Pang,Bronx,1825 Eastchester Road,Bronx,NY,10461,N,PCP,Internal Medicine,MMC Einstein Division,F,
 1093161499,Hauchie Pang,Bronx,305 East 161st Street,Bronx,NY,10451,N,PCP,Internal Medicine,MMC CHCC,F,
 1093161499,Hauchie Pang,Bronx,3444 Kossuth Avenue,Bronx,NY,10467,N,PCP,Internal Medicine,MMC Family Care Center,F,
+1093200115,Revant S. Grewal,Kings,3414 Church Avenue,Brooklyn,NY,11203,N,PCP,Internal Medicine,NYU Lutheran Flatbush Family Health Centers,M,
 1093243180,Lesya Tarascina,Kings,50 Sheffield Avenue,Brooklyn,NY,11207,Y,PCP,Adult Health - Nurse Practitioner,"CHE Senior Psychological Services, PC",F,
 1093284093,Elizabeth Alencherry,Nassau,269-01 76th Avenue,New Hyde Park,NY,11040,N,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
 1093284093,Elizabeth Alencherry,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,N,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
 1093284093,Elizabeth Alencherry,Nassau,430 Lakeville Road,New Hyde Park,NY,11042,Y,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
 1093317588,Mallory Leigh Furniss,Erie,3950 East Robinson Road,West Amherst,NY,14228,Y,PCP,Family Health - Nurse Practitioner,,F,
 1093371486,Ju Hye Kim,Nassau,222 Station Plaza North,Mineola,NY,11501,Y,PCP,Family Health - Nurse Practitioner,NYU Langone Internal Medicine - Mineola,F,
+1093482937,Connie Chien,Kings,1167 Nostrand Avenue,Brooklyn,NY,11225,N,PCP,Family Health - Nurse Practitioner,Crown Heights Health Center,F,
+1093482937,Connie Chien,Queens,150 Essex Street,New York,NY,10002,N,PCP,Family Health - Nurse Practitioner,Lower East Side Health Center,F,
+1093482937,Connie Chien,Kings,2581 Atlantic Avenue,Brooklyn,NY,11207,N,PCP,Family Health - Nurse Practitioner,East New York Hub Health Center,F,
+1093482937,Connie Chien,Queens,3611 21st Street,Long Island City,NY,11106,N,PCP,Family Health - Nurse Practitioner,Sutphin Boulevard Health Center,F,
+1093482937,Connie Chien,Bronx,4215 3rd Avenue,Bronx,NY,10457,N,PCP,Family Health - Nurse Practitioner,Tremont Health Center,F,
+1093482937,Connie Chien,New York,511 West 157th Street,New York,NY,10032,Y,PCP,Family Health - Nurse Practitioner,Washington Heights Health Center,F,
+1093482937,Connie Chien,New York,81 West 115th Street,New York,NY,10026,N,PCP,Family Health - Nurse Practitioner,Harlem Health Center,F,
+1093482937,Connie Chien,Queens,9004 161st Street,Jamaica,NY,11432,N,PCP,Family Health - Nurse Practitioner,South Bronx Health Center,F,
+1093482937,Connie Chien,Kings,9498 Manhattan Avenue,Brooklyn,NY,11206,N,PCP,Family Health - Nurse Practitioner,Williamsburg Health Center,F,
+1093482937,Connie Chien,Queens,9704 Sutphin Boulevard,Jamaica,NY,11435,N,PCP,Family Health - Nurse Practitioner,Sutphin Boulevard Health Center,F,
+1093482937,Connie Chien,Bronx,975 Westchester Avenue,Bronx,NY,10459,N,PCP,Family Health - Nurse Practitioner,Tremont Health Center,F,
+1093482937,Connie Chien,Kings,999 Blake Avenue,Brooklyn,NY,11208,N,PCP,Family Health - Nurse Practitioner,Long Island City Health Center,F,
 1093716987,Ralph Biagio Peluso,Kings,8210 18th Avenue,Brooklyn,NY,11214,Y,PCP,Internal Medicine,"M2 Medical Community Practice, P.C.",M,
 1093734055,Izolda Mikhaylov,Queens,6254 97th Place,Rego Park,NY,11374,Y,PCP,Family Medicine,"Lefrak City Family Care, PC dba Izolda Mikhaylov, DO",F,
 1093734055,Izolda Mikhaylov,Queens,9815 Horace Harding Expressway,Corona,NY,11368,Y,PCP,Family Medicine,"Lefrak City Family Care, PC dba Izolda Mikhaylov, DO",F,
@@ -1594,6 +1401,10 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1104810183,Sanjiv Jhaveri,Nassau,10 Medical Plaza,Glen Cove,NY,11542,N,PCP,Internal Medicine,North Shore LIJ Medical Group at North Nassau  PC,M,
 1104810183,Sanjiv Jhaveri,Nassau,1001 Franklin Avenue,Garden City,NY,11530,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
 1104810183,Sanjiv Jhaveri,Nassau,70 Glen Street,Glen Cove,NY,11542,Y,PCP,Internal Medicine,North Shore LIJ Medical PC,M,
+1104813401,Phani R Nimmagadda,Suffolk,222 Middle Country,Smithtown,NY,11787,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,
+1104813401,Phani R Nimmagadda,Suffolk,270 Park Avenue,Huntington,NY,11743,Y,PCP,Internal Medicine,Huntington Hospital,F,
+1104813401,Phani R Nimmagadda,Suffolk,487 Lake Avenue,Saint James,NY,11780,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,
+1104813401,Phani R Nimmagadda,Suffolk,777 Larkfield Road,Commack,NY,11725,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,
 1104818640,Alexander Kwan Choi,Queens,3834 Parsons Boulevard,Flushing,NY,11354,Y,PCP,Internal Medicine,North Shore LIJ Medical PC,M,
 1104825124,Serina Tsin Chung,Nassau,101 Saint Andrews Lane,Glen Cove,NY,11542,N,PCP,Internal Medicine,North Shore-LIJ Medical PC ,F,
 1104828862,Abdul Haleem,Queens,8900 Van Wyck Expressway,Jamaica,NY,11418,Y,PCP,Pediatrics,Jamaica Hospital Medical Center,M,
@@ -1682,8 +1493,8 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1114155835,Amar Ouadi,Bronx,1265 Franklin Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Martin Luther King Jr. Health Center,M,"Arabic, French"
 1114155835,Amar Ouadi,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Wellness Center,M,"Arabic, French"
 1114155835,Amar Ouadi,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Family Medicine Center,M,"Arabic, French"
-1114155835,Amar Ouadi,Bronx,1591 Fulton Avenue,Bronx,NY,10457,Y,PCP,Family Medicine,Crotona Park Family Practice,M,"Arabic, French"
 1114155835,Amar Ouadi,Bronx,1650 Grand Concourse,Bronx,NY,10457,Y,PCP,Family Medicine,BronxCare Inpatient,M,"Arabic, French"
+1114155835,Amar Ouadi,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,M,"Arabic, French"
 1114155835,Amar Ouadi,Bronx,1690 Bryant Avenue,Bronx,NY,10460,Y,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,M,"Arabic, French"
 1114157963,Ruhy Afza,Queens,8900 Van Wyck Expressway,Jamaica,NY,11418,N,PCP,Internal Medicine,"TJH Medical Services, PC",F,Hindi
 1114170651,Michele Lynn Elia,Erie,2865 Genesee Street,Cheektowaga,NY,14225,Y,PCP,Family Health - Nurse Practitioner,,F,
@@ -1725,8 +1536,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1114344017,Nyi Nyi Aung,Queens,6513 Myrtle Avenue,Glendale,NY,11385,Y,PCP,Internal Medicine,,M,Burmese
 1114344017,Nyi Nyi Aung,Queens,6861 Fresh Pond Road,Ridgewood,NY,11385,Y,PCP,Internal Medicine,,M,Burmese
 1114347648,Nafila Saleha Kouba,Kings,6317 4th Avenue,Brooklyn,NY,11220,Y,PCP,Family Medicine,Park Ridge Family Health Center at NYU Langone,F,
-1114375490,Katherine Aguilera Zambrano,Kings,150 55th Street,Brooklyn,NY,11220,Y,PCP,Internal Medicine,Sunset Park Family Health Center at NYU Langone,F,
-1114375490,Katherine Aguilera Zambrano,Kings,3414 Church Avenue,Brooklyn,NY,11203,Y,PCP,Internal Medicine,NYU Lutheran Flatbush Family Health Centers,F,
 1114381423,Rajat Eshan Lamington,New York,110 West 14th Street,New York,NY,10011,Y,PCP,Family Medicine,,M,
 1114381423,Rajat Eshan Lamington,New York,332 East 14th Street,New York,NY,10003,Y,PCP,Family Medicine,NYU Cardiology Associates,M,
 1114381423,Rajat Eshan Lamington,New York,500 East 14th Street,New York,NY,10009,Y,PCP,Family Medicine,,M,
@@ -1829,6 +1638,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1124283569,Musulu Jean-Barth Mbayanga,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Wellness Center,M,"French, Lingala"
 1124283569,Musulu Jean-Barth Mbayanga,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Family Medicine Center,M,"French, Lingala"
 1124283569,Musulu Jean-Barth Mbayanga,Bronx,1650 Grand Concourse,Bronx,NY,10457,Y,PCP,Family Medicine,BronxCare Inpatient,M,"French, Lingala"
+1124283569,Musulu Jean-Barth Mbayanga,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,M,"French, Lingala"
 1124283569,Musulu Jean-Barth Mbayanga,Bronx,1690 Bryant Avenue,Bronx,NY,10460,Y,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,M,"French, Lingala"
 1124283569,Musulu Jean-Barth Mbayanga,Bronx,199 Mount Eden Parkway,Bronx,NY,10457,Y,PCP,Family Medicine,BRONXCARE HEALTH SYSTEM,M,"French, Lingala"
 1124286034,Chuansheng Wang,Queens,8708 Justice Avenue,Elmhurst,NY,11373,Y,PCP,Internal Medicine,Elmhurst Queens Gastroenterology and Hepatology Medical Consultant PC,M,Chinese Mandarin
@@ -1839,7 +1649,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1124327689,Cheryl Ann Martin,Bronx,1067 Ogden Avenue,Bronx,NY,10452,N,PCP,Family Medicine,Ogden Dental Clinic,F,
 1124327689,Cheryl Ann Martin,Bronx,1265 Franklin Avenue,Bronx,NY,10456,N,PCP,Family Medicine,Mobile Crisis Team,F,
 1124327689,Cheryl Ann Martin,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Family Medicine Center,F,
-1124327689,Cheryl Ann Martin,Bronx,1591 Fulton Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Crotona Park Family Practice,F,
+1124327689,Cheryl Ann Martin,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,F,
 1124327689,Cheryl Ann Martin,Bronx,1690 Bryant Avenue,Bronx,NY,10460,N,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,F,
 1124343033,Donna Anthea Lawrence,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,
 1124343033,Donna Anthea Lawrence,Nassau,300 Community Drive,Manhasset,NY,11030,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,
@@ -1951,8 +1761,8 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1134364532,Maureen Mary Yunkap Kwankam,Bronx,1265 Franklin Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Martin Luther King Jr. Health Center,F,"French, Italian"
 1134364532,Maureen Mary Yunkap Kwankam,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Wellness Center,F,"French, Italian"
 1134364532,Maureen Mary Yunkap Kwankam,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Family Medicine Center,F,"French, Italian"
-1134364532,Maureen Mary Yunkap Kwankam,Bronx,1591 Fulton Avenue,Bronx,NY,10457,Y,PCP,Family Medicine,Crotona Park Family Practice,F,"French, Italian"
 1134364532,Maureen Mary Yunkap Kwankam,Bronx,1650 Grand Concourse,Bronx,NY,10457,Y,PCP,Family Medicine,BronxCare Inpatient,F,"French, Italian"
+1134364532,Maureen Mary Yunkap Kwankam,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,F,"French, Italian"
 1134364532,Maureen Mary Yunkap Kwankam,Bronx,1690 Bryant Avenue,Bronx,NY,10460,Y,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,F,"French, Italian"
 1134377963,John Joon Kyu Park,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,Korean
 1134377963,John Joon Kyu Park,Nassau,300 Community Drive,Manhasset,NY,11030,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,Korean
@@ -1961,6 +1771,18 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1134381437,Laurie Ann Abbatessa,Erie,206 South Elmwood Avenue,Buffalo,NY,14201,Y,PCP,Adult Health - Nurse Practitioner,Evergreen Health Services,F,
 1134382492,Renee Lynette Wilson-Bennett,Suffolk,200 Motor Parkway,Hauppauge,NY,11788,Y,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
 1134382492,Renee Lynette Wilson-Bennett,Suffolk,284 Pulaski Road,Greenlawn,NY,11740,Y,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
+1134387079,Daniel L Napolitano,Kings,1167 Nostrand Avenue,Brooklyn,NY,11225,N,PCP,Family Medicine,Crown Heights Health Center,M,
+1134387079,Daniel L Napolitano,Queens,150 Essex Street,New York,NY,10002,N,PCP,Family Medicine,Lower East Side Health Center,M,
+1134387079,Daniel L Napolitano,Kings,2581 Atlantic Avenue,Brooklyn,NY,11207,N,PCP,Family Medicine,East New York Hub Health Center,M,
+1134387079,Daniel L Napolitano,Queens,3611 21st Street,Long Island City,NY,11106,N,PCP,Family Medicine,Sutphin Boulevard Health Center,M,
+1134387079,Daniel L Napolitano,Bronx,4215 3rd Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Tremont Health Center,M,
+1134387079,Daniel L Napolitano,New York,511 West 157th Street,New York,NY,10032,N,PCP,Family Medicine,Washington Heights Health Center,M,
+1134387079,Daniel L Napolitano,New York,81 West 115th Street,New York,NY,10026,N,PCP,Family Medicine,Harlem Health Center,M,
+1134387079,Daniel L Napolitano,Queens,9004 161st Street,Jamaica,NY,11432,N,PCP,Family Medicine,South Bronx Health Center,M,
+1134387079,Daniel L Napolitano,Kings,9498 Manhattan Avenue,Brooklyn,NY,11206,N,PCP,Family Medicine,Williamsburg Health Center,M,
+1134387079,Daniel L Napolitano,Queens,9704 Sutphin Boulevard,Jamaica,NY,11435,N,PCP,Family Medicine,Sutphin Boulevard Health Center,M,
+1134387079,Daniel L Napolitano,Bronx,975 Westchester Avenue,Bronx,NY,10459,N,PCP,Family Medicine,Tremont Health Center,M,
+1134387079,Daniel L Napolitano,Kings,999 Blake Avenue,Brooklyn,NY,11208,N,PCP,Family Medicine,Long Island City Health Center,M,
 1134431000,Leandro Nicolas Slipczuk Bustamante,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Internal Medicine,Montefiore Medical Center,M,
 1134431000,Leandro Nicolas Slipczuk Bustamante,Bronx,1825 Eastchester Road,Bronx,NY,10461,N,PCP,Internal Medicine,MMC Einstein Division,M,
 1134431000,Leandro Nicolas Slipczuk Bustamante,Bronx,3400 Bainbridge Avenue,Bronx,NY,10467,N,PCP,Internal Medicine,MMC Medical Arts Pavilion,M,
@@ -1983,8 +1805,11 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1134508401,Thinzar Shwe,Richmond,375 Seguine Avenue,Staten Island,NY,10309,N,PCP,Internal Medicine,"PHYSICIANS OF UNIVERSITY HOSPITAL, PC",F,Burmese
 1134508401,Thinzar Shwe,Richmond,475 Seaview Avenue,Staten Island,NY,10305,N,PCP,Internal Medicine,"PHYSICIANS OF UNIVERSITY HOSPITAL, PC",F,Burmese
 1134517089,Elizabeth Etienne,Bronx,100 West Mosholu Parkway South,Bronx,NY,10468,N,PCP,Pediatrics,MMC at Dewitt Clinton School,F,
+1134517089,Elizabeth Etienne,Bronx,1861 Anthony Avenue,Bronx,NY,10457,N,PCP,Pediatrics,Montefiore at CES 28/ PS 28,F,
 1134517089,Elizabeth Etienne,Bronx,2780 Reservoir Avenue,Bronx,NY,10468,N,PCP,Pediatrics,MMC at Walton High School,F,
+1134517089,Elizabeth Etienne,Bronx,3000 East Tremont Avenue,Bronx,NY,10461,N,PCP,Pediatrics,MMC at Lehman High School,F,
 1134517089,Elizabeth Etienne,Bronx,500 East Fordham Road,Bronx,NY,10458,Y,PCP,Pediatrics,MMC at Theodore Roosevelt High School,F,
+1134517089,Elizabeth Etienne,Bronx,800 East Gun Hill Road,Bronx,NY,10467,N,PCP,Pediatrics,MMC at Evander Childs High School,F,
 1134541733,Ajay Rajendra Balladin,Queens,164-03 Hillside Avenue,Jamaica,NY,11432,Y,PCP,Family Health - Nurse Practitioner,HILLSIDE PRIMARY CARE PLLC,M,
 1134549850,Anne E Kieran,Suffolk,284 Pulaski Road,Greenlawn,NY,11740,Y,PCP,Family Medicine,Huntington Hospital - Dolan Family Health Center,F,
 1134554934,Rosemary B Estrella,Nassau,1209 Hempstead Turnpike,Franklin Square,NY,11010,Y,PCP,Nurse Practitioner,Jacqueline Delmont Md Pc,F,Spanish
@@ -2091,6 +1916,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1144464892,Jillian Parekh,Bronx,3415 Bainbridge Avenue,Bronx,NY,10467,N,PCP,Pediatrics,MMC CHAM,F,
 1144464892,Jillian Parekh,Bronx,3444 Kossuth Avenue,Bronx,NY,10467,Y,PCP,Pediatrics,MMC Family Care Center,F,
 1144486093,Bineta Diop,Kings,302 Broadway,Brooklyn,NY,11211,Y,PCP,Adult Health - Nurse Practitioner,Unimed Family Health Center,F,French
+1144486093,Bineta Diop,Nassau,317 Maple Avenue,Uniondale,NY,11553,Y,PCP,Adult Health - Nurse Practitioner,,F,
 1144513078,Pooja Murthy,Kings,6300 8th Avenue,Brooklyn,NY,11220,Y,PCP,Internal Medicine,MMC Hematology Oncology FPP,F,
 1144517673,Taimur Mirza,Bronx,1550 University Avenue,Bronx,NY,10452,Y,PCP,Internal Medicine,"Essen Medical Associates, PC",M,"Spanish, Urdu"
 1144517673,Taimur Mirza,Bronx,2015 Grand Concourse,Bronx,NY,10453,Y,PCP,Internal Medicine,"Essen Medical Associates, PC",M,"Spanish, Urdu"
@@ -2115,8 +1941,8 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1144685736,Arzhang Sadeghy Zanganeh,Bronx,1265 Franklin Avenue,Bronx,NY,10456,N,PCP,Family Medicine,Martin Luther King Jr. Health Center,M,Farsi
 1144685736,Arzhang Sadeghy Zanganeh,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Wellness Center,M,Farsi
 1144685736,Arzhang Sadeghy Zanganeh,Bronx,1276 Fulton Avenue,Bronx,NY,10456,N,PCP,Family Medicine,Family Medicine Center,M,Farsi
-1144685736,Arzhang Sadeghy Zanganeh,Bronx,1591 Fulton Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Crotona Park Family Practice,M,Farsi
 1144685736,Arzhang Sadeghy Zanganeh,Bronx,1650 Grand Concourse,Bronx,NY,10457,N,PCP,Family Medicine,BronxCare Inpatient,M,Farsi
+1144685736,Arzhang Sadeghy Zanganeh,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,M,Farsi
 1144685736,Arzhang Sadeghy Zanganeh,Bronx,1690 Bryant Avenue,Bronx,NY,10460,N,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,M,Farsi
 1144698820,Rahul Nair,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Internal Medicine,Montefiore Medical Center,M,
 1144698820,Rahul Nair,Bronx,1825 Eastchester Road,Bronx,NY,10461,N,PCP,Internal Medicine,MMC Einstein Division,M,
@@ -2209,6 +2035,8 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1154580520,Memoudou Abalola,Bronx,1371 Seabury Avenue,Bronx,NY,10461,N,PCP,Family Health - Nurse Practitioner,"House Call Medical Services of New York, PLLC",M,French
 1154580520,Memoudou Abalola,Bronx,2015 Grand Concourse,Bronx,NY,10453,Y,PCP,Family Health - Nurse Practitioner,"Essen Medical Associates, PC",M,"French, Spanish"
 1154584589,Xuming Dai,Queens,136-33 37th Avenue,Flushing,NY,11354,Y,PCP,Internal Medicine,Precision Cardiovascular Care PLLC,M,
+1154584837,Jennifer Diane Verbsky,Queens,256-11 Union Turnpike,Glen Oaks,NY,11004,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,Spanish
+1154584837,Jennifer Diane Verbsky,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,Spanish
 1154584837,Jennifer Diane Verbsky,Nassau,300 Community Drive,Manhasset,NY,11030,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,Spanish
 1154584837,Jennifer Diane Verbsky,Nassau,865 Northern Boulevard,Great Neck,NY,11021,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,Spanish
 1154589844,Elie Traube,Kings,100 Ross Street,Brooklyn,NY,11249,Y,PCP,Internal Medicine,Maimonides Cardiology FPP,M,
@@ -2247,6 +2075,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1154632347,Marissa Haley Galler,Nassau,300 Community Drive,Manhasset,NY,11030,N,PCP,Adult Health - Nurse Practitioner,North Shore LIJ Medical PC,F,
 1154676674,Esam Alhariri,Richmond,375 Seguine Avenue,Staten Island,NY,10309,N,PCP,Internal Medicine,"PHYSICIANS OF UNIVERSITY HOSPITAL, PC",M,Arabic
 1154676674,Esam Alhariri,Richmond,475 Seaview Avenue,Staten Island,NY,10305,N,PCP,Internal Medicine,"PHYSICIANS OF UNIVERSITY HOSPITAL, PC",M,Arabic
+1154679090,David Kin Yun,Queens,142-05 Roosevelt Avenue,Flushing,NY,11354,Y,PCP,Family Medicine,"David Yun, DO and Jessica Chin-Tan, DO PLLC",M,
 1154679090,David Kin Yun,Queens,142-05 Roosevelt Avenue,Flushing,NY,11354,Y,PCP,Family Medicine,"David Yun, DO and Jessica Chin-Tan, DO PLLC",M,Chinese - Cantonese
 1154701720,Karen Avgush,Rockland,2 Suffern Lane,Garnerville,NY,10923,Y,PCP,Internal Medicine,Rockland Medical Group PLLC,F,Hebrew
 1154708329,Jonah Seth Zaretsky,New York,550 1st Avenue,New York,NY,10016,Y,PCP,Internal Medicine,NYU NP and PA Services,M,
@@ -2963,6 +2792,8 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1205278157,Timothy John Oakes,Bronx,975 Westchester Avenue,Bronx,NY,10459,Y,PCP,Family Health - Nurse Practitioner,Tremont Health Center,M,
 1205278157,Timothy John Oakes,Kings,999 Blake Avenue,Brooklyn,NY,11208,Y,PCP,Family Health - Nurse Practitioner,Long Island City Health Center,M,
 1205286622,Aqsa Ashraf Durrani,Bronx,3444 Kossuth Avenue,Bronx,NY,10467,Y,PCP,Pediatrics,MMC Family Care Center,F,
+1205287125,Paul Maung,Westchester,41 East Post Road,White Plains,NY,10601,N,PCP,Internal Medicine,WPH-Pediatrics Hospitalist Program,M,
+1205287125,Paul Maung,Westchester,41 East Post Road,White Plains,NY,10601,N,PCP,Internal Medicine,WPH-Pediatrics Hospitalist Program,M,
 1205288917,Arielle Sara Freilich,Nassau,1129 Northern Boulevard,Manhasset,NY,11030,Y,PCP,Family Medicine,,F,
 1205289113,Renata Schillizzi,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,Y,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC ,F,
 1205289592,Stefani Lynn Pagliuca,Suffolk,39 Brentwood Road,Bay Shore,NY,11706,Y,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
@@ -3094,7 +2925,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1215257894,Saman Sabounchi,Westchester,31 Lockwood Avenue,New Rochelle,NY,10801,Y,PCP,Internal Medicine,"Saman Sabounchi, MD",F,Farsi
 1215257894,Saman Sabounchi,Westchester,48 Burling Lane,New Rochelle,NY,10801,Y,PCP,Internal Medicine,"Saman Sabounchi, MD",F,Farsi
 1215272695,Shailja Patel,Queens,214-22 73rd Avenue,Oakland Gardens,NY,11364,Y,PCP,Internal Medicine,,F,
-1215275680,Jennifer Yonaitis Fariello,Suffolk,222 Middle Country Road,Smithtown,NY,11787,N,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
 1215282512,Venkata Harini Chintaluri,Bronx,1550 University Avenue,Bronx,NY,10452,Y,PCP,Internal Medicine,"Essen Medical Associates, PC",F,"Hindi, Spanish, Telugu"
 1215282512,Venkata Harini Chintaluri,Bronx,2015 Grand Concourse,Bronx,NY,10453,Y,PCP,Internal Medicine,"Essen Medical Associates, PC",F,"Hindi, Spanish, Telugu"
 1215290648,Jani M. De Silva,Suffolk,270 Park Avenue,Huntington,NY,11743,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,Sinhala
@@ -3113,7 +2943,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1215371877,Chiamaka Nwachukwu,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,N,PCP,Gerontology - Nurse Practitioner,North Shore-LIJ Medical PC,F,
 1215373972,Cindy W. Chu-Velez,New York,550 1st Avenue,New York,NY,10016,Y,PCP,Adult Health - Nurse Practitioner,NYU NP and PA Services,F,
 1215379912,Carly Jaye McKillop,Queens,4709 30th Street,Long Island City,NY,11101,Y,PCP,Family Health - Nurse Practitioner,"Jeremy Corbett M.D., PLLC",F,
-1215385927,Stephen R McCormick,Nassau,1983 Marcus Avenue,New Hyde Park,NY,11040,Y,PCP,Family Medicine,North Shore-LIJ Medical PC,M,
+1215385927,Stephen R McCormick,Nassau,600 Community Drive,Manhasset,NY,11030,Y,PCP,Family Medicine,North Shore University Hospital Independence at Home Demostration,M,
 1215406046,Chen Lin Tong,Kings,4802 10th Avenue,Brooklyn,NY,11219,Y,PCP,Family Health - Nurse Practitioner,Maimonides Faculty Practice Plan,F,Chinese - Cantonese
 1215436886,Laura R Chase,Nassau,3003 New Hyde Park Road,New Hyde Park,NY,11042,Y,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
 1215448717,Willada Loch,Richmond,2285 Victory Boulevard,Staten Island,NY,10314,Y,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
@@ -3200,8 +3030,8 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1225205891,Saeid Tafreshi,Bronx,1265 Franklin Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Martin Luther King Jr. Health Center,M,
 1225205891,Saeid Tafreshi,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Wellness Center,M,
 1225205891,Saeid Tafreshi,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Family Medicine Center,M,
-1225205891,Saeid Tafreshi,Bronx,1591 Fulton Avenue,Bronx,NY,10457,Y,PCP,Family Medicine,Crotona Park Family Practice,M,
 1225205891,Saeid Tafreshi,Bronx,1650 Grand Concourse,Bronx,NY,10457,Y,PCP,Family Medicine,BronxCare Inpatient,M,
+1225205891,Saeid Tafreshi,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,M,
 1225205891,Saeid Tafreshi,Bronx,1690 Bryant Avenue,Bronx,NY,10460,Y,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,M,
 1225230154,Shen-Han Lin,Queens,133-42 39th Avenue,Flushing,NY,11354,Y,PCP,Family Medicine,Shen-Han Lin Medical PC,M,Chinese Mandarin
 1225230154,Shen-Han Lin,Kings,821 53rd Street,Brooklyn,NY,11220,Y,PCP,Family Medicine,Shen-Han Lin Medical PC,M,"Chinese - Cantonese, Chinese Mandarin"
@@ -3430,7 +3260,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1245332345,Suzette Oyeku,Bronx,3444 Kossuth Avenue,Bronx,NY,10467,N,PCP,Pediatrics,MMC Family Care Center,F,Spanish
 1245332345,Suzette Oyeku,Bronx,600 East 233rd Street,Bronx,NY,10466,N,PCP,Pediatrics,Montefiore Medical Center,F,Spanish
 1245338029,Rimma Shnaydman,Kings,400 Avenue X,Brooklyn,NY,11223,Y,PCP,Family Medicine,Ave X Primary Medical Care PC,F,
-1245364710,Xinqi Xu,Queens,136-17 39th Avenue,Flushing,NY,11354,Y,PCP,Family Medicine,North Shore-LIJ Medical PC,F,
+1245364710,Xinqi Xu,Queens,8002 Kew Gardens Road,Kew Gardens,NY,11415,Y,PCP,Family Medicine,North Shore-LIJ Medical PC,F,
 1245364710,Xinqi Xu,Queens,9429 59th Avenue,Elmhurst,NY,11373,Y,PCP,Family Medicine,"Xinqi Xu, MD, PC",F,"Chinese Mandarin, Spanish"
 1245393875,Andrea Dione Card,Queens,3611 21st Street,Long Island City,NY,11106,Y,PCP,Internal Medicine,Sutphin Boulevard Health Center,F,
 1245418706,Omar Saadeddin Duqmaq,Kings,466 Bay Ridge Avenue,Brooklyn,NY,11235,Y,PCP,Family Health - Nurse Practitioner,,M,
@@ -3468,7 +3298,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1245544832,Loveth Efosa Abu,Bronx,1265 Franklin Avenue,Bronx,NY,10456,N,PCP,Family Health - Nurse Practitioner,Martin Luther King Jr. Health Center,F,Spanish
 1245544832,Loveth Efosa Abu,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Health - Nurse Practitioner,Wellness Center,F,Spanish
 1245544832,Loveth Efosa Abu,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Health - Nurse Practitioner,Family Medicine Center,F,Spanish
-1245544832,Loveth Efosa Abu,Bronx,1591 Fulton Avenue,Bronx,NY,10457,Y,PCP,Family Health - Nurse Practitioner,Crotona Park Family Practice,F,Spanish
 1245544832,Loveth Efosa Abu,Bronx,1650 Grand Concourse,Bronx,NY,10457,Y,PCP,Family Health - Nurse Practitioner,BronxCare Inpatient,F,Spanish
 1245544832,Loveth Efosa Abu,Bronx,1690 Bryant Avenue,Bronx,NY,10460,Y,PCP,Family Health - Nurse Practitioner,Mid-Bronx Desperadoes Family Practice,F,Spanish
 1245548114,Stephen Asiedu,Bronx,1409 Webster Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Steven Asiedu Medical Practice PC,M,Spanish
@@ -3554,6 +3383,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1255358271,Carrie Lyn Sammarco,New York,240 East 38th Street,New York,NY,10016,Y,PCP,Family Health - Nurse Practitioner,NYU MS Center,F,
 1255358271,Carrie Lyn Sammarco,New York,301 East 17th Street,New York,NY,10003,Y,PCP,Family Health - Nurse Practitioner,NYU MS Center,F,
 1255358271,Carrie Lyn Sammarco,New York,324 East 23rd Street,New York,NY,10010,Y,PCP,Family Health - Nurse Practitioner,NYU MS Center,F,
+1255368163,Felix Nien-Tsung Chien,New York,139 Centre Street,New York,NY,10013,Y,PCP,Family Medicine,Chien Medical PLLC,M,
 1255368163,Felix Nien-Tsung Chien,New York,86 Bowery,New York,NY,10013,Y,PCP,Family Medicine,Chien Medical PLLC,M,
 1255386959,Philip Fortunato Spadafora,Nassau,901 Stewart Avenue,Garden City,NY,11530,Y,PCP,Internal Medicine,Long Island Professional Medical Services P.C.,M,Italian
 1255395935,Yevgeniya Oskarovna Zinger,Kings,1110 Pennsylvania Avenue,Brooklyn,NY,11207,Y,PCP,Internal Medicine,,F,
@@ -3705,6 +3535,219 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1265551501,Kiki Kadianakis,Nassau,300 Community Drive,Manhasset,NY,11030,Y,PCP,Family Medicine,TJH Medical Services PC,F,
 1265551501,Kiki Kadianakis,Queens,3109 Newtown Avenue,Astoria,NY,11102,N,PCP,Family Medicine,North Shore LIJ Medical PC,F,Greek
 1265551501,Kiki Kadianakis,Suffolk,504 Bayberry Walk,Ocean Beach,NY,11770,Y,PCP,Family Medicine,North Shore-LIJ Medical PC,F,
+1265595300,Sanjay Lodha,Queens,4572 Parsons Boulevard,Flushing,NY,11355,Y,PCP,Internal Medicine,,M,
+1265609127,Jean Herold Ancion,Queens,900 Franklin Avenue,Valley Stream,NY,11580,N,PCP,Internal Medicine,Long Island Jewish Valley Stream,M,
+1265609127,Jean Herold Ancion,Queens,900 Franklin Avenue,Valley Stream,NY,11580,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
+1265626816,Jaswinder Pal Singh,Nassau,2201 Hempstead Turnpike,East Meadow,NY,11554,Y,PCP,Internal Medicine,Nassau University Medical Center,M,
+1265641286,Paul Walter Beach Jr.,Bronx,1067 Ogden Avenue,Bronx,NY,10452,Y,PCP,Family Medicine,Ogden Dental Clinic,M,"French, Haitian-Creole, Spanish"
+1265641286,Paul Walter Beach Jr.,Bronx,1265 Franklin Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Martin Luther King Jr. Health Center,M,"French, Haitian-Creole, Spanish"
+1265641286,Paul Walter Beach Jr.,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Wellness Center,M,"French, Haitian-Creole, Spanish"
+1265641286,Paul Walter Beach Jr.,Bronx,1650 Grand Concourse,Bronx,NY,10457,Y,PCP,Family Medicine,BronxCare Inpatient,M,"French, Haitian-Creole, Spanish"
+1265641286,Paul Walter Beach Jr.,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,M,"French, Haitian-Creole, Spanish"
+1265641286,Paul Walter Beach Jr.,Bronx,1690 Bryant Avenue,Bronx,NY,10460,Y,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,M,"French, Haitian-Creole, Spanish"
+1265655575,Marcia Beth Pehr,Bronx,1154 East Tremont Avenue,Bronx,NY,10460,N,PCP,Family Medicine,"Audubon Primary Care Medicine, PLLC",F,Spanish
+1265655575,Marcia Beth Pehr,Bronx,1262 Boston Road,Bronx,NY,10456,N,PCP,Family Medicine,"Audubon Primary Care Medicine, PLLC",F,Spanish
+1265655575,Marcia Beth Pehr,New York,325 Audubon Avenue,New York,NY,10033,Y,PCP,Family Medicine,"Audubon Primary Care Medicine, PLLC",F,Spanish
+1265669832,Kathleen Davidson,New York,130 East 77th Street,New York,NY,10075,N,PCP,Adult Health - Nurse Practitioner,North Shore LIJ Medical PC,F,
+1265669832,Kathleen Davidson,Nassau,269-01 76th Avenue,New Hyde Park,NY,11040,N,PCP,Adult Health - Nurse Practitioner,North Shore LIJ Medical PC,F,
+1265669832,Kathleen Davidson,Nassau,300 Community Drive,Manhasset,NY,11030,N,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
+1265669832,Kathleen Davidson,Suffolk,301 East Main Street,Bay Shore,NY,11706,N,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
+1265687347,Jianlin Wu,Kings,839 58th Street,Brooklyn,NY,11220,Y,PCP,Internal Medicine,"Chinatown True Care Medical, PLLC aka RenDr Care Physicians",M,"Chinese - Cantonese, Chinese Mandarin"
+1265689608,Verna Lorraine Hamilton-Israel,Nassau,300 Community Drive,Manhasset,NY,11030,Y,PCP,Adult Health - Nurse Practitioner,North Shore LIJ Medical PC,F,
+1265690317,Gerin Rachel Stevens,Suffolk,205 South Ocean Avenue,Patchogue,NY,11772,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,
+1265690317,Gerin Rachel Stevens,Suffolk,39 Brentwood Road,Bay Shore,NY,11706,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,
+1265690317,Gerin Rachel Stevens,Suffolk,9 Brooksite Drive,Smithtown,NY,11787,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,
+1265690317,Gerin Rachel Stevens,Suffolk,951 Roanoke Avenue,Riverhead,NY,11901,Y,PCP,Internal Medicine,"Peconic Cardiology, PC",F,
+1265691042,Karen Anna Abrashkin,Nassau,1983 Marcus Avenue,New Hyde Park,NY,11040,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,
+1265694020,Rubina Akhter,Bronx,1825 Eastchester Road,Bronx,NY,10461,N,PCP,Internal Medicine,MMC Einstein Division,F,
+1265729792,Erin Goss,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Internal Medicine,Montefiore Medical Center,F,
+1265729792,Erin Goss,Bronx,305 East 161st Street,Bronx,NY,10451,Y,PCP,Internal Medicine,MMC CHCC,F,
+1265729792,Erin Goss,Bronx,3444 Kossuth Avenue,Bronx,NY,10467,N,PCP,Internal Medicine,MMC Family Care Center,F,
+1265734297,Kerry Morrone,Bronx,1250 Waters Place,Bronx,NY,10461,N,PCP,Pediatrics,MMC at 1250 Waters Place,F,
+1265734297,Kerry Morrone,Bronx,3415 Bainbridge Avenue,Bronx,NY,10467,N,PCP,Pediatrics,MMC CHAM,F,
+1265734297,Kerry Morrone,Bronx,600 East 233rd Street,Bronx,NY,10466,N,PCP,Pediatrics,Montefiore Wakefield Campus,F,
+1265741292,Sandra D Shivamber,Nassau,850 Hicksville Road,Seaford,NY,11783,N,PCP,Family Health - Nurse Practitioner,Sandra D  Shivamber  NP,F,
+1265749550,Jingbo Zhao,Queens,4316 215th Street,Bayside,NY,11361,Y,PCP,Internal Medicine,"Harbin Medical Care, PLLC",M,Chinese Mandarin
+1265751002,Simon Li,Kings,755-759 61st Street,Brooklyn,NY,11220,Y,PCP,Family Medicine,,M,"Chinese - Cantonese, Chinese Mandarin"
+1265751002,Simon Li,Kings,8510 19th Avenue,Brooklyn,NY,11214,Y,PCP,Family Medicine,Simon Li Medical PLLC,M,Chinese Mandarin
+1265751721,Nancy Lalanne-Brutus,Bronx,1371 Seabury Avenue,Bronx,NY,10461,N,PCP,Family Health - Nurse Practitioner,"House Call Medical Services of New York, PLLC",M,Haitian-Creole
+1265751721,Nancy Lalanne-Brutus,Bronx,2015 Grand Concourse,Bronx,NY,10453,Y,PCP,Family Health - Nurse Practitioner,"Essen Medical Associates, PC",M,Spanish
+1265751929,Anna Iris Foskin,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,N,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,Spanish
+1265758981,Kaushal Bharat Shah,Suffolk,301 East Main Street,Bay Shore,NY,11706,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,Gurjarati
+1265770085,Vahe Sis Shahnazarian,Richmond,355 Bard Avenue,Staten Island,NY,10310,Y,PCP,Internal Medicine,"Amboy Medical Practice, PC",M,
+1265770085,Vahe Sis Shahnazarian,Richmond,800 Castleton Avenue,Staten Island,NY,10310,Y,PCP,Internal Medicine,"Amboy Medical Practice, PC",M,
+1265775167,Samuel Rednor,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Internal Medicine,Montefiore Medical Center,M,
+1265792527,Daniel Riegel,Queens,149-16 80th Street,Howard Beach,NY,11414,Y,PCP,Internal Medicine,,M,
+1265792527,Daniel Riegel,Queens,8223 153rd Avenue,Howard Beach,NY,11414,Y,PCP,Internal Medicine,,M,
+1265793822,Ijeoma Oguagha,Queens,111-20 Merrick Boulevard,St. Albans,NY,11433,Y,PCP,Pediatrics,Medisys Family Care Center,F,Igbo
+1265801609,Margaret Patricia Boyd,Nassau,300 Community Drive,Manhasset,NY,11030,N,PCP,Adult Health - Nurse Practitioner,"Priatharsini Sriganesh, MD",F,
+1265812689,Neeharika Kasuganti,New York,332 East 14th Street,New York,NY,10003,Y,PCP,Internal Medicine,NYU Cardiology Associates,F,
+1265812689,Neeharika Kasuganti,New York,912 Columbus Avenue,New York,NY,10025,Y,PCP,Internal Medicine,,F,
+1265824684,Danielle Marie Carroll,Queens,133-03 Jamaica Avenue,Richmond Hill,NY,11418,Y,PCP,Family Medicine,Medisys Family Practice Center,F,
+1265824684,Danielle Marie Carroll,Queens,9120 Atlantic Avenue,Ozone Park,NY,11416,Y,PCP,Family Medicine,"TJH Medical Services, P.C.",F,
+1265825970,Andrea Ciano,Kings,1167 Nostrand Avenue,Brooklyn,NY,11225,Y,PCP,Family Medicine,Crown Heights Health Center,F,
+1265825970,Andrea Ciano,Queens,150 Essex Street,New York,NY,10002,Y,PCP,Family Medicine,Lower East Side Health Center,F,
+1265825970,Andrea Ciano,Kings,2581 Atlantic Avenue,Brooklyn,NY,11207,Y,PCP,Family Medicine,East New York Hub Health Center,F,
+1265825970,Andrea Ciano,Queens,3611 21st Street,Long Island City,NY,11106,Y,PCP,Family Medicine,Sutphin Boulevard Health Center,F,
+1265825970,Andrea Ciano,Bronx,4215 3rd Avenue,Bronx,NY,10457,Y,PCP,Family Medicine,Tremont Health Center,F,
+1265825970,Andrea Ciano,New York,511 West 157th Street,New York,NY,10032,Y,PCP,Family Medicine,Washington Heights Health Center,F,
+1265825970,Andrea Ciano,New York,81 West 115th Street,New York,NY,10026,Y,PCP,Family Medicine,Harlem Health Center,F,
+1265825970,Andrea Ciano,Queens,9004 161st Street,Jamaica,NY,11432,Y,PCP,Family Medicine,South Bronx Health Center,F,
+1265825970,Andrea Ciano,Kings,9498 Manhattan Avenue,Brooklyn,NY,11206,Y,PCP,Family Medicine,Williamsburg Health Center,F,
+1265825970,Andrea Ciano,Queens,9704 Sutphin Boulevard,Jamaica,NY,11435,Y,PCP,Family Medicine,Sutphin Boulevard Health Center,F,
+1265825970,Andrea Ciano,Bronx,975 Westchester Avenue,Bronx,NY,10459,Y,PCP,Family Medicine,Tremont Health Center,F,
+1265825970,Andrea Ciano,Kings,999 Blake Avenue,Brooklyn,NY,11208,Y,PCP,Family Medicine,Long Island City Health Center,F,
+1265844195,Blessey Mary Joseph,Nassau,1575 Hillside Avenue,New Hyde Park,NY,11040,Y,PCP,Internal Medicine,"Queens Nassau Cardiology, PC",F,"Hindi, Malayalam, Tamil"
+1265851604,Najia Dar,New York,121A West 20th Street,New York,NY,10011,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,Urdu
+1265851604,Najia Dar,Nassau,221 Jericho Turnpike,Syosset,NY,11791,Y,PCP,Internal Medicine,North Shore LIJ Medical PC,F,Urdu
+1265851604,Najia Dar,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,Urdu
+1265851604,Najia Dar,Nassau,300 Community Drive,Manhasset,NY,11030,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,Urdu
+1265851604,Najia Dar,Nassau,865 Northern Boulevard,Great Neck,NY,11021,Y,PCP,Internal Medicine,North Shore LIJ Medical PC,F,Urdu
+1265852628,Conor M Parks,Nassau,888 Old Country Road,Plainview,NY,11803,N,PCP,Family Medicine,North Shore-LIJ Medical PC,M,
+1265864409,Sandra Aleksic,Bronx,1225 Morris Park Avenue,Bronx,NY,10461,Y,PCP,Internal Medicine,Rose F. Kennedy Center,F,
+1265871008,Courtney McNamara,Bronx,1825 Eastchester Road,Bronx,NY,10461,Y,PCP,Pediatrics,Montefiore Medical Center,F,
+1265871008,Courtney McNamara,Bronx,3415 Bainbridge Avenue,Bronx,NY,10467,N,PCP,Pediatrics,MMC CHAM,F,
+1265881213,Gerard M Casale,Kings,4802 10th Avenue,Brooklyn,NY,11219,N,PCP,Internal Medicine,,M,Spanish
+1265881213,Gerard M Casale,Kings,4802 10th Avenue,Brooklyn,NY,11219,N,PCP,Internal Medicine,,M,Spanish
+1265881213,Gerard M Casale,Kings,948 48th Street,Brooklyn,NY,11219,N,PCP,Internal Medicine,,M,Spanish
+1265881213,Gerard M Casale,Kings,948 48th Street,Brooklyn,NY,11219,N,PCP,Internal Medicine,,M,Spanish
+1265895890,Raj Bharat Patel,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
+1265895890,Raj Bharat Patel,Nassau,300 Community Drive,Manhasset,NY,11030,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
+1265895890,Raj Bharat Patel,Queens,7559 263rd Street,Glen Oaks,NY,11004,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
+1265916779,Kristina Tzortzis,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,Y,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC ,F,
+1265920821,Heloisa DeCarvalho,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Internal Medicine,Montefiore Medical Center,F,
+1265920821,Heloisa DeCarvalho,Bronx,1825 Eastchester Road,Bronx,NY,10461,N,PCP,Internal Medicine,MMC Einstein Division,F,
+1265920821,Heloisa DeCarvalho,Bronx,600 East 233rd Street,Bronx,NY,10466,N,PCP,Internal Medicine,Montefiore Medical Center,F,
+1265931497,Riggi Mariamma Wilsant,Richmond,375 Seguine Avenue,Staten Island,NY,10309,Y,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
+1265941967,Denise Angelique Perez,Bronx,1550 University Avenue,Bronx,NY,10452,Y,PCP,Family Health - Nurse Practitioner,"Essen Medical Associates, PC",F,Spanish
+1265941967,Denise Angelique Perez,Bronx,1990 McGraw Avenue,Bronx,NY,10462,Y,PCP,Family Health - Nurse Practitioner,"Essen Medical Associates, PC",F,Spanish
+1265941967,Denise Angelique Perez,Bronx,2722 White Plains Road,Bronx,NY,10467,Y,PCP,Family Health - Nurse Practitioner,"Essen Medical Associates, PC",F,Spanish
+1265946230,Brittany Elizabeth Ring,New York,100 East 77th Street,New York,NY,10075,N,PCP,Family Health - Nurse Practitioner,Lenox Hill Hospital,F,
+1265946230,Brittany Elizabeth Ring,New York,130 East 77th Street,New York,NY,10075,Y,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
+1265946230,Brittany Elizabeth Ring,New York,200 West 13th Street,New York,NY,10011,Y,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
+1265965909,Pouyan Namakydoust,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Internal Medicine,Montefiore Medical Center,M,
+1265965909,Pouyan Namakydoust,Bronx,1825 Eastchester Road,Bronx,NY,10461,N,PCP,Internal Medicine,Montefiore Medical Center,M,
+1265965909,Pouyan Namakydoust,Bronx,600 East 233rd Street,Bronx,NY,10466,N,PCP,Internal Medicine,Montefiore Medical Center,M,
+1265966329,Carolina Miranda,Bronx,853 Longwood Avenue,Bronx,NY,10459,N,PCP,Family Medicine,MMC CHP Practice,F,
+1265966329,Carolina Miranda,Bronx,871 Prospect Avenue,Bronx,NY,10459,N,PCP,Family Medicine,MMC South Bronx Children and Families,F,
+1265966329,Carolina Miranda,Bronx,890 Prospect Avenue,Bronx,NY,10459,Y,PCP,Family Medicine,MMC South Bronx at 890,F,
+1275045312,Miziel Gulapa Remolona,Bronx,1371 Seabury Avenue,Bronx,NY,10461,N,PCP,Family Health - Nurse Practitioner,"House Call Medical Services of New York, PLLC",F,Filipino
+1275045312,Miziel Gulapa Remolona,Bronx,2015 Grand Concourse,Bronx,NY,10453,Y,PCP,Family Health - Nurse Practitioner,"Essen Medical Associates, PC",F,"Filipino, Spanish"
+1275045395,Danica Noel-Sylvester,Queens,207-01 116th Avenue,Cambria Heights,NY,11411,N,PCP,Family Health - Nurse Practitioner,"TJH Medical Services, P.C.",F,
+1275045593,Amelia Renee Hinkleman,Kings,186 Joralemon Street,Brooklyn,NY,11201,N,PCP,Adult Health - Nurse Practitioner,NYU Radiology Associates,F,
+1275045593,Amelia Renee Hinkleman,Kings,47 Plaza Street West,Brooklyn,NY,11217,N,PCP,Adult Health - Nurse Practitioner,NYU Langone Brooklyn Cardiology Associates - Park Slope,F,
+1275064867,Taranjit Arneja,Suffolk,3001 Expressway Drive North,Islandia,NY,11749,Y,PCP,Family Medicine,North Shore-LIJ Medical PC,M,
+1275185357,Sarah R Shapiro,Nassau,110 Main Street,Port Washington,NY,11050,Y,PCP,Gerontology - Nurse Practitioner,North Shore LIJ Medical PC,F,
+1275502593,Michael Jay Rothstein,New York,55 East 124th Street,New York,NY,10035,Y,PCP,Family Health - Nurse Practitioner,,M,
+1275521759,Patricia Joanna Fredette-Huffman,Queens,8900 Van Wyck Expressway,Jamaica,NY,11418,N,PCP,Family Medicine,"TJH Medical Services, PC",F,
+1275525040,Harlee Ann Fried,Orange,16 Front Street,Port Jervis,NY,12771,Y,PCP,Family Medicine,,F,
+1275525040,Harlee Ann Fried,Orange,28 Rykowski Lane,Middletown,NY,10941,Y,PCP,Family Medicine,,F,
+1275525446,Steven Mark Kobren,Nassau,488 Great Neck Road,Great Neck,NY,11021,Y,PCP,Internal Medicine,NYU Langone Great Neck Medical,M,
+1275527798,Vincent James Calamia,Richmond,375 Seguine Avenue,Staten Island,NY,10309,N,PCP,Internal Medicine,North Shore LIJ Medical PC,M,
+1275527798,Vincent James Calamia,Richmond,4106 Hylan Boulevard,Staten Island,NY,10308,N,PCP,Internal Medicine,"PHYSICIANS OF UNIVERSITY HOSPITAL, PC",M,
+1275527798,Vincent James Calamia,Richmond,475 Seaview Avenue,Staten Island,NY,10305,N,PCP,Internal Medicine,North Shore LIJ Medical PC,M,
+1275527798,Vincent James Calamia,Richmond,500 Seaview Avenue,Staten Island,NY,10305,N,PCP,Internal Medicine,North Shore LIJ Medical PC,M,
+1275528598,Moro O. Salifu,Kings,3839 Flatlands Avenue,Brooklyn,NY,11234,Y,PCP,Internal Medicine,,M,
+1275531931,Arunakumari Penumadu,Queens,3027 30th Street,Astoria,NY,11102,Y,PCP,Internal Medicine,Arunakumari Penumadu,F,
+1275558157,Rogelio Martinez Co,Suffolk,284 Pulaski Road,Greenlawn,NY,11740,Y,PCP,Internal Medicine,Huntington Hospital - Dolan Family Health Center,M,"Filipino, Tagalog"
+1275562415,Mohammad Saif,Nassau,672 Broadway,Massapequa,NY,11758,Y,PCP,Internal Medicine,,M,
+1275562456,Adrianne Mellos,Nassau,1155 Northern Boulevard,Manhasset,NY,11030,Y,PCP,Internal Medicine,NYU Langone Cardiovascular Associates,F,
+1275562456,Adrianne Mellos,Queens,2318 31st Street,Astoria,NY,11105,Y,PCP,Internal Medicine,NYU Langone Cardiovascular Associates,F,
+1275562456,Adrianne Mellos,Queens,5645 Main Street,Flushing,NY,11355,Y,PCP,Internal Medicine,North Shore LIJ Medical PC,F,
+1275573990,Alice Kit-Wah Lee,Queens,136-30 Maple Avenue,Flushing,NY,11355,Y,PCP,Internal Medicine,"Alice K. Lee, MD",F,"Chinese - Cantonese, Chinese Mandarin"
+1275573990,Alice Kit-Wah Lee,Nassau,2201 Hempstead Turnpike,East Meadow,NY,11554,N,PCP,Internal Medicine,,F,
+1275579443,Stuart Moser,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Internal Medicine,Montefiore Medical Center,M,
+1275584138,Shye S. Wortman,Richmond,2315 Victory Boulevard,Staten Island,NY,10314,Y,PCP,Internal Medicine,Icahn School of Medicine at Mount Sinai,M,
+1275584138,Shye S. Wortman,Richmond,4982 Hylan Boulevard,Staten Island,NY,10312,Y,PCP,Internal Medicine,Icahn School of Medicine at Mount Sinai,M,
+1275586182,Boris Serebryansky,Nassau,91A Carman Avenue,Cedarhurst,NY,11516,Y,PCP,Internal Medicine,"Boris Serebryansky, M.D., P.C.",M,Russian
+1275586687,Eli Inzlicht-Sprei,Kings,1041 East 8rd Street,Brooklyn,NY,11230,Y,PCP,Internal Medicine,Network Solutions IPA,M,"German, Hebrew, Yiddish"
+1275586687,Eli Inzlicht-Sprei,Queens,119-09 26th Avenue,Flushing,NY,11354,Y,PCP,Internal Medicine,Woodcrest,M,
+1275586687,Eli Inzlicht-Sprei,Queens,140 Beach 119th Street,Bell Harbor,NY,11694,Y,PCP,Internal Medicine,Network Solutions IPA,M,"German, Hebrew, Yiddish"
+1275586687,Eli Inzlicht-Sprei,Kings,1573 East 22nd Street,Brooklyn,NY,11210,Y,PCP,Internal Medicine,Network Solutions IPA,M,"German, Hebrew, Polish"
+1275586687,Eli Inzlicht-Sprei,Kings,620 Foster Avenue,Brooklyn,NY,11230,Y,PCP,Internal Medicine,,M,
+1275588022,Yashodhara Sanjay Kirtane,Queens,115-06 Beach Channel Drive,Rockaway Park,NY,11694,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,Hindi
+1275588022,Yashodhara Sanjay Kirtane,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,N,PCP,Internal Medicine,North Shore LIJ Medical PC,F,Hindi
+1275595787,Thomas Zong-Xun Lyo,Westchester,131 Park Avenue,Yonkers,NY,10703,Y,PCP,Internal Medicine,"Thomas Lyo Medical, PC",M,"Burmese, Chinese Mandarin"
+1275595787,Thomas Zong-Xun Lyo,Queens,139-87 35th Avenue,Flushing,NY,11354,Y,PCP,Internal Medicine,"Thomas Lyo Medical, PC",M,"Burmese, Chinese Mandarin"
+1275595787,Thomas Zong-Xun Lyo,Westchester,421 Huguenot Street,New Rochelle,NY,10801,Y,PCP,Internal Medicine,"Thomas Lyo Medical, PC",M,"Burmese, Chinese Mandarin"
+1275598575,Hue Tu Ly,Nassau,2001 Marcus Avenue,New Hyde Park,NY,11042,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,"Chinese Mandarin, Vietnamese"
+1275602096,Papanna Ravichandra,New York,120 East 36th Street,New York,NY,10016,Y,PCP,Internal Medicine,Arjun Medical Group PC,M,
+1275602963,Olusegun Olumuyiwa Ogunfowora,Kings,215 Rockaway Avenue,Brooklyn,NY,11233,Y,PCP,Internal Medicine,Multiviz Medical Services PC,M,Yoruba
+1275602963,Olusegun Olumuyiwa Ogunfowora,Queens,529 Beach 20th Street,Far Rockaway,NY,11691,Y,PCP,Internal Medicine,Multiviz Medical Services PC,M,Yoruba
+1275602963,Olusegun Olumuyiwa Ogunfowora,Nassau,80 North Franklin Street,Hempstead,NY,11550,Y,PCP,Internal Medicine,Multiviz Medical Services PC,M,Yoruba
+1275603250,Sergey V. Lugina,Kings,3049 Brighton 6th Street,Brooklyn,NY,11235,Y,PCP,Family Medicine,Executive Medical Care PC,M,
+1275611790,Muhammad Tahir,Kings,153 4th Avenue,Brooklyn,NY,11217,Y,PCP,Family Medicine,Network Solutions IPA,M,Urdu
+1275615551,Marcus Everest Riccioni,Kings,4802 10th Avenue,Brooklyn,NY,11219,Y,PCP,Family Medicine,MMC Emergency Physicians FPP,M,
+1275619892,Mark Tang,Nassau,221 Jericho Turnpike,Syosset,NY,11791,N,PCP,Family Medicine,North Shore-LIJ Medical PC ,M,
+1275619892,Mark Tang,Suffolk,270 Park Avenue,Huntington,NY,11743,N,PCP,Family Medicine,North Shore-LIJ Medical PC  ,M,
+1275619892,Mark Tang,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,N,PCP,Family Medicine,North Shore-LIJ Medical PC ,M,
+1275619892,Mark Tang,Nassau,300 Community Drive,Manhasset,NY,11030,N,PCP,Family Medicine,North Shore-LIJ Medical PC,M,
+1275619892,Mark Tang,Suffolk,301 East Main Street,Bay Shore,NY,11706,N,PCP,Family Medicine,North Shore-LIJ Medical PC ,M,
+1275619892,Mark Tang,Nassau,4300 Hempstead Turnpike,Bethpage,NY,11714,N,PCP,Family Medicine,North Shore-LIJ Medical PC,M,
+1275619892,Mark Tang,Westchester,701 North Broadway,Sleepy Hollow,NY,10591,Y,PCP,Family Medicine,North Shore-LIJ Medical PC ,M,
+1275619892,Mark Tang,Nassau,888 Old Country Road,Plainview,NY,11803,Y,PCP,Family Medicine,North Shore-LIJ Medical PC,M,
+1275619892,Mark Tang,Queens,900 Franklin Avenue,Valley Stream,NY,11580,Y,PCP,Family Medicine,North Shore-LIJ Medical PC,M,
+1275619892,Mark Tang,Queens,9525 Queens Boulevard,Rego Park,NY,11374,Y,PCP,Family Medicine,North Shore-LIJ Medical PC,M,
+1275631145,Emil Silberman,Queens,8900 Van Wyck Expressway,Jamaica,NY,11418,Y,PCP,Internal Medicine,Jamaica Hospital Medical Center,M,
+1275634651,Mark Harold Swartz,New York,55 East 124th Street,New York,NY,10035,Y,PCP,Internal Medicine,,M,
+1275639502,Benjamin Zibin Wu,Kings,730 60th Street,Brooklyn,NY,11220,Y,PCP,Family Medicine,"Benjamin Z. Wu, MD, PC",M,"Chinese - Cantonese, Chinese Mandarin"
+1275639502,Benjamin Zibin Wu,Kings,730 60th Street,Brooklyn,NY,11220,Y,PCP,Family Medicine,"Benjamin Z. Wu, MD, PC",M,"Chinese - Cantonese, Chinese Mandarin, Mandarin"
+1275647166,Robert Edward Fogel,Nassau,896 North Broadway,Massapequa,NY,11758,Y,PCP,Internal Medicine,Robert E Fogel  MD,M,
+1275650640,Sean Robert Wilson,Nassau,300 Community Drive,Manhasset,NY,11030,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
+1275657058,Naomi Smidt-Afek,Bronx,3011 Boston Road,Bronx,NY,10469,N,PCP,Family Medicine,MMC Williamsbridge Practice,F,
+1275657058,Naomi Smidt-Afek,Westchester,4401 Bronx Boulevard,Bronx,NY,10470,N,PCP,Family Medicine,MMC North Mental Health Clinic,F,
+1275657058,Naomi Smidt-Afek,New York,5525 Broadway,Bronx,NY,10463,N,PCP,Family Medicine,MMC Marble Hill Practice,F,
+1275693319,Grace Chia-Jong Lee,Nassau,300 Community Drive,Manhasset,NY,11030,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,
+1275693319,Grace Chia-Jong Lee,Nassau,865 Northern Boulevard,Great Neck,NY,11021,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,
+1275715153,Shakeel Ahmad Usmani,Kings,464 Bay Ridge Avenue,Brooklyn,NY,11220,Y,PCP,Internal Medicine,"RJ Medical & Urgent Care, PLLC",M,"Hindi, Urdu"
+1275728818,Laura Beth Czulada,Kings,1 Brookdale Plaza,Brooklyn,NY,11212,Y,PCP,Pediatrics,Brookdale Hospital Medical Center,F,
+1275763112,Okechukwu Christopher Igwe,Bronx,1550 University Avenue,Bronx,NY,10452,Y,PCP,Internal Medicine,"Essen Medical Associates, PC",M,"Igbo, Spanish"
+1275763112,Okechukwu Christopher Igwe,Bronx,2015 Grand Concourse,Bronx,NY,10453,Y,PCP,Internal Medicine,"Essen Medical Associates, PC",M,"Igbo, Spanish"
+1275776650,Irina Kimyagarova,Queens,111-29 Queens Boulevard,Forest Hills,NY,11375,Y,PCP,Family Medicine,Medex Diagnostic and Treatment center LLC,F,Russian
+1275787624,Gerald Thomas Field,Nassau,400 Community Drive,Manhasset,NY,11030,Y,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,M,
+1275800864,Reena J Patel,Queens,7846 Parson Boulevard,Flushing,NY,11366,Y,PCP,Internal Medicine,Network Solutions IPA,F,"Gurjarati, Hindi, Spanish"
+1275817827,Akshai Krishna Bhandary,New York,100 East 77th Street,New York,NY,10075,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
+1275819104,Joel Bumol,Bronx,1 Fordham Plaza,Bronx,NY,10458,N,PCP,Family Medicine,MMC Family Health Center,M,
+1275819104,Joel Bumol,Bronx,3011 Boston Road,Bronx,NY,10469,Y,PCP,Family Medicine,MMC Williamsbridge Practice,M,
+1275820078,Norah E Li,Bronx,100 West Mosholu Parkway South,Bronx,NY,10468,Y,PCP,Pediatrics,MMC at Dewitt Clinton School,F,
+1275820078,Norah E Li,Bronx,1000 Teller Avenue,Bronx,NY,10456,Y,PCP,Pediatrics,MMC at MS 145,F,
+1275820078,Norah E Li,Bronx,1110 Boston Road,Bronx,NY,10456,Y,PCP,Pediatrics,MMC at Morris Campus,F,
+1275820078,Norah E Li,Bronx,1180 Tinton Avenue,Bronx,NY,10456,Y,PCP,Pediatrics,MMC at PS 198,F,
+1275820078,Norah E Li,Bronx,1449 Shakespeare Avenue,Bronx,NY,10452,Y,PCP,Pediatrics,P.S. 199,F,
+1275820078,Norah E Li,Bronx,1501 Jerome Avenue,Bronx,NY,10452,Y,PCP,Pediatrics,Montefiore at New Settlement,F,
+1275820078,Norah E Li,Bronx,1600 Webster Avenue,Bronx,NY,10457,Y,PCP,Pediatrics,P.S. 147,F,
+1275820078,Norah E Li,Bronx,1861 Anthony Avenue,Bronx,NY,10457,Y,PCP,Pediatrics,Montefiore at CES 28/ PS 28,F,
+1275820078,Norah E Li,Bronx,1980 Lafayette Avenue,Bronx,NY,10473,Y,PCP,Pediatrics,Adlai E. Stevenson High School,F,
+1275820078,Norah E Li,Bronx,240 East 172nd Street,Bronx,NY,10457,Y,PCP,Pediatrics,MMC at Taft,F,
+1275820078,Norah E Li,Bronx,2400 Marion Avenue,Bronx,NY,10458,Y,PCP,Pediatrics,MMC at PS 85,F,
+1275820078,Norah E Li,Bronx,250 Thurman Munson Way,Bronx,NY,10451,Y,PCP,Pediatrics,JHS 151/KIPP Academy HS,F,
+1275820078,Norah E Li,Bronx,2502 Lorillard Place,Bronx,NY,10458,Y,PCP,Pediatrics,MMC at IS 45,F,
+1275820078,Norah E Li,Bronx,2780 Reservoir Avenue,Bronx,NY,10468,Y,PCP,Pediatrics,MMC at Walton High School,F,
+1275820078,Norah E Li,Bronx,3010 Briggs Avenue,Bronx,NY,10458,Y,PCP,Pediatrics,MMC at PS8,F,
+1275820078,Norah E Li,Bronx,3750 Baychester Avenue,Bronx,NY,10466,Y,PCP,Pediatrics,MMC at MS142/John Phillip Sousa,F,
+1275820078,Norah E Li,New York,3961 Hillman Avenue,Bronx,NY,10463,Y,PCP,Pediatrics,MMC at PS 95,F,
+1275820078,Norah E Li,Bronx,450 Saint Pauls Place,Bronx,NY,10456,Y,PCP,Pediatrics,MMC at PS 55,F,
+1275820078,Norah E Li,Bronx,456 White Plains Road,Bronx,NY,10473,N,PCP,Pediatrics,MMC at MS 174,F,
+1275820078,Norah E Li,Bronx,502 Morris Avenue,Bronx,NY,10451,Y,PCP,Pediatrics,MMC at PS 18,F,
+1275820078,Norah E Li,Bronx,701 Saint Anns Avenue,Bronx,NY,10455,Y,PCP,Pediatrics,MMC at South Bronx High School,F,
+1275820078,Norah E Li,Bronx,730 Concourse Village West,Bronx,NY,10451,Y,PCP,Pediatrics,MMC at Mott Haven School,F,
+1275820078,Norah E Li,Bronx,977 Fox Street,Bronx,NY,10459,Y,PCP,Pediatrics,MMC at IS 216 and 217/Rafael Herndez Middle School,F,
+1275832677,Shivani Verma,Kings,2316 Nostrand Avenue,Brooklyn,NY,11210,Y,PCP,Internal Medicine,,F,Spanish
+1275832677,Shivani Verma,Kings,4802 10th Avenue,Brooklyn,NY,11219,Y,PCP,Internal Medicine,Maimonides Cardiology FPP,F,
+1275832677,Shivani Verma,Kings,6010 Bay Parkway,Brooklyn,NY,11204,N,PCP,Internal Medicine,,F,Hindi
+1275832677,Shivani Verma,Kings,6323 7th Avenue,Brooklyn,NY,11220,Y,PCP,Internal Medicine,Maimonides Faculty Practice Plan,F,Hindi
+1275832677,Shivani Verma,Kings,648 Bay Ridge Parkway,Brooklyn,NY,11209,N,PCP,Internal Medicine,,F,Hindi
+1275832677,Shivani Verma,Kings,848 49th Street,Brooklyn,NY,11220,Y,PCP,Internal Medicine,Maimonides Cardiology FPP,F,
+1275832677,Shivani Verma,Kings,9020 5th Avenue,Brooklyn,NY,11209,Y,PCP,Internal Medicine,,F,
+1275836058,Marykutty Jacob,Suffolk,1267 East Main Street,Riverhead,NY,11901,N,PCP,Adult Health - Nurse Practitioner,North Shore LIJ Medical PC,F,Malayalam
+1275836058,Marykutty Jacob,Nassau,1554 Northern Boulevard,Manhasset,NY,11030,N,PCP,Adult Health - Nurse Practitioner,North Shore LIJ Medical PC,F,Malayalam
+1275836058,Marykutty Jacob,Suffolk,200 Motor Parkway,Hauppauge,NY,11788,N,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,Malayalam
+1275836058,Marykutty Jacob,Suffolk,222 Middle Country Road,Smithtown,NY,11787,N,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,Malayalam
+1275836058,Marykutty Jacob,Suffolk,284 Pulaski Road,Greenlawn,NY,11740,N,PCP,Adult Health - Nurse Practitioner,North Shore LIJ Medical PC,F,Malayalam
+1275836058,Marykutty Jacob,Nassau,300 Community Drive,Manhasset,NY,11030,N,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,Malayalam
+1275836058,Marykutty Jacob,Nassau,450 Lakeville Road,New Hyde Park,NY,11042,N,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,Malayalam
+1275837080,Khurram Shahzad Awan,Queens,2552 Steinway Street,Astoria,NY,11103,Y,PCP,Family Medicine,,M,
+1275847592,Shawna Andrade,Queens,8900 Van Wyck Expressway,Jamaica,NY,11418,N,PCP,Family Health - Nurse Practitioner,Jamaica Hospital Medical Center,F,
 1275860595,Seatbyul Diane Lee,Nassau,300 Community Drive,Manhasset,NY,11030,Y,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
 1275912495,Mark Stephen,Westchester,1010 Central Park Avenue,Yonkers,NY,10704,Y,PCP,Family Medicine,MMC Cross County Practice & Urgent Care,M,
 1275912495,Mark Stephen,Queens,111-20 Merrick Boulevard,St. Albans,NY,11433,Y,PCP,Family Medicine,Medisys Family Care Center,M,Telugu
@@ -3739,6 +3782,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1285060145,Karen Amanda Wilson,New York,130 East 77th Street,New York,NY,10075,N,PCP,Family Health - Nurse Practitioner,North Shore LIJ Medical PC,F,Spanish
 1285060145,Karen Amanda Wilson,New York,186 East 76th Street,New York,NY,10021,N,PCP,Family Health - Nurse Practitioner,"Lenox Hill Hospital Medical, PC",F,Spanish
 1285060145,Karen Amanda Wilson,New York,210 East 64th Street,New York,NY,10065,Y,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,Spanish
+1285061234,Mikhail Shvarts,Kings,4915 10th Avenue,Brooklyn,NY,11219,Y,PCP,Family Health - Nurse Practitioner,NYU Langone Physical Medicine and Rehabilitation Associates,M,
 1285065557,Milena Kolesnikova,Richmond,355 Bard Avenue,Staten Island,NY,10310,Y,PCP,Internal Medicine,Orlin & Cohen Medical Specialists Group,F,
 1285065557,Milena Kolesnikova,Richmond,586 Midland Avenue,Staten Island,NY,10306,Y,PCP,Internal Medicine,"MEDICAL DOCTOR MILENA KOLESNIKOVA, P.C.",F,
 1285065557,Milena Kolesnikova,Kings,8405 Bay Parkway,Brooklyn,NY,11214,Y,PCP,Internal Medicine,"MEDICAL DOCTOR MILENA KOLESNIKOVA, P.C.",F,
@@ -4047,8 +4091,8 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1306332739,Jorge S Merino Herrera,Bronx,1265 Franklin Avenue,Bronx,NY,10456,N,PCP,Family Medicine,Martin Luther King Jr. Health Center,M,Spanish
 1306332739,Jorge S Merino Herrera,Bronx,1276 Fulton Avenue,Bronx,NY,10456,N,PCP,Family Medicine,Wellness Center,M,Spanish
 1306332739,Jorge S Merino Herrera,Bronx,1276 Fulton Avenue,Bronx,NY,10456,N,PCP,Family Medicine,Family Medicine Center,M,Spanish
-1306332739,Jorge S Merino Herrera,Bronx,1591 Fulton Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Crotona Park Family Practice,M,Spanish
 1306332739,Jorge S Merino Herrera,Bronx,1650 Grand Concourse,Bronx,NY,10457,N,PCP,Family Medicine,BronxCare Inpatient,M,Spanish
+1306332739,Jorge S Merino Herrera,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,M,Spanish
 1306332739,Jorge S Merino Herrera,Bronx,1690 Bryant Avenue,Bronx,NY,10460,N,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,M,Spanish
 1306369608,Simon Grecel Mendez Bustamante,Bronx,111 East 210th Street,Bronx,NY,10467,Y,PCP,Internal Medicine,Montefiore Medical Center,M,
 1306369608,Simon Grecel Mendez Bustamante,Bronx,1825 Eastchester Road,Bronx,NY,10461,Y,PCP,Internal Medicine,MMC Einstein Division,M,
@@ -4153,6 +4197,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1316100506,Ayilam Sudarsanam Sudhakar,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Wellness Center,M,"Hindi, Telugu"
 1316100506,Ayilam Sudarsanam Sudhakar,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Family Medicine Center,M,"Hindi, Telugu"
 1316100506,Ayilam Sudarsanam Sudhakar,Bronx,1650 Grand Concourse,Bronx,NY,10457,Y,PCP,Family Medicine,BronxCare Inpatient,M,"Hindi, Telugu"
+1316100506,Ayilam Sudarsanam Sudhakar,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,M,"Hindi, Telugu"
 1316100506,Ayilam Sudarsanam Sudhakar,Bronx,199 Mount Eden Parkway,Bronx,NY,10457,Y,PCP,Family Medicine,BRONXCARE HEALTH SYSTEM,M,"Hindi, Telugu"
 1316103112,Arkady Cherchever,Kings,1 Brookdale Plaza,Brooklyn,NY,11212,Y,PCP,Internal Medicine,Brookdale Hospital Medical Center,M,
 1316104086,Michael Salamatbad,Nassau,615B Middle Neck Road,Great Neck,NY,11023,Y,PCP,Family Medicine,,M,
@@ -4236,6 +4281,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1316960941,Abdurhman Ahmed,Bronx,4487 3rd Avenue,Bronx,NY,10457,Y,PCP,Internal Medicine,William E Kalafatic MD,M,
 1316973506,Garry Hanan Stark,Nassau,2035 Lakeville Road,New Hyde Park,NY,11040,Y,PCP,Family Medicine,Medman Primary Care Medicine PC,M,"Hebrew, Romanian, Spanish"
 1316979651,Kuocheng Wang,Queens,141 Division Street,New York,NY,10002,Y,PCP,Internal Medicine,"Kuocheng Wang, MD, PC",M,Chinese Mandarin
+1316988165,Mujibur Rahman Majumder,Kings,1122 A Coney Island Avenue,Brooklyn,NY,11230,Y,PCP,Internal Medicine,"Mujibur R. Majumder, MD, PC",M,"French, Spanish"
 1316988165,Mujibur Rahman Majumder,Kings,1122A Coney Island Avenue,Brooklyn,NY,11230,N,PCP,Internal Medicine,"MUJIBUR R. MAJUMDER, MD, PC",M,
 1316988165,Mujibur Rahman Majumder,Queens,113-11 Jamaica Avenue,Richmond Hill,NY,11418,N,PCP,Internal Medicine,"EAST ELMHURST PRIMARY MEDICAL CARE, PLLC",M,
 1316988165,Mujibur Rahman Majumder,Nassau,1905 Hempstead Turnpike,East Meadow,NY,11554,Y,PCP,Internal Medicine,"Richmond Hill Sleep Center, Inc.",M,Urdu
@@ -4380,6 +4426,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1326407693,Margarite Consolmagno,New York,130 East 77th Street,New York,NY,10075,Y,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
 1326435512,Rada Norov,Kings,1911 Avenue L,Brooklyn,NY,11230,Y,PCP,Internal Medicine,Brookwell Medical Pc,F,Russian
 1326435512,Rada Norov,Kings,535 Clinton Avenue,Brooklyn,NY,11238,Y,PCP,Internal Medicine,Sunrise Medical Group,F,Russian
+1326456088,Kerill Pochetuhen,Kings,1220 Avenue P,Brooklyn,NY,11229,N,PCP,Family Medicine,NYU Radiology Associates,M,
 1326456088,Kerill Pochetuhen,Kings,4119 18th Avenue,Brooklyn,NY,11218,Y,PCP,Family Medicine,CityCare Medical P.C.,M,Russian
 1326459496,Jing Xu,Queens,8708 Justice Avenue,Elmhurst,NY,11373,Y,PCP,Internal Medicine,"Jing Xu MD, PLLC",F,"Chinese - Cantonese, Chinese Mandarin"
 1326467085,Jennifer Delli Carpini,Bronx,1825 Eastchester Road,Bronx,NY,10461,N,PCP,Internal Medicine,MMC Einstein Division,F,
@@ -4404,12 +4451,10 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1336109701,Salwa Mikhail Gerges,Kings,4721 Fort Hamilton Parkway,Brooklyn,NY,11219,N,PCP,Internal Medicine,,F,Spanish
 1336109701,Salwa Mikhail Gerges,Kings,4802 10th Avenue,Brooklyn,NY,11219,Y,PCP,Internal Medicine,MMC Division of Geriatric Medicine FPP,F,
 1336109701,Salwa Mikhail Gerges,Kings,4802 10th Avenue,Brooklyn,NY,11219,Y,PCP,Internal Medicine,MMC Division of Geriatric Medicine FPP,F,
-1336109701,Salwa Mikhail Gerges,Kings,4915 10th Avenue,Brooklyn,NY,11219,Y,PCP,Internal Medicine,,F,
-1336109701,Salwa Mikhail Gerges,Kings,4915 10th Avenue,Brooklyn,NY,11219,Y,PCP,Internal Medicine,,F,
-1336109701,Salwa Mikhail Gerges,Kings,4915 10th Avenue,Brooklyn,NY,11219,Y,PCP,Internal Medicine,NYU Langone Physical Medicine and Rehabilitation Associates,F,
-1336109701,Salwa Mikhail Gerges,Kings,4915 10th Avenue,Brooklyn,NY,11219,Y,PCP,Internal Medicine,NYU Langone Physical Medicine and Rehabilitation Associates,F,
 1336109701,Salwa Mikhail Gerges,Kings,948 48th Street,Brooklyn,NY,11219,Y,PCP,Internal Medicine,,F,
 1336109875,Kanwardeep S Aiden,Richmond,444 Huguenot Avenue,Staten Island,NY,10312,N,PCP,Internal Medicine,Premier Internal Medicine Associates of New York,M,"Hindi, Punjabi, Urdu"
+1336129584,Frank Cacace,Queens,256-11 Union Turnpike,Glen Oaks,NY,11004,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,Spanish
+1336129584,Frank Cacace,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,Spanish
 1336129584,Frank Cacace,Nassau,300 Community Drive,Manhasset,NY,11030,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,Spanish
 1336129584,Frank Cacace,Nassau,865 Northern Boulevard,Great Neck,NY,11021,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,Spanish
 1336149921,Paul Friedman,Nassau,77 North Centre Avenue,Rockville Centre,NY,11570,Y,PCP,Internal Medicine,,M,
@@ -4630,7 +4675,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1346775640,Elena Hill,Bronx,1067 Ogden Avenue,Bronx,NY,10452,N,PCP,Family Medicine,Ogden Dental Clinic,F,
 1346775640,Elena Hill,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Wellness Center,F,
 1346775640,Elena Hill,Bronx,1276 Fulton Avenue,Bronx,NY,10456,N,PCP,Family Medicine,Family Medicine Center,F,
-1346775640,Elena Hill,Bronx,1591 Fulton Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Crotona Park Family Practice,F,
+1346775640,Elena Hill,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,F,Spanish
 1346775640,Elena Hill,Bronx,1690 Bryant Avenue,Bronx,NY,10460,N,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,F,
 1346780244,Jintu Johnson,Nassau,400 Community Drive,Manhasset,NY,11030,N,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,Malayalam
 1346791464,Sochi Nkenke,Bronx,1055 East Tremont Avenue,Bronx,NY,10460,N,PCP,Family Health - Nurse Practitioner,MMC West Farms Practice,F,
@@ -4686,8 +4731,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1356501654,Jennifer Conroy,New York,200 West 13th Street,New York,NY,10011,N,PCP,Internal Medicine,North Shore LIJ Medical PC,F,
 1356501654,Jennifer Conroy,New York,4334 Broadway,New York,NY,10033,N,PCP,Internal Medicine,North Shore LIJ Medical PC,F,
 1356501654,Jennifer Conroy,New York,5 Hamilton Place,New York,NY,10031,N,PCP,Internal Medicine,North Shore LIJ Medical PC,F,
-1356502595,Kerry Jeanne Murphy,Bronx,1300 Morris Park Avenue,Bronx,NY,10461,Y,PCP,Internal Medicine,MMC At AECOM,F,
-1356502595,Kerry Jeanne Murphy,Bronx,1825 Eastchester Road,Bronx,NY,10461,Y,PCP,Internal Medicine,MMC Einstein Division,F,
 1356502595,Kerry Jeanne Murphy,Bronx,3444 Kossuth Avenue,Bronx,NY,10467,Y,PCP,Internal Medicine,MMC Family Care Center,F,
 1356509715,Mana Mann,Bronx,1225 Morris Park Avenue,Bronx,NY,10461,N,PCP,Pediatrics,CERC/Rose F. Kennedy Center,F,
 1356516462,Ala-May Pabillo Lumibao,Bronx,1800 Waring Avenue,Bronx,NY,10469,Y,PCP,Internal Medicine,,F,
@@ -4729,7 +4772,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1356726947,Consuelo Yesenia Feliz Mendez,Bronx,1067 Ogden Avenue,Bronx,NY,10452,N,PCP,Family Medicine,Ogden Dental Clinic,F,
 1356726947,Consuelo Yesenia Feliz Mendez,Bronx,1276 Fulton Avenue,Bronx,NY,10456,N,PCP,Family Medicine,Wellness Center,F,
 1356726947,Consuelo Yesenia Feliz Mendez,Bronx,1276 Fulton Avenue,Bronx,NY,10456,N,PCP,Family Medicine,Family Medicine Center,F,
-1356726947,Consuelo Yesenia Feliz Mendez,Bronx,1591 Fulton Avenue,Bronx,NY,10457,Y,PCP,Family Medicine,Crotona Park Family Practice,F,
+1356726947,Consuelo Yesenia Feliz Mendez,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,F,
 1356726947,Consuelo Yesenia Feliz Mendez,Bronx,1690 Bryant Avenue,Bronx,NY,10460,N,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,F,
 1356728687,Emily Fisher,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Internal Medicine,Montefiore Medical Center,F,
 1356728687,Emily Fisher,Bronx,1825 Eastchester Road,Bronx,NY,10461,N,PCP,Internal Medicine,MMC Einstein Division,F,
@@ -4838,8 +4881,8 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1366730699,Sindhura Manubolu,Bronx,1265 Franklin Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Martin Luther King Jr. Health Center,F,"Hindi, Kannada, Telugu"
 1366730699,Sindhura Manubolu,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Wellness Center,F,"Hindi, Kannada, Telugu"
 1366730699,Sindhura Manubolu,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Family Medicine Center,F,"Hindi, Kannada, Telugu"
-1366730699,Sindhura Manubolu,Bronx,1591 Fulton Avenue,Bronx,NY,10457,Y,PCP,Family Medicine,Crotona Park Family Practice,F,"Hindi, Kannada, Telugu"
 1366730699,Sindhura Manubolu,Bronx,1650 Grand Concourse,Bronx,NY,10457,Y,PCP,Family Medicine,BronxCare Inpatient,F,"Hindi, Kannada, Telugu"
+1366730699,Sindhura Manubolu,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,F,"Hindi, Kannada, Telugu"
 1366730699,Sindhura Manubolu,Bronx,1690 Bryant Avenue,Bronx,NY,10460,Y,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,F,"Hindi, Kannada, Telugu"
 1366759847,Sidonie Alethe Brown,New York,550 1st Avenue,New York,NY,10016,Y,PCP,Adult Health - Nurse Practitioner,NYU NP and PA Services,F,
 1366763120,Danielle Tamar Friedman,Kings,4802 10th Avenue,Brooklyn,NY,11219,Y,PCP,Internal Medicine,,F,
@@ -4857,8 +4900,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1366820185,Andrea Jakubowski,Bronx,600 East 233rd Street,Bronx,NY,10466,N,PCP,Internal Medicine,Montefiore Medical Center,F,
 1366820185,Andrea Jakubowski,Bronx,804 East 138th Street,Bronx,NY,10454,N,PCP,Internal Medicine,MMC Wellness Center at Port Morris,F,
 1366849937,Christina Ann Parkot,Erie,3950 East Robinson Road,West Amherst,NY,14228,Y,PCP,Family Health - Nurse Practitioner,Highgate Medical Group Pc,F,
-1366855868,Kseniya Slobodyanyuk,New York,111 Broadway,New York,NY,10006,Y,PCP,Internal Medicine,NYU Langone Trinity Center,F,
-1366855868,Kseniya Slobodyanyuk,Queens,171 Delancey Street,New York,NY,10002,N,PCP,Internal Medicine,NYU Radiology Associates,F,
 1366856676,Cariane Morales Matos,Bronx,3230 Bainbridge Avenue,Bronx,NY,10467,Y,PCP,Internal Medicine,MMC STD Center of Excellence,F,
 1366856676,Cariane Morales Matos,Bronx,3444 Kossuth Avenue,Bronx,NY,10467,N,PCP,Internal Medicine,MMC Family Care Center,F,
 1366862328,Richard Patrick Lopez,New York,100 East 77th Street,New York,NY,10075,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
@@ -4899,7 +4940,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1366997363,Ying Chen,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,Y,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
 1376079392,May Zaw,Bronx,1265 Franklin Avenue,Bronx,NY,10456,N,PCP,Internal Medicine,Martin Luther King Jr. Health Center,F,
 1376079392,May Zaw,Bronx,1650 Grand Concourse,Bronx,NY,10457,N,PCP,Internal Medicine,BronxCare Inpatient,F,
-1376149724,Earlena C Henderson,Bronx,1371 Seabury Avenue,Bronx,NY,10461,N,PCP,Adult Health - Nurse Practitioner,"House Call Medical Services of New York, PLLC",F,Spanish
 1376179440,Christine Coscia,Kings,1167 Nostrand Avenue,Brooklyn,NY,11225,N,PCP,Family Health - Nurse Practitioner,Crown Heights Health Center,F,
 1376179440,Christine Coscia,Queens,150 Essex Street,New York,NY,10002,Y,PCP,Family Health - Nurse Practitioner,Lower East Side Health Center,F,
 1376179440,Christine Coscia,Kings,2581 Atlantic Avenue,Brooklyn,NY,11207,N,PCP,Family Health - Nurse Practitioner,East New York Hub Health Center,F,
@@ -5122,7 +5162,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1386917888,Amy Koontz Tucker,New York,100 East 77th Street,New York,NY,10075,N,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
 1386917888,Amy Koontz Tucker,New York,130 East 77th Street,New York,NY,10075,N,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
 1386918282,Alexandra Perrone,Nassau,101 Saint Andrews Lane,Glen Cove,NY,11542,N,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC ,F,French
-1386922359,Jessica Mon ChinTan,Queens,142-05 Roosevelt Avenue,Flushing,NY,11354,Y,PCP,Family Medicine,"David Yun, DO and Jessica Chin-Tan, DO PLLC",F,Chinese Mandarin
+1386922359,Jessica Mon ChinTan,Queens,142-05 Roosevelt Avenue,Flushing,NY,11354,Y,PCP,Family Medicine,"David Yun, DO and Jessica Chin-Tan, DO PLLC",F,
 1386928265,Jaiby J Augustine,Bronx,1371 Seabury Avenue,Bronx,NY,10461,N,PCP,Adult Health - Nurse Practitioner,"House Call Medical Services of New York, PLLC",M,Malayalam
 1386928265,Jaiby J Augustine,Bronx,2015 Grand Concourse,Bronx,NY,10453,Y,PCP,Adult Health - Nurse Practitioner,"Essen Medical Associates, PC",M,"Hindi, Malayalam"
 1386932309,Maudina Gumbs,Bronx,1621 Eastchester Road,Bronx,NY,10461,Y,PCP,Pediatrics,MMG CFCC,F,
@@ -5210,6 +5250,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1396792594,Ali Abu-Bakr Khusseyn,Kings,4766B Bedford Avenue,Brooklyn,NY,11235,Y,PCP,Internal Medicine,AKH Medical PC,M,
 1396792867,Carl Nicoleau,Queens,11311 Jamaica Avenue,Richmond Hill,NY,11418,N,PCP,Internal Medicine,"EAST ELMHURST PRIMARY MEDICAL CARE, PLLC",M,
 1396792867,Carl Nicoleau,Kings,2398 Coney Island Avenue,Brooklyn,NY,11223,N,PCP,Internal Medicine,"EAST ELMHURST PRIMARY MEDICAL CARE, PLLC",M,
+1396792867,Carl Nicoleau,Kings,2398 Coney Island Avenue,Brooklyn,NY,11223,N,PCP,Internal Medicine,"EAST ELMHURST PRIMARY MEDICAL CARE, PLLC",M,French
 1396792867,Carl Nicoleau,Queens,7501 31st Street,East Elmhurst,NY,11370,Y,PCP,Internal Medicine,East Elmhurst primary Medical Care,M,French
 1396792867,Carl Nicoleau,Queens,9009 Rockaway Beach Boulevard,Rockaway Beach,NY,11693,N,PCP,Internal Medicine,"EAST ELMHURST PRIMARY MEDICAL CARE, PLLC",M,
 1396793113,Alexander Vaysman,Queens,493 Beach 20th Street,Far Rockaway,NY,11691,Y,PCP,Internal Medicine,,M,
@@ -5498,8 +5539,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1417223421,Gene Anthony DeCastro,Nassau,330 Community Drive,Manhasset,NY,11030,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
 1417223421,Gene Anthony DeCastro,Queens,7559 263rd Street,Glen Oaks,NY,11004,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
 1417241050,Mark Nicholas Stahlschmidt,Queens,4500 Parsons Boulevard,Flushing,NY,11355,N,PCP,Family Medicine,Flushing Hospital Medical Center,M,
-1417256728,Shiru Ye,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,Chinese - Cantonese
-1417256728,Shiru Ye,Nassau,300 Community Drive,Manhasset,NY,11030,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,Chinese - Cantonese
 1417263328,Olasunkanmi Bhadmus,Kings,4713 Church Avenue,Brooklyn,NY,11203,Y,PCP,Adult Health - Nurse Practitioner,"Heartcare Consultant, LLC",M,
 1417273772,Arye Kremer,Kings,3839 Flatlands Avenue,Brooklyn,NY,11234,Y,PCP,Internal Medicine,,M,
 1417276445,Shikha Jain,Suffolk,301 East Main Street,Bay Shore,NY,11706,N,PCP,Family Medicine,North Shore-LIJ Medical PC  ,F,Hindi
@@ -5541,14 +5580,14 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1417925553,Vijaya Govinda Reddi,Bronx,1265 Franklin Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Martin Luther King Jr. Health Center,F,"Tamil, Telugu"
 1417925553,Vijaya Govinda Reddi,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Wellness Center,F,"Tamil, Telugu"
 1417925553,Vijaya Govinda Reddi,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Family Medicine Center,F,"Tamil, Telugu"
-1417925553,Vijaya Govinda Reddi,Bronx,1591 Fulton Avenue,Bronx,NY,10457,Y,PCP,Family Medicine,Crotona Park Family Practice,F,"Tamil, Telugu"
 1417925553,Vijaya Govinda Reddi,Bronx,1650 Grand Concourse,Bronx,NY,10457,Y,PCP,Family Medicine,BronxCare Inpatient,F,"Tamil, Telugu"
+1417925553,Vijaya Govinda Reddi,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,F,"Tamil, Telugu"
 1417925553,Vijaya Govinda Reddi,Bronx,1690 Bryant Avenue,Bronx,NY,10460,Y,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,F,"Tamil, Telugu"
 1417930546,Garbis Antranik Dabaghian,Richmond,242 Mason Avenue,Staten Island,NY,10305,Y,PCP,Internal Medicine,"PHYSICIANS OF UNIVERSITY HOSPITAL, PC",M,
 1417941618,Cherif M. El Younis,Kings,1 Brookdale Plaza,Brooklyn,NY,11212,Y,PCP,Internal Medicine,Brookdale Hospital Medical Center,M,Arabic
 1417949686,Kruawan Paksaichol,Kings,123 Pennsylvania Avenue,Brooklyn,NY,11207,Y,PCP,Internal Medicine,,F,
 1417956822,Patricia Maria Hart,Kings,391 Eastern Parkway,Brooklyn,NY,11216,Y,PCP,Internal Medicine,"Patricia Hart, MD",F,
-1417967514,Nicholas Bambino,Orange,19 Laurel Avenue,Cornwall,NY,12518,N,PCP,Internal Medicine,"Hudson Vista Medical, PC.",M,
+1417967514,Nicholas Bambino,Orange,19 Laurel Avenue,Cornwall,NY,12518,Y,PCP,Internal Medicine,"Hudson Vista Medical, PC.",M,
 1417976176,Brenda Carmen Gomez,Nassau,101 Saint Andrews Lane,Glen Cove,NY,11542,Y,PCP,Family Medicine,North Shore LIJ Medical PC,F,Spanish
 1417976176,Brenda Carmen Gomez,Nassau,70 West Main Street,Oyster Bay,NY,11771,N,PCP,Family Medicine,North Shore LIJ Medical PC,F,Spanish
 1417983669,Genevieve M Rebuffot,Westchester,41 East Post Road,White Plains,NY,10601,N,PCP,Family Medicine,WPH-Family Health Center,F,
@@ -5654,11 +5693,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1427269257,Xiaojun Guo,Nassau,45 North Station Plaza,Great Neck,NY,11021,Y,PCP,Internal Medicine,GXJ Medical Healthcare PC,M,Chinese Mandarin
 1427283944,Myriam Berthnell Joseph,Kings,650 Fulton Avenue,Brooklyn,NY,11217,Y,PCP,Adult Health - Nurse Practitioner,,F,
 1427288927,Philip Chin,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Internal Medicine,Montefiore Medical Center,M,Chinese - Cantonese
-1427289586,Patricia R MacDonald,Suffolk,250 East Main Street,Bay Shore,NY,11706,N,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
-1427289586,Patricia R MacDonald,Suffolk,270 Park Avenue,Huntington,NY,11743,N,PCP,Family Health - Nurse Practitioner,Huntington Hospital,F,
-1427289586,Patricia R MacDonald,Suffolk,284 Pulaski Road,Greenlawn,NY,11740,N,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
-1427289586,Patricia R MacDonald,Suffolk,301 East Main Street,Bay Shore,NY,11706,N,PCP,Family Health - Nurse Practitioner,Southside Hospital,F,
-1427289586,Patricia R MacDonald,Suffolk,755 New York Avenue,Huntington,NY,11743,N,PCP,Family Health - Nurse Practitioner,North Shore LIJ Medical PC,F,
 1427312446,Dewan S Rahman,Suffolk,100 Hospital Road,Patchogue,NY,11772,Y,PCP,Family Medicine,"Brookhaven Physician Services, PC",M,
 1427315415,Kenyani Shareen Davis,Erie,34 Benwood Avenue,Buffalo,NY,14214,Y,PCP,Internal Medicine,Community Health Center of Buffalo,F,
 1427315415,Kenyani Shareen Davis,Erie,934 Cleveland Drive,Cheektowaga,NY,14225,Y,PCP,Internal Medicine,,F,
@@ -5789,7 +5823,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1437413036,Jamie Jianmin Meng,Kings,550 5th Avenue,Brooklyn,NY,11215,Y,PCP,Internal Medicine,,F,Chinese Mandarin
 1437413036,Jamie Jianmin Meng,Kings,6010 Bay Parkway,Brooklyn,NY,11204,Y,PCP,Internal Medicine,,F,Chinese Mandarin
 1437413036,Jamie Jianmin Meng,Kings,648 Bay Ridge Parkway,Brooklyn,NY,11209,N,PCP,Internal Medicine,,F,Chinese Mandarin
-1437415197,Linda Magnie Amah,Kings,1 Brookdale Plaza,Brooklyn,NY,11212,Y,PCP,Internal Medicine,Brookdale Hospital Medical Center,F,
 1437435047,Juan Robles,Bronx,1 Fordham Plaza,Bronx,NY,10458,Y,PCP,Family Medicine,MMC Family Health Center,M,
 1437435047,Juan Robles,Bronx,3011 Boston Road,Bronx,NY,10469,N,PCP,Family Medicine,MMC Williamsbridge Practice,M,
 1437439429,Janine Adamczyk,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Internal Medicine,Montefiore Medical Center,F,
@@ -5870,10 +5903,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1447311790,Imelda Punsalan,Queens,8900 Van Wyck Expressway,Jamaica,NY,11418,Y,PCP,Pediatrics,Jamaica Hospital Medical Center,F,Filipino
 1447315338,Firas Lutfi Barakat,Bronx,1578 Williamsbridge Road,Bronx,NY,10461,Y,PCP,Internal Medicine,B & K Medical Associates LLC,M,"Arabic, Russian"
 1447321310,Bruce Levitt,Rockland,200 East Eckerson Road,New City,NY,10956,N,PCP,Internal Medicine,Clarkstown Medical Associates,M,
-1447326673,Rosalyn Harrison,Westchester,1010 Central Park Avenue,Yonkers,NY,10704,Y,PCP,Internal Medicine,MMC Cross County Practice & Urgent Care,F,
-1447326673,Rosalyn Harrison,Bronx,2100 Bartow Avenue,Bronx,NY,10475,N,PCP,Internal Medicine,MMC CoOp City at Bartow,F,
-1447326673,Rosalyn Harrison,Bronx,2300 Westchester Avenue,Bronx,NY,10462,Y,PCP,Internal Medicine,MMC Urgent Care Center,F,
-1447326673,Rosalyn Harrison,Bronx,2532 Grand Concourse,Bronx,NY,10458,Y,PCP,Internal Medicine,MMC Urgent Care Center Grand Concourse,F,
 1447335575,Marji Gold,Bronx,1 Fordham Plaza,Bronx,NY,10458,Y,PCP,Family Medicine,MMC Family Health Center,F,
 1447335575,Marji Gold,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Family Medicine,Montefiore Medical Center,F,
 1447335575,Marji Gold,Bronx,1825 Eastchester Road,Bronx,NY,10461,Y,PCP,Family Medicine,MMC Einstein Division,F,
@@ -6140,8 +6169,8 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1467508309,Rajya Lakshmi Yalla,Bronx,1265 Franklin Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Martin Luther King Jr. Health Center,F,"French, Spanish, Telugu"
 1467508309,Rajya Lakshmi Yalla,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Wellness Center,F,"French, Spanish, Telugu"
 1467508309,Rajya Lakshmi Yalla,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Family Medicine Center,F,"French, Spanish, Telugu"
-1467508309,Rajya Lakshmi Yalla,Bronx,1591 Fulton Avenue,Bronx,NY,10457,Y,PCP,Family Medicine,Crotona Park Family Practice,F,"French, Spanish, Telugu"
 1467508309,Rajya Lakshmi Yalla,Bronx,1650 Grand Concourse,Bronx,NY,10457,Y,PCP,Family Medicine,BronxCare Inpatient,F,"French, Spanish, Telugu"
+1467508309,Rajya Lakshmi Yalla,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,F,"French, Spanish, Telugu"
 1467508309,Rajya Lakshmi Yalla,Bronx,1690 Bryant Avenue,Bronx,NY,10460,N,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,F,"French, Spanish, Telugu"
 1467508309,Rajya Lakshmi Yalla,Bronx,2739-2745 3rd Avenue,Bronx,NY,10451,Y,PCP,Family Medicine,BRONXCARE HEALTH SYSTEM,F,"French, Spanish, Telugu"
 1467512657,Farzana Nizami,Queens,8746 Chelsea Street,Jamaica,NY,11432,Y,PCP,Internal Medicine,Hillside Medical Care NYC PC,F,
@@ -6237,7 +6266,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1467857508,Arghavan Zangeneh Sadeghizangeneh,Bronx,111 East 210th Street,Bronx,NY,10467,Y,PCP,Family Medicine,Montefiore Medical Center,F,
 1467857508,Arghavan Zangeneh Sadeghizangeneh,Bronx,1276 Fulton Avenue,Bronx,NY,10456,N,PCP,Family Medicine,Wellness Center,F,Spanish
 1467857508,Arghavan Zangeneh Sadeghizangeneh,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Family Medicine Center,F,Spanish
-1467857508,Arghavan Zangeneh Sadeghizangeneh,Bronx,1591 Fulton Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Crotona Park Family Practice,F,Spanish
+1467857508,Arghavan Zangeneh Sadeghizangeneh,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,F,Spanish
 1467857508,Arghavan Zangeneh Sadeghizangeneh,Bronx,1690 Bryant Avenue,Bronx,NY,10460,N,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,F,Spanish
 1467857508,Arghavan Zangeneh Sadeghizangeneh,Bronx,600 East 233rd Street,Bronx,NY,10466,Y,PCP,Family Medicine,Montefiore Wakefield Campus,F,
 1467866897,Alexander Mironov,Nassau,488 Great Neck Road,Great Neck,NY,11021,Y,PCP,Internal Medicine,NYU Langone Great Neck Medical,M,
@@ -6255,7 +6284,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1467999409,Amalya Isakova,Bronx,2050 Eastchester Road,Bronx,NY,10461,Y,PCP,Adult Health - Nurse Practitioner,,F,
 1467999409,Amalya Isakova,Kings,2329 Nostrand Avenue,Brooklyn,NY,11210,Y,PCP,Adult Health - Nurse Practitioner,Gramercy Cardiac Diagnostic Service,F,
 1467999409,Amalya Isakova,Bronx,865A Walton Avenue,Bronx,NY,10451,Y,PCP,Adult Health - Nurse Practitioner,,F,
-1477020600,Natalia Kotlik,Bronx,1371 Seabury Avenue,Bronx,NY,10461,N,PCP,Family Health - Nurse Practitioner,"House Call Medical Services of New York, PLLC",F,Spanish
 1477020600,Natalia Kotlik,Kings,332 Dekalb Avenue,Brooklyn,NY,11205,Y,PCP,Family Health - Nurse Practitioner,"Wyckoff Professional Medical Services, PC",F,Russian
 1477020600,Natalia Kotlik,Kings,37 5th Avenue,Brooklyn,NY,11217,Y,PCP,Family Health - Nurse Practitioner,"Prominis Medicial Services, PC",F,Russian
 1477077535,John Mark Carlos Bonagua,Bronx,612 Allerton Avenue,Bronx,NY,10467,Y,PCP,Adult Health - Nurse Practitioner,"YDR Geriatrics and Nephrology, LLP",M,
@@ -6387,8 +6415,8 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1477993020,Laurence Robert Miller,Bronx,1265 Franklin Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Martin Luther King Jr. Health Center,M,Spanish
 1477993020,Laurence Robert Miller,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Wellness Center,M,Spanish
 1477993020,Laurence Robert Miller,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Family Medicine Center,M,Spanish
-1477993020,Laurence Robert Miller,Bronx,1591 Fulton Avenue,Bronx,NY,10457,Y,PCP,Family Medicine,Crotona Park Family Practice,M,Spanish
 1477993020,Laurence Robert Miller,Bronx,1650 Grand Concourse,Bronx,NY,10457,Y,PCP,Family Medicine,BronxCare Inpatient,M,Spanish
+1477993020,Laurence Robert Miller,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,M,Spanish
 1477993020,Laurence Robert Miller,Bronx,1690 Bryant Avenue,Bronx,NY,10460,Y,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,M,Spanish
 1487008777,Nidhi P Kudur,Suffolk,9 Brooksite Drive,Smithtown,NY,11787,Y,PCP,Family Medicine,North Shore-LIJ Medical PC,F,
 1487027496,Shujing Lin,Kings,6309 New Utrecht Avenue,Brooklyn,NY,11219,Y,PCP,Internal Medicine,Goodland Medical P.C.,F,Chinese Mandarin
@@ -6405,7 +6433,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1487064424,Yeon Joung Elebiary,Suffolk,200 West Main Street,Babylon,NY,11702,N,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,Korean
 1487064424,Yeon Joung Elebiary,Suffolk,301 East Main Street,Bay Shore,NY,11706,N,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,Korean
 1487087193,Luqman Opeyemi Salahudeen,Bronx,3391 3rd Avenue,Bronx,NY,10456,N,PCP,Internal Medicine,BISSALAM MEDICAL LLC,M,
-1487087193,Luqman Opeyemi Salahudeen,Kings,374 Stockholm Street,Brooklyn,NY,11237,Y,PCP,Internal Medicine,"Wyckoff Professional Medical Services, PC",M,
 1487095196,Carlos Miguel Tellechea,Bronx,612 Allerton Avenue,Bronx,NY,10467,Y,PCP,Internal Medicine,"YDR Geriatrics and Nephrology, LLP",M,
 1487098661,Sadia Arshad,Suffolk,301 East Main Street,Bay Shore,NY,11706,N,PCP,Internal Medicine,North Shore-LIJ Medical PC  ,F,Hindi
 1487158820,Angela Yvonne Thomas,Bronx,612 Allerton Avenue,Bronx,NY,10467,Y,PCP,Family Health - Nurse Practitioner,"YDR Geriatrics and Nephrology, LLP",F,
@@ -6455,6 +6482,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1487730339,Victoria Shulman,Bronx,2532 Grand Concourse,Bronx,NY,10458,Y,PCP,Pediatrics,MMC Urgent Care Center Grand Concourse,F,
 1487730339,Victoria Shulman,Bronx,3415 Bainbridge Avenue,Bronx,NY,10467,N,PCP,Pediatrics,MMC CHAM,F,
 1487749685,Aisha K Prim,Bronx,100 West Mosholu Parkway South,Bronx,NY,10468,Y,PCP,Pediatrics,MMC at Dewitt Clinton School,F,
+1487749685,Aisha K Prim,Bronx,1980 Lafayette Avenue,Bronx,NY,10473,N,PCP,Pediatrics,Adlai E. Stevenson High School,F,
 1487749685,Aisha K Prim,Bronx,2400 Marion Avenue,Bronx,NY,10458,Y,PCP,Pediatrics,MMC at PS 85,F,
 1487749685,Aisha K Prim,Bronx,2780 Reservoir Avenue,Bronx,NY,10468,N,PCP,Pediatrics,MMC at Walton High School,F,
 1487749685,Aisha K Prim,Bronx,3444 Kossuth Avenue,Bronx,NY,10467,Y,PCP,Pediatrics,MMC Family Care Center,F,
@@ -6546,7 +6574,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1497108690,Raphael Oluseun Odekunle,Bronx,1067 Ogden Avenue,Bronx,NY,10452,N,PCP,Family Medicine,Ogden Dental Clinic,M,
 1497108690,Raphael Oluseun Odekunle,Bronx,1276 Fulton Avenue,Bronx,NY,10456,N,PCP,Family Medicine,Wellness Center,M,
 1497108690,Raphael Oluseun Odekunle,Bronx,1276 Fulton Avenue,Bronx,NY,10456,N,PCP,Family Medicine,Family Medicine Center,M,
-1497108690,Raphael Oluseun Odekunle,Bronx,1591 Fulton Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Crotona Park Family Practice,M,
+1497108690,Raphael Oluseun Odekunle,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,M,
 1497108690,Raphael Oluseun Odekunle,Bronx,1690 Bryant Avenue,Bronx,NY,10460,N,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,M,
 1497113047,Ying Liu Wohlberg,Erie,8770 Transit Road,East Amherst,NY,14051,Y,PCP,Adult Health - Nurse Practitioner,,F,
 1497122782,Nadeige Milard,Nassau,300 Community Drive,Manhasset,NY,11030,N,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
@@ -6608,7 +6636,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1497979751,Jubil Malieckal,Kings,242 Dekalb Avenue,Brooklyn,NY,11205,Y,PCP,Internal Medicine,,M,
 1497979751,Jubil Malieckal,Kings,242 Dekalb Avenue,Brooklyn,NY,11205,Y,PCP,Internal Medicine,"Jubil Malieckal, MD PC",M,"Hindi, Malayalam"
 1497997381,Billie Xia,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,Chinese - Cantonese
-1497997738,Sherese Renee Fralin,New York,130 East 77th Street,New York,NY,10075,N,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
 1508000134,Jeanne Gargiulo,Suffolk,9 Brooksite Drive,Smithtown,NY,11787,Y,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
 1508003500,Faika Khan,Nassau,120 Bethpage Road,Hicksville,NY,11801,Y,PCP,Family Medicine,,F,"Hindi, Spanish, Urdu"
 1508003500,Faika Khan,Nassau,2 Main Street,Hempstead,NY,11550,Y,PCP,Family Medicine,,F,"Hindi, Spanish, Urdu"
@@ -6674,6 +6701,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1508243486,Nina G Castelnuovo,Bronx,450 Saint Pauls Place,Bronx,NY,10456,N,PCP,Pediatrics,MMC at PS 55,F,
 1508243486,Nina G Castelnuovo,Bronx,456 White Plains Road,Bronx,NY,10473,N,PCP,Pediatrics,MMC at MS 174,F,
 1508243486,Nina G Castelnuovo,Bronx,502 Morris Avenue,Bronx,NY,10451,Y,PCP,Pediatrics,MMC at PS 18,F,
+1508243486,Nina G Castelnuovo,Bronx,800 East Gun Hill Road,Bronx,NY,10467,N,PCP,Pediatrics,MMC at Evander Childs High School,F,
 1508243486,Nina G Castelnuovo,Bronx,977 Fox Street,Bronx,NY,10459,Y,PCP,Pediatrics,MMC at IS 216 and 217/Rafael Herndez Middle School,F,
 1508245721,Kezia A Sam,Westchester,1296 North Avenue,New Rochelle,NY,10804,Y,PCP,Internal Medicine,White Plains Physician Associates (Pain Management),F,
 1508245721,Kezia A Sam,Westchester,2071 Boston Post Road,Larchmont,NY,10538,Y,PCP,Internal Medicine,White Plains Physician Associates of Larchmont,F,
@@ -6687,8 +6715,8 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1508313792,Saurabh Arya,Bronx,1265 Franklin Avenue,Bronx,NY,10456,N,PCP,Family Medicine,Martin Luther King Jr. Health Center,M,
 1508313792,Saurabh Arya,Bronx,1276 Fulton Avenue,Bronx,NY,10456,N,PCP,Family Medicine,Wellness Center,M,
 1508313792,Saurabh Arya,Bronx,1276 Fulton Avenue,Bronx,NY,10456,N,PCP,Family Medicine,Family Medicine Center,M,
-1508313792,Saurabh Arya,Bronx,1591 Fulton Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Crotona Park Family Practice,M,
 1508313792,Saurabh Arya,Bronx,1650 Grand Concourse,Bronx,NY,10457,N,PCP,Family Medicine,BronxCare Inpatient,M,
+1508313792,Saurabh Arya,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,M,
 1508313792,Saurabh Arya,Bronx,1690 Bryant Avenue,Bronx,NY,10460,N,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,M,
 1508416405,Megan Marianna Eiche,Nassau,10 Medical Plaza,Glen Cove,NY,11542,Y,PCP,Adult Health - Nurse Practitioner,North Shore LIJ Medical PC,F,
 1508416405,Megan Marianna Eiche,Nassau,70 West Main Street,Oyster Bay,NY,11771,Y,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
@@ -7042,12 +7070,13 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1528656360,Aderonke B Adeniyi,Bronx,1067 Ogden Avenue,Bronx,NY,10452,N,PCP,Family Health - Nurse Practitioner,Ogden Dental Clinic,F,
 1528656360,Aderonke B Adeniyi,Bronx,1276 Fulton Avenue,Bronx,NY,10456,N,PCP,Family Health - Nurse Practitioner,Wellness Center,F,
 1528656360,Aderonke B Adeniyi,Bronx,1276 Fulton Avenue,Bronx,NY,10456,N,PCP,Family Health - Nurse Practitioner,Family Medicine Center,F,
-1528656360,Aderonke B Adeniyi,Bronx,1591 Fulton Avenue,Bronx,NY,10457,N,PCP,Family Health - Nurse Practitioner,Crotona Park Family Practice,F,
+1528656360,Aderonke B Adeniyi,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Health - Nurse Practitioner,Family Medicine Post Discharge Clinic,F,
 1528656360,Aderonke B Adeniyi,Bronx,1690 Bryant Avenue,Bronx,NY,10460,N,PCP,Family Health - Nurse Practitioner,Mid-Bronx Desperadoes Family Practice,F,
 1538115415,Michael Stephen McCormick,Westchester,100 South Highland Avenue,Ossining,NY,10562,Y,PCP,Family Medicine,North Shore LIJ Medical PC,M,
 1538115415,Michael Stephen McCormick,Westchester,1010 Kendal Way,Sleepy Hollow,NY,10591,Y,PCP,Family Medicine,North Shore-LIJ Medical PC,M,
 1538115415,Michael Stephen McCormick,Westchester,32 Cedar Lane,Ossining,NY,10562,N,PCP,Family Medicine,North Shore LIJ Medical PC,M,
 1538115415,Michael Stephen McCormick,Westchester,701 North Broadway,Sleepy Hollow,NY,10591,N,PCP,Family Medicine,Phelps Memorial Hospital,M,
+1538120001,Glenis Alma Strachan,Kings,481 Atlantic Avenue,Brooklyn,NY,11217,Y,PCP,Internal Medicine,Atlantis Medical Associates Pc,F,
 1538123922,Marie Eve N Dy-Guillaume,Queens,8708 Justice Avenue,Elmhurst,NY,11373,Y,PCP,Internal Medicine,"Medical Associates, PC",F,
 1538143433,Kevin Alexander Charlotten,Queens,4150 78th Street,Elmhurst,NY,11373,Y,PCP,Family Medicine,"Kevin Charlotten, MD",M,Spanish
 1538152459,Michael Josovitz,Kings,950 44th Street,Brooklyn,NY,11219,Y,PCP,Internal Medicine,"Michael Josovitz, MD",M,
@@ -7267,6 +7296,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1548609126,Santiago Lopez,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,N,PCP,Family Medicine,North Shore-LIJ Medical PC ,M,Spanish
 1548609126,Santiago Lopez,Nassau,300 Community Drive,Manhasset,NY,11030,N,PCP,Family Medicine,North Shore-LIJ Medical PC,M,Spanish
 1548609126,Santiago Lopez,Nassau,330 Community Drive,Manhasset,NY,11030,N,PCP,Family Medicine,North Shore-LIJ Medical PC,M,Spanish
+1548641970,Elliott Douglas Yadon,Erie,1150 Youngs Road,Williamsville,NY,14221,Y,PCP,Family Health - Nurse Practitioner,University Psychiatric Practice In,M,
 1548647910,Tashi Wangyal,Nassau,1 School Street,Glen Cove,NY,11542,Y,PCP,Family Medicine,North Shore LIJ Medical PC,M,Tibetan
 1548647910,Tashi Wangyal,Nassau,480 Forest Avenue,Locust Valley,NY,11560,N,PCP,Family Medicine,North Shore LIJ Medical PC,M,Tibetan
 1548656556,Sahan Hapangama,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Internal Medicine,Montefiore Medical Center,M,
@@ -7468,17 +7498,25 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1558865584,Michael J Farina,Bronx,1265 Franklin Avenue,Bronx,NY,10456,N,PCP,Family Medicine,Martin Luther King Jr. Health Center,M,
 1558865584,Michael J Farina,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Wellness Center,M,
 1558865584,Michael J Farina,Bronx,1276 Fulton Avenue,Bronx,NY,10456,N,PCP,Family Medicine,Family Medicine Center,M,
-1558865584,Michael J Farina,Bronx,1591 Fulton Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Crotona Park Family Practice,M,
 1558865584,Michael J Farina,Bronx,1650 Grand Concourse,Bronx,NY,10457,N,PCP,Family Medicine,BronxCare Inpatient,M,
+1558865584,Michael J Farina,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,M,
 1558865584,Michael J Farina,Bronx,1690 Bryant Avenue,Bronx,NY,10460,N,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,M,
+1568033116,Tori Ferland,Kings,1167 Nostrand Avenue,Brooklyn,NY,11225,N,PCP,Family Health - Nurse Practitioner,Crown Heights Health Center,F,
+1568033116,Tori Ferland,Queens,150 Essex Street,New York,NY,10002,N,PCP,Family Health - Nurse Practitioner,Lower East Side Health Center,F,
+1568033116,Tori Ferland,Kings,2581 Atlantic Avenue,Brooklyn,NY,11207,N,PCP,Family Health - Nurse Practitioner,East New York Hub Health Center,F,
+1568033116,Tori Ferland,Queens,3611 21st Street,Long Island City,NY,11106,N,PCP,Family Health - Nurse Practitioner,Sutphin Boulevard Health Center,F,
+1568033116,Tori Ferland,Bronx,4215 3rd Avenue,Bronx,NY,10457,N,PCP,Family Health - Nurse Practitioner,Tremont Health Center,F,
+1568033116,Tori Ferland,New York,511 West 157th Street,New York,NY,10032,Y,PCP,Family Health - Nurse Practitioner,Washington Heights Health Center,F,
+1568033116,Tori Ferland,New York,81 West 115th Street,New York,NY,10026,N,PCP,Family Health - Nurse Practitioner,Harlem Health Center,F,
+1568033116,Tori Ferland,Queens,9004 161st Street,Jamaica,NY,11432,N,PCP,Family Health - Nurse Practitioner,South Bronx Health Center,F,
+1568033116,Tori Ferland,Kings,9498 Manhattan Avenue,Brooklyn,NY,11206,N,PCP,Family Health - Nurse Practitioner,Williamsburg Health Center,F,
+1568033116,Tori Ferland,Queens,9704 Sutphin Boulevard,Jamaica,NY,11435,N,PCP,Family Health - Nurse Practitioner,Sutphin Boulevard Health Center,F,
+1568033116,Tori Ferland,Bronx,975 Westchester Avenue,Bronx,NY,10459,N,PCP,Family Health - Nurse Practitioner,Tremont Health Center,F,
+1568033116,Tori Ferland,Kings,999 Blake Avenue,Brooklyn,NY,11208,N,PCP,Family Health - Nurse Practitioner,Long Island City Health Center,F,
 1568097285,Abdelkrim Roumani,Bronx,1434 Williamsbridge Road,Bronx,NY,10461,Y,PCP,Family Health - Nurse Practitioner,"Essen Medical Associates, PC",M,"Arabic, French"
 1568097285,Abdelkrim Roumani,Bronx,2308 Eastchester Road,Bronx,NY,10469,Y,PCP,Family Health - Nurse Practitioner,"Essen Medical Associates, PC",M,"Arabic, French"
 1568097285,Abdelkrim Roumani,Bronx,899 Elton Avenue,Bronx,NY,10451,Y,PCP,Family Health - Nurse Practitioner,"Essen Medical Associates, PC",M,"Arabic, French"
 1568407500,Steven M Levine,Suffolk,291 Sunrise Highway,Lindenhurst,NY,11757,Y,PCP,Family Medicine,North Shore-LIJ Medical PC,M,
-1568409803,Ira Lester Weg,Nassau,1 Healthy Way,Oceanside,NY,11572,N,PCP,Internal Medicine,North Shore-LIJ Internal Medicine at Lynbrook PC,M,
-1568409803,Ira Lester Weg,Nassau,158 Hempstead Avenue,Lynbrook,NY,11563,N,PCP,Internal Medicine,North Shore-LIJ Internal Medicine at Lynbrook PC,M,
-1568409803,Ira Lester Weg,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,N,PCP,Internal Medicine,North Shore-LIJ Internal Medicine at Lynbrook PC,M,
-1568409803,Ira Lester Weg,Nassau,733 Sunrise Highway,Lynbrook,NY,11563,Y,PCP,Internal Medicine,North Shore LIJ Internal Medicine at Lynbrook  PC,M,
 1568410710,Marina Royzman,Richmond,242 Mason Avenue,Staten Island,NY,10305,Y,PCP,Internal Medicine,"PHYSICIANS OF UNIVERSITY HOSPITAL, PC",F,Russian
 1568410710,Marina Royzman,Richmond,475 Seaview Avenue,Staten Island,NY,10305,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,Russian
 1568413565,Bi Hoon Che,New York,210 Canal Street,New York,NY,10013,Y,PCP,Internal Medicine,"Bi Hoon Che Physician, PC",F,"Burmese, Chinese Mandarin"
@@ -7545,7 +7583,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1568689099,Terry-Jan Blackett-Bonnett,Kings,1530 Bedford Avenue,Brooklyn,NY,11216,Y,PCP,Internal Medicine,,F,
 1568689099,Terry-Jan Blackett-Bonnett,Kings,423 Lincoln Place,Brooklyn,NY,11238,Y,PCP,Pediatrics,T.Bonnett Medical Services PC,F,Spanish
 1568695187,Maureen O'Keefe,Nassau,300 Community Drive,Manhasset,NY,11030,Y,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
-1568705838,Sarah Louise Fishman,New York,100 East 77th Street,New York,NY,10075,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,Hebrew
 1568719581,Surindra Saini Sharma,Kings,834 Coney Island Avenue,Brooklyn,NY,11218,Y,PCP,Family Health - Nurse Practitioner,"Surindra Sharma, FNP",F,Hindi
 1568721652,Lisa Schoenberger,Nassau,25 Central Park Road,Plainview,NY,11803,Y,PCP,Family Medicine,North Shore LIJ Medical PC,F,
 1568721652,Lisa Schoenberger,Nassau,888 Old Country Road,Plainview,NY,11803,N,PCP,Family Medicine,Stephen Cusumano  MD,F,
@@ -7636,8 +7673,8 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1578529590,Rubi Modesto Valerio,Bronx,1265 Franklin Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Martin Luther King Jr. Health Center,M,Spanish
 1578529590,Rubi Modesto Valerio,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Wellness Center,M,Spanish
 1578529590,Rubi Modesto Valerio,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Family Medicine Center,M,Spanish
-1578529590,Rubi Modesto Valerio,Bronx,1591 Fulton Avenue,Bronx,NY,10457,Y,PCP,Family Medicine,Crotona Park Family Practice,M,Spanish
 1578529590,Rubi Modesto Valerio,Bronx,1650 Grand Concourse,Bronx,NY,10457,Y,PCP,Family Medicine,BronxCare Inpatient,M,Spanish
+1578529590,Rubi Modesto Valerio,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,M,Spanish
 1578529590,Rubi Modesto Valerio,Bronx,1690 Bryant Avenue,Bronx,NY,10460,N,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,M,Spanish
 1578530770,Swaminathan Giridharan,Kings,1704 Mermaid Avenue,Brooklyn,NY,11224,Y,PCP,Internal Medicine,,M,
 1578530770,Swaminathan Giridharan,Kings,1704 Mermaid Avenue,Brooklyn,NY,11224,Y,PCP,Internal Medicine,,M,
@@ -7770,7 +7807,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1588056584,Jillian Diana Walker,Queens,900 Franklin Avenue,Valley Stream,NY,11580,Y,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
 1588058846,Aisha Angela Bobb-Semple,Bronx,1265 Franklin Avenue,Bronx,NY,10456,N,PCP,Pediatrics,Martin Luther King Jr. Health Center,F,
 1588058846,Aisha Angela Bobb-Semple,Bronx,1650 Grand Concourse,Bronx,NY,10457,Y,PCP,Pediatrics,Pediatric Practice at Concourse,F,
-1588060586,Jose Enrique Diaz,New York,550 1st Avenue,New York,NY,10016,Y,PCP,Adult Health - Nurse Practitioner,NYU NP and PA Services,M,
 1588067847,Shehzad Khizar,Richmond,375 Seguine Avenue,Staten Island,NY,10309,N,PCP,Internal Medicine,"PHYSICIANS OF UNIVERSITY HOSPITAL, PC",M,Punjabi
 1588067847,Shehzad Khizar,Richmond,475 Seaview Avenue,Staten Island,NY,10305,N,PCP,Internal Medicine,"PHYSICIANS OF UNIVERSITY HOSPITAL, PC",M,Punjabi
 1588068431,Shella Frenel,Rockland,199 North Middletown Road,Nanuet,NY,10954,Y,PCP,Family Health - Nurse Practitioner,,F,
@@ -8077,6 +8113,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1609294396,Shayan Nabavi Nouri,Bronx,2050 Eastchester Road,Bronx,NY,10461,Y,PCP,Internal Medicine,Gramercy Cardiac Diagnostic Service,M,
 1609294396,Shayan Nabavi Nouri,New York,44 Sherman Avenue,New York,NY,10040,Y,PCP,Internal Medicine,North Shore LIJ Medical PC,M,
 1609294396,Shayan Nabavi Nouri,Kings,8718 Bay Parkway,Brooklyn,NY,11214,Y,PCP,Internal Medicine,,M,
+1609294396,Shayan Nabavi Nouri,Kings,8718 Bay Parkway,Brooklyn,NY,11214,Y,PCP,Internal Medicine,,M,
 1609296508,Gulru Sharifova,Queens,102-01 66th Road,Forest Hills,NY,11375,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,Faroese
 1609303403,Blerta Saipi,Richmond,501 Seaview Avenue,Staten Island,NY,10305,N,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,Albanian
 1609388123,Jacqueline S Mahabir,Bronx,2015 Grand Concourse,Bronx,NY,10453,Y,PCP,Family Health - Nurse Practitioner,"Essen Medical Associates, PC",F,Spanish
@@ -8148,6 +8185,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1609948165,Caleen Maria Warren,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Health - Nurse Practitioner,Department of Psychiatry Inpatient,F,
 1609948165,Caleen Maria Warren,Bronx,1285 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Health - Nurse Practitioner,Life Recovery Center,F,
 1609948165,Caleen Maria Warren,Bronx,1650 Grand Concourse,Bronx,NY,10457,Y,PCP,Family Health - Nurse Practitioner,BronxCare Inpatient,F,
+1609948165,Caleen Maria Warren,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Health - Nurse Practitioner,Family Medicine Post Discharge Clinic,F,
 1609948165,Caleen Maria Warren,Bronx,2739-2745 3rd Avenue,Bronx,NY,10451,Y,PCP,Family Health - Nurse Practitioner,BRONXCARE HEALTH SYSTEM,F,
 1609959121,Nancy Reisman Beran,Westchester,400 East Main Street,Mount Kisco,NY,10549,N,PCP,Internal Medicine,Westchester Health Medical  P C,F,
 1609959121,Nancy Reisman Beran,Westchester,465 Columbus Avenue,Valhalla,NY,10595,Y,PCP,Internal Medicine,Westchester Health Medical  P C,F,
@@ -8227,9 +8265,11 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1619912987,Yanick Marie Guerin,Bronx,1000 Teller Avenue,Bronx,NY,10456,N,PCP,Pediatrics,MMC at MS 145,F,
 1619912987,Yanick Marie Guerin,Bronx,1600 Webster Avenue,Bronx,NY,10457,Y,PCP,Pediatrics,P.S. 147,F,
 1619912987,Yanick Marie Guerin,Bronx,1621 Eastchester Road,Bronx,NY,10461,N,PCP,Pediatrics,MMG CFCC,F,
+1619912987,Yanick Marie Guerin,Bronx,1861 Anthony Avenue,Bronx,NY,10457,N,PCP,Pediatrics,Montefiore at CES 28/ PS 28,F,
 1619912987,Yanick Marie Guerin,Bronx,2400 Marion Avenue,Bronx,NY,10458,Y,PCP,Pediatrics,MMC at PS 85,F,
 1619912987,Yanick Marie Guerin,Bronx,250 Thurman Munson,Bronx,NY,10451,Y,PCP,Pediatrics,JHS 151/KIPP Academy HS,F,
 1619912987,Yanick Marie Guerin,Bronx,250 Thurman Munson Way,Bronx,NY,10451,Y,PCP,Pediatrics,JHS 151/KIPP Academy HS,F,
+1619912987,Yanick Marie Guerin,New York,3961 Hillman Avenue,Bronx,NY,10463,N,PCP,Pediatrics,MMC At PS 95,F,
 1619912987,Yanick Marie Guerin,Bronx,502 Morris Avenue,Bronx,NY,10451,N,PCP,Pediatrics,MMC School Health PS 8,F,
 1619912987,Yanick Marie Guerin,New York,5525 Broadway,Bronx,NY,10463,N,PCP,Pediatrics,MMC Marble Hill Practice,F,
 1619912987,Yanick Marie Guerin,Bronx,701 Saint Anns Avenue,Bronx,NY,10455,Y,PCP,Pediatrics,MMC at South Bronx High School,F,
@@ -8539,6 +8579,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1639635790,Vitaliy Gavrylyuk,New York,1725 York Avenue,New York,NY,10128,Y,PCP,Gerontology - Nurse Practitioner,,M,"Russian, Ukrainian"
 1639635790,Vitaliy Gavrylyuk,Kings,3209 Coney Island Avenue,Brooklyn,NY,11235,Y,PCP,Adult Health - Nurse Practitioner,,M,"Russian, Ukrainian"
 1639635790,Vitaliy Gavrylyuk,Kings,3209 Coney Island Avenue,Brooklyn,NY,11235,Y,PCP,Gerontology - Nurse Practitioner,,M,"Russian, Ukrainian"
+1639667504,Lori G Hutchinson,Queens,224 50th Avenue,Long Island City,NY,11101,Y,PCP,Family Medicine,North Shore-LIJ Medical PC,F,
 1639667504,Lori G Hutchinson,Queens,2325 31st Street,Astoria,NY,11105,Y,PCP,Family Medicine,North Shore-LIJ Medical PC,F,
 1639672454,Natasha Ghalib,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Internal Medicine,Montefiore Medical Center,F,
 1639672454,Natasha Ghalib,Bronx,1825 Eastchester Road,Bronx,NY,10461,N,PCP,Internal Medicine,MMC Einstein Division,F,
@@ -8652,7 +8693,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1649778093,Amber M Cavagnaro,New York,100 East 77th Street,New York,NY,10075,N,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
 1649778093,Amber M Cavagnaro,New York,178 East 85th Street,New York,NY,10028,N,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
 1649790841,Alberto Brizuela Ducharne,Bronx,4487 3rd Avenue,Bronx,NY,10457,Y,PCP,Internal Medicine,William E Kalafatic MD,M,
-1649825837,Girardine Guerda Mondesir,Bronx,1371 Seabury Avenue,Bronx,NY,10461,N,PCP,Family Health - Nurse Practitioner,"House Call Medical Services of New York, PLLC",F,Haitian-Creole
 1649835729,Soniya James,Rockland,199 North Middletown Road,Nanuet,NY,10954,Y,PCP,Family Health - Nurse Practitioner,,F,
 1659301745,Shahed Ahmed,Kings,2102 Kings Highway,Brooklyn,NY,11229,Y,PCP,Internal Medicine,,M,
 1659305217,Emre H Noteroglu,Westchester,259 Heathcote Road,Scarsdale,NY,10583,N,PCP,Internal Medicine,White Plains Physician Associates,M,
@@ -8667,9 +8707,9 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1659345049,Rolando Ronquillo Roman,Queens,8854 180th Street,Jamaica,NY,11432,Y,PCP,Internal Medicine,"Rolando R. Roman, M.D., P.C.",M,"Spanish, Tagalog"
 1659346815,Galina Venikova,Kings,1099 Brighton Beach Avenue,Brooklyn,NY,11235,Y,PCP,Family Medicine,,F,
 1659353068,Donghong Hong Shong,Queens,133-47 Sanford Avenue,Flushing,NY,11355,Y,PCP,Internal Medicine,"Dong-Hong Shong, MD, PC",F,
+1659353068,Donghong Hong Shong,Queens,136-68 Roosevelt Avenue,Flushing,NY,11354,Y,PCP,Internal Medicine,"Dong-Hong Shong, MD, PC",F,
 1659354611,Karen Sue Brown,Erie,206 South Elmwood Avenue,Buffalo,NY,14201,Y,PCP,Family Health - Nurse Practitioner,Evergreen Health Services,F,
 1659354942,Gary Jay Shore,Nassau,2119 Merrick Road,Merrick,NY,11566,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
-1659354942,Gary Jay Shore,Nassau,31 Merrick Avenue,Merrick,NY,11566,Y,PCP,Internal Medicine,North Shore LIJ Medical PC,M,
 1659368223,Billy Mou Li,New York,1317 Elizabeth Street,New York,NY,10013,Y,PCP,Internal Medicine,"Billy Li, MD, PC",M,Chinese Mandarin
 1659371078,Terry Lam,New York,80 Bowery,New York,NY,10013,Y,PCP,Internal Medicine,"Global Health Medical, PC",M,Chinese Mandarin
 1659373447,Tamara Pierre-Thompson,Nassau,466 Maple Avenue,Westbury,NY,11590,Y,PCP,Family Health - Nurse Practitioner,Jacqueline Delmont MD PC,F,Spanish
@@ -8790,6 +8830,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1669592135,John P Meister,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,N,PCP,Adult Health - Nurse Practitioner,North Shore LIJ Medical PC,M,
 1669601159,Omer Khalique Tipu,Kings,446 Mcdonald Avenue,Brooklyn,NY,11218,Y,PCP,Family Medicine,Maniky Dental Care,M,
 1669604633,Pin Mei Yao,Queens,136-19 41st Avenue,Flushing,NY,11355,Y,PCP,Family Medicine,"East Sea Medical Care, PC",F,Chinese Mandarin
+1669604633,Pin Mei Yao,Queens,3712 Prince Street,Flushing,NY,11354,Y,PCP,Family Medicine,"East Sea Medical Care, PC",F,
 1669639456,Trajko Bojadzievski,Kings,150 55th Street,Brooklyn,NY,11220,Y,PCP,Internal Medicine,Sunset Park Family Health Center at NYU Langone,M,
 1669639456,Trajko Bojadzievski,Kings,220 13th Street,Brooklyn,NY,11215,Y,PCP,Internal Medicine,Park Slope Family Health Center at NYU Langone,M,
 1669639456,Trajko Bojadzievski,Kings,3414 Church Avenue,Brooklyn,NY,11203,Y,PCP,Internal Medicine,NYU Lutheran Flatbush Family Health Centers,M,
@@ -8806,6 +8847,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1669676110,Jose Frank Tiburcio,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Wellness Center,M,Spanish
 1669676110,Jose Frank Tiburcio,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Family Medicine Center,M,Spanish
 1669676110,Jose Frank Tiburcio,Bronx,1650 Grand Concourse,Bronx,NY,10457,Y,PCP,Family Medicine,BronxCare Inpatient,M,Spanish
+1669676110,Jose Frank Tiburcio,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,M,Spanish
 1669676110,Jose Frank Tiburcio,Bronx,1690 Bryant Avenue,Bronx,NY,10460,Y,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,M,Spanish
 1669678454,Olga N. Kouruklis,Suffolk,3505 Veterans Memorial Highway,Ronkonkoma,NY,11779,Y,PCP,Internal Medicine,,F,
 1669735171,Valeriya Kovbas,Queens,102-01 66th Road,Forest Hills,NY,11375,Y,PCP,Family Health - Nurse Practitioner,Long Island Jewish Forest Hills,F,
@@ -8895,8 +8937,8 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1679610471,Anthony Alphonza Greenidge,Bronx,1067 Ogden Avenue,Bronx,NY,10452,Y,PCP,Family Medicine,Ogden Dental Clinic,M,
 1679610471,Anthony Alphonza Greenidge,Bronx,1265 Franklin Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Martin Luther King Jr. Health Center,M,
 1679610471,Anthony Alphonza Greenidge,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Wellness Center,M,
-1679610471,Anthony Alphonza Greenidge,Bronx,1591 Fulton Avenue,Bronx,NY,10457,Y,PCP,Family Medicine,Crotona Park Family Practice,M,
 1679610471,Anthony Alphonza Greenidge,Bronx,1650 Grand Concourse,Bronx,NY,10457,Y,PCP,Family Medicine,BronxCare Inpatient,M,
+1679610471,Anthony Alphonza Greenidge,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,M,
 1679610471,Anthony Alphonza Greenidge,Bronx,1690 Bryant Avenue,Bronx,NY,10460,Y,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,M,
 1679626071,Francis Thomas Polcari,Bronx,12 North 7th Avenue,Mount Vernon,NY,10550,Y,PCP,Internal Medicine,Montefiore Mount Vernon Hospital,M,
 1679642565,Rimma Gelbert,Kings,1632 East 16th Street,Brooklyn,NY,11229,Y,PCP,Family Medicine,Rimma Gelbert Medical PC,F,Russian
@@ -9160,8 +9202,8 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1699282152,Moufditi Lerebours,Bronx,1067 Ogden Avenue,Bronx,NY,10452,N,PCP,Family Health - Nurse Practitioner,Ogden Dental Clinic,F,
 1699282152,Moufditi Lerebours,Bronx,1276 Fulton Avenue,Bronx,NY,10456,N,PCP,Family Health - Nurse Practitioner,Wellness Center,F,
 1699282152,Moufditi Lerebours,Bronx,1276 Fulton Avenue,Bronx,NY,10456,N,PCP,Family Health - Nurse Practitioner,Family Medicine Center,F,
-1699282152,Moufditi Lerebours,Bronx,1591 Fulton Avenue,Bronx,NY,10457,N,PCP,Family Health - Nurse Practitioner,Crotona Park Family Practice,F,
 1699282152,Moufditi Lerebours,Bronx,1650 Grand Concourse,Bronx,NY,10457,N,PCP,Family Health - Nurse Practitioner,BronxCare Inpatient,F,
+1699282152,Moufditi Lerebours,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Health - Nurse Practitioner,Family Medicine Post Discharge Clinic,F,
 1699282152,Moufditi Lerebours,Bronx,1690 Bryant Avenue,Bronx,NY,10460,N,PCP,Family Health - Nurse Practitioner,Mid-Bronx Desperadoes Family Practice,F,
 1699293472,Magdalene Pavilus,Bronx,1550 University Avenue,Bronx,NY,10452,Y,PCP,Family Health - Nurse Practitioner,"Essen Medical Associates, PC",F,Haitian-Creole
 1699293472,Magdalene Pavilus,Bronx,1990 McGraw Avenue,Bronx,NY,10462,Y,PCP,Family Health - Nurse Practitioner,"Essen Medical Associates, PC",F,Haitian-Creole
@@ -9238,6 +9280,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1699821611,Alisa Celena SpiveyCaraballo,Bronx,500 East Fordham Road,Bronx,NY,10458,N,PCP,Pediatrics,MMC at Theodore Roosevelt High School,F,
 1699821611,Alisa Celena SpiveyCaraballo,Bronx,502 Morris Avenue,Bronx,NY,10451,Y,PCP,Pediatrics,MMC at PS 18,F,
 1699821611,Alisa Celena SpiveyCaraballo,Bronx,701 Saint Anns Avenue,Bronx,NY,10455,Y,PCP,Pediatrics,MMC at South Bronx High School,F,
+1699821611,Alisa Celena SpiveyCaraballo,Bronx,730 Brook Avenue,Bronx,NY,10455,N,PCP,Pediatrics,MMC Via Verde,F,
 1699821611,Alisa Celena SpiveyCaraballo,Bronx,800 East Gun Hill Road,Bronx,NY,10467,N,PCP,Pediatrics,MMC at Evander Childs High School,F,
 1699821611,Alisa Celena SpiveyCaraballo,Bronx,977 Fox Street,Bronx,NY,10459,Y,PCP,Pediatrics,MMC at IS 216 and 217/Rafael Herndez Middle School,F,
 1699843151,Rosalinda Rosario-Lipka,Richmond,235 Port Richmond Avenue,Staten Island,NY,10302,Y,PCP,Family Medicine,,F,
@@ -9334,6 +9377,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1700843315,Ronnie Chiu,Kings,821 45th Street,Brooklyn,NY,11220,Y,PCP,Internal Medicine,"Universal Medical Service, LLC",M,"Chinese - Cantonese, Chinese Mandarin"
 1700851789,Michael Ira Fuchs,Kings,1225 49th Street,Brooklyn,NY,11219,Y,PCP,Internal Medicine,Network Solutions IPA,M,
 1700851789,Michael Ira Fuchs,Kings,1225 49th Street,Brooklyn,NY,11219,Y,PCP,Internal Medicine,Network Solutions IPA,M,"Hebrew, Yiddish"
+1700854643,Paula Lynn AmendolaSekinski,Westchester,170 Maple Avenue,White Plains,NY,10601,Y,PCP,Family Medicine,White Plains Physician Associates -Family Practice,F,
 1700854643,Paula Lynn AmendolaSekinski,Bronx,2016 Bronxdale Avenue,Bronx,NY,10462,Y,PCP,Family Medicine,Union Community Health Center,F,
 1700854643,Paula Lynn AmendolaSekinski,Bronx,2385 Arthur Avenue,Bronx,NY,10458,Y,PCP,Family Medicine,"SBH Physicians, P.C.",F,"French, Spanish"
 1700854643,Paula Lynn AmendolaSekinski,Bronx,260 East 188th Street,Bronx,NY,10458,Y,PCP,Family Medicine,Union Community Health Center,F,
@@ -9505,7 +9549,9 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1720046576,Randolph P DiLorenzo,Nassau,1872 Bellmore Avenue,North Bellmore,NY,11710,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
 1720046576,Randolph P DiLorenzo,Nassau,321 Crossways Park Drive,Woodbury,NY,11797,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
 1720058548,Lawrence D Carter,Nassau,225 Community Drive,Great Neck,NY,11021,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,Spanish
+1720058548,Lawrence D Carter,Queens,256-11 Union Turnpike,Glen Oaks,NY,11004,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,Spanish
 1720058548,Lawrence D Carter,Nassau,300 Community Drive,Manhasset,NY,11030,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,Spanish
+1720058548,Lawrence D Carter,Nassau,865 Northern Boulevard,Great Neck,NY,11021,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,Spanish
 1720064421,Tahir Hafeez,Queens,206 19 Hillside Avenue,Queens Village,NY,11427,Y,PCP,Internal Medicine,,M,
 1720064421,Tahir Hafeez,Queens,206-19 Hillside Avenue,Queens Village,NY,11427,Y,PCP,Internal Medicine,New York Kidney Physicians PLLC,M,
 1720064421,Tahir Hafeez,Queens,3435 70th Street,Jackson Heights,NY,11372,Y,PCP,Internal Medicine,New York Kidney Physicians PLLC,M,
@@ -9660,7 +9706,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1730522541,Aung Ko Ko Thant,Erie,184 Barton Street,Buffalo,NY,14213,Y,PCP,Family Medicine,,M,
 1730522541,Aung Ko Ko Thant,Erie,21 Doat Street,Buffalo,NY,14211,Y,PCP,Family Medicine,Jericho Road Community Health Center,M,
 1730534983,Jafeen S. Ilmudeen,Kings,186 Joralemon Street,Brooklyn,NY,11201,Y,PCP,Family Medicine,NYU Radiology Associates,F,
-1730534983,Jafeen S. Ilmudeen,Kings,97 Amity Street,Brooklyn,NY,11201,Y,PCP,Family Medicine,NYU Langone Ambulatory Care Cobble Hill,F,
 1730591330,Kenneth Schaefle,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Internal Medicine,Montefiore Medical Center,M,
 1730591330,Kenneth Schaefle,Bronx,1825 Eastchester Road,Bronx,NY,10461,Y,PCP,Internal Medicine,MMC Einstein Division,M,
 1730591330,Kenneth Schaefle,Bronx,305 East 161st Street,Bronx,NY,10451,Y,PCP,Internal Medicine,MMC CHCC,M,
@@ -9879,8 +9924,8 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1750627519,Eniola Teju Ayeni,Bronx,1265 Franklin Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Martin Luther King Jr. Health Center,F,Spanish
 1750627519,Eniola Teju Ayeni,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Wellness Center,F,Spanish
 1750627519,Eniola Teju Ayeni,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Family Medicine Center,F,Spanish
-1750627519,Eniola Teju Ayeni,Bronx,1591 Fulton Avenue,Bronx,NY,10457,Y,PCP,Family Medicine,Crotona Park Family Practice,F,Spanish
 1750627519,Eniola Teju Ayeni,Bronx,1650 Grand Concourse,Bronx,NY,10457,Y,PCP,Family Medicine,BronxCare Inpatient,F,Spanish
+1750627519,Eniola Teju Ayeni,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,F,Spanish
 1750627519,Eniola Teju Ayeni,Bronx,1690 Bryant Avenue,Bronx,NY,10460,Y,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,F,Spanish
 1750636635,Khawaja Asim Siddique,Queens,227-19 Merrick Boulevard,Laurelton,NY,11413,N,PCP,Family Medicine,"Rana N. Hassan, MD PC",M,
 1750647459,Belinda Indrani Narine,Nassau,300 Community Drive,Manhasset,NY,11030,N,PCP,Adult Health - Nurse Practitioner,North Shore LIJ Medical PC,F,
@@ -10046,7 +10091,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1770546145,Hugh McColl Wilson,Westchester,701 North Broadway,Sleepy Hollow,NY,10591,N,PCP,Internal Medicine,Phelps Memorial Hospital,M,
 1770547614,Arlene Rose Curry,Suffolk,270 Park Avenue,Huntington,NY,11743,Y,PCP,Internal Medicine,Huntington Hospital,F,Spanish
 1770547630,Michael Yang Li,Queens,136-20 38th Avenue,Flushing,NY,11354,Y,PCP,Internal Medicine,,M,
-1770549602,Karin Sue Kalkstein,Nassau,1983 Marcus Avenue,New Hyde Park,NY,11040,Y,PCP,Family Medicine,North Shore-LIJ Medical PC,F,
+1770549602,Karin Sue Kalkstein,Nassau,600 Community Drive,Manhasset,NY,11030,Y,PCP,Family Medicine,North Shore University Hospital Independence at Home Demostration,F,
 1770558397,Srinivas Kesanakurthy,Kings,4802 10th Avenue,Brooklyn,NY,11219,N,PCP,Internal Medicine,Maimonides Cardiology FPP,M,Hindi
 1770563538,Stuart Okin,Queens,136-25 37th Avenue,Flushing,NY,11354,Y,PCP,Internal Medicine,Main Street Radiology at Bayside,M,
 1770563538,Stuart Okin,Queens,3225 Francis Lewis Boulevard,Flushing,NY,11358,Y,PCP,Internal Medicine,Main Street Radiology at Bayside,M,
@@ -10226,8 +10271,8 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1780662635,Harold Fritz Kerolle,Bronx,1265 Franklin Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Martin Luther King Jr. Health Center,M,"French, Haitian-Creole, Spanish"
 1780662635,Harold Fritz Kerolle,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Wellness Center,M,"French, Haitian-Creole, Spanish"
 1780662635,Harold Fritz Kerolle,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Family Medicine Center,M,"French, Haitian-Creole, Spanish"
-1780662635,Harold Fritz Kerolle,Bronx,1591 Fulton Avenue,Bronx,NY,10457,Y,PCP,Family Medicine,Crotona Park Family Practice,M,"French, Haitian-Creole, Spanish"
 1780662635,Harold Fritz Kerolle,Bronx,1650 Grand Concourse,Bronx,NY,10457,Y,PCP,Family Medicine,BronxCare Inpatient,M,"French, Haitian-Creole, Spanish"
+1780662635,Harold Fritz Kerolle,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,M,"French, Haitian-Creole, Spanish"
 1780662635,Harold Fritz Kerolle,Bronx,1690 Bryant Avenue,Bronx,NY,10460,Y,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,M,"French, Haitian-Creole, Spanish"
 1780670919,Audrey Michelle Weissman,Queens,5910 Junction Boulevard,Elmhurst,NY,11373,Y,PCP,Internal Medicine,,F,
 1780679993,Howard Charles Eisenstein,Kings,1262 Ocean Parkway,Brooklyn,NY,11230,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,Hebrew
@@ -10312,7 +10357,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1780876979,Tommy Chau,Suffolk,301 East Main Street,Bay Shore,NY,11706,N,PCP,Internal Medicine,North Shore-LIJ Medical PC  ,M,
 1780876979,Tommy Chau,Nassau,888 Old Country Road,Plainview,NY,11803,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
 1780882464,Wakim Victor Wakim,New York,100 East 77th Street,New York,NY,10075,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,French
-1780882563,Loretta Ann Rispoli,Suffolk,301 East Main Street,Bay Shore,NY,11706,N,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC ,F,
 1780895045,Gabriella Azzarone,Bronx,3411 Wayne Avenue,Bronx,NY,10467,N,PCP,Pediatrics,MMC at 3411 Wayne Avenue,F,Spanish
 1780895045,Gabriella Azzarone,Bronx,3415 Bainbridge Avenue,Bronx,NY,10467,N,PCP,Pediatrics,MMC CHAM,F,Spanish
 1780921809,Fozia A Jangda,Queens,900 Franklin Avenue,Valley Stream,NY,11580,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,
@@ -10387,6 +10431,8 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1790305415,Raecene Rousseau,Bronx,387 Bedford Park Boulevard,Bronx,NY,10458,Y,PCP,Family Health - Nurse Practitioner,"Essen Medical Associates, PC",F,Spanish
 1790360097,Mary A Mensah,Bronx,2742 3rd Avenue,Bronx,NY,10455,Y,PCP,Family Health - Nurse Practitioner,"Essen Medical Associates, PC",F,Spanish
 1790725125,Adam Stanislaw Budzikowski,Queens,5968 Grand Avenue,Maspeth,NY,11378,Y,PCP,Internal Medicine,Network Solutions IPA,M,Polish
+1790725125,Adam Stanislaw Budzikowski,Queens,5968 Grand Avenue,Maspeth,NY,11378,Y,PCP,Internal Medicine,,M,
+1790725125,Adam Stanislaw Budzikowski,Kings,6718 13th Avenue,Brooklyn,NY,11219,Y,PCP,Internal Medicine,,M,
 1790727584,Batool Moin Hussaini,Queens,121-08 Hillside Avenue,Jamaica,NY,11418,Y,PCP,Internal Medicine,,F,
 1790727584,Batool Moin Hussaini,Queens,121-08 Hillside Aveune,Jamaica,NY,11418,Y,PCP,Internal Medicine,,F,
 1790727584,Batool Moin Hussaini,Kings,902 Foster Avenue,Brooklyn,NY,11230,Y,PCP,Internal Medicine,Best Medical Care PC,F,
@@ -10633,6 +10679,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1811267271,Justin Bennett,Nassau,888 Old Country Road,Plainview,NY,11803,N,PCP,Family Medicine,North Shore-LIJ Medical PC ,M,
 1811267271,Justin Bennett,Queens,900 Franklin Avenue,Valley Stream,NY,11580,N,PCP,Family Medicine,North Shore-LIJ Medical PC,M,
 1811267271,Justin Bennett,Queens,9525 Queens Boulevard,Rego Park,NY,11374,N,PCP,Family Medicine,North Shore-LIJ Medical PC,M,
+1811272438,Chiedozie K Anokwute,Westchester,41 East Post Road,White Plains,NY,10601,N,PCP,Internal Medicine,WPH-Pediatrics Hospitalist Program,M,
 1811276918,Hector Ruben Perez,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Internal Medicine,Montefiore Medical Center,M,
 1811276918,Hector Ruben Perez,Bronx,1825 Eastchester Road,Bronx,NY,10461,Y,PCP,Internal Medicine,MMC Einstein Division,M,
 1811276918,Hector Ruben Perez,Bronx,4234 Bronx Boulevard,Bronx,NY,10466,Y,PCP,Internal Medicine,Wakefield Ambulatory Care Center,M,
@@ -10659,7 +10706,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1811387830,Ravilya Caine,Bronx,1067 Ogden Avenue,Bronx,NY,10452,N,PCP,Family Medicine,Ogden Dental Clinic,F,
 1811387830,Ravilya Caine,Bronx,1276 Fulton Avenue,Bronx,NY,10456,N,PCP,Family Medicine,Wellness Center,F,
 1811387830,Ravilya Caine,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Family Medicine Center,F,
-1811387830,Ravilya Caine,Bronx,1591 Fulton Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Crotona Park Family Practice,F,
+1811387830,Ravilya Caine,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,F,
 1811387830,Ravilya Caine,Bronx,1690 Bryant Avenue,Bronx,NY,10460,N,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,F,
 1811421647,Vidushi Mehrotra,Bronx,111 East 210th Street,Bronx,NY,10467,Y,PCP,Family Medicine,Montefiore Medical Center,F,
 1811421647,Vidushi Mehrotra,Bronx,1825 Eastchester Road,Bronx,NY,10461,Y,PCP,Family Medicine,Montefiore Medical Center,F,
@@ -10891,6 +10938,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1831234442,Eugene John Mancuso,Kings,2915 Avenue S,Brooklyn,NY,11229,Y,PCP,Family Medicine,Family Medical Care of Marine Park PC,M,
 1831244227,Adebola Oredeinde Orafidiya,Kings,1423 Bedford Avenue,Brooklyn,NY,11216,Y,PCP,Internal Medicine,,M,
 1831252964,Mark Alan Koenig,Suffolk,765 Route 25A,Miller Place,NY,11764,Y,PCP,Family Medicine,,M,
+1831269398,Moshe Kerstein,Kings,890 Bedford Avenue,Brooklyn,NY,11205,Y,PCP,Internal Medicine,,M,
 1831269810,Richard Anthony Funaro,Kings,4802 10th Avenue,Brooklyn,NY,11219,Y,PCP,Internal Medicine,,M,
 1831270255,Matthew Shaines,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Internal Medicine,Montefiore Medical Center,M,
 1831270305,Sheldon Greenberg,Kings,4102 13th Street,Brooklyn,NY,11219,Y,PCP,Internal Medicine,Maimonides Division of Renal Medicine,M,
@@ -10908,9 +10956,9 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1831354281,Anil Kumar Gogineni,Bronx,1265 Franklin Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Martin Luther King Jr. Health Center,M,Spanish
 1831354281,Anil Kumar Gogineni,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Wellness Center,M,Spanish
 1831354281,Anil Kumar Gogineni,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Family Medicine Center,M,Spanish
-1831354281,Anil Kumar Gogineni,Bronx,1591 Fulton Avenue,Bronx,NY,10457,Y,PCP,Family Medicine,Crotona Park Family Practice,M,Spanish
 1831354281,Anil Kumar Gogineni,Bronx,1645 Grand Concourse,Bronx,NY,10452,Y,PCP,Family Medicine,Employee Health,M,Spanish
 1831354281,Anil Kumar Gogineni,Bronx,1650 Grand Concourse,Bronx,NY,10457,Y,PCP,Family Medicine,BronxCare Inpatient,M,Spanish
+1831354281,Anil Kumar Gogineni,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,M,Spanish
 1831354281,Anil Kumar Gogineni,Bronx,1690 Bryant Avenue,Bronx,NY,10460,N,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,M,Spanish
 1831386424,Philip Edward Otterbeck,Richmond,355 Bard Avenue,Staten Island,NY,10310,Y,PCP,Internal Medicine,"Amboy Medical Practice, PC",M,
 1831411602,Victoria Jill Calixto,Nassau,2920 Hempstead Turnpike,Levittown,NY,11756,Y,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,Spanish
@@ -10922,6 +10970,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1831447143,Rishika Budhrani,Kings,220 13th Street,Brooklyn,NY,11215,Y,PCP,Family Health - Nurse Practitioner,Park Slope Family Health Center at NYU Langone,F,
 1831465368,Oluwaseun O Adeosun,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,Yoruba
 1831465558,Hongyin Wang,Kings,763 56th Street,Brooklyn,NY,11220,Y,PCP,Internal Medicine,"A Plus Medical Care, PC",M,Chinese Mandarin
+1831465558,Hongyin Wang,Nassau,99 Hillside Avenue,Williston Park,NY,11596,Y,PCP,Internal Medicine,Wang Hongyin MD,M,
 1831487321,Charu Ramchandani,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Internal Medicine,Montefiore Medical Center,F,
 1831487321,Charu Ramchandani,Bronx,1825 Eastchester Road,Bronx,NY,10461,N,PCP,Internal Medicine,MMC Einstein Division,F,
 1831487321,Charu Ramchandani,Bronx,600 East 233rd Street,Bronx,NY,10466,N,PCP,Internal Medicine,Montefiore Wakefield Campus,F,
@@ -11179,9 +11228,12 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1851764567,Bindu Giji,Bronx,3444 Kossuth Avenue,Bronx,NY,10467,Y,PCP,Family Health - Nurse Practitioner,MMC Family Care Center,F,
 1851798433,Denisha Patricia Dodd,Nassau,1983 Marcus Avenue,New Hyde Park,NY,11040,Y,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
 1851816342,Anuja Shrestha,Nassau,300 Community Drive,Manhasset,NY,11030,Y,PCP,Adult Health - Nurse Practitioner,"Priatharsini Sriganesh, MD",F,
+1851822944,Yong Kim,Westchester,1010 Central Park Avenue,Yonkers,NY,10704,N,PCP,Pediatrics,MMC Cross County Practice & Urgent Care,M,
 1851822944,Yong Kim,Bronx,1500 Astor Avenue,Bronx,NY,10469,Y,PCP,Pediatrics,MMC Astor Avenue Practice,M,
 1851822944,Yong Kim,Bronx,1825 Eastchester Road,Bronx,NY,10461,Y,PCP,Pediatrics,Montefiore Medical Center,M,
 1851822944,Yong Kim,Bronx,2300 Westchester Avenue,Bronx,NY,10462,Y,PCP,Pediatrics,MMC Urgent Care Center,M,
+1851822944,Yong Kim,Bronx,2300 Westchester Avenue,Bronx,NY,10462,N,PCP,Pediatrics,MMC Urgent Care Center,M,
+1851822944,Yong Kim,Bronx,2532 Grand Concourse,Bronx,NY,10458,N,PCP,Pediatrics,MMC Urgent Care Center Grand Concourse,M,
 1851822944,Yong Kim,Bronx,3860 East Tremont Avenue,Bronx,NY,10465,Y,PCP,Pediatrics,Montefiore at Throggs Neck,M,
 1851840540,Janine D'Amico,Suffolk,1715A North Ocean Avenue,Medford,NY,11763,Y,PCP,Adult Health - Nurse Practitioner,"Edward Condon Medical, P.C.",F,
 1851840540,Janine D'Amico,Suffolk,6080 Jericho Turnpike,Commack,NY,11725,Y,PCP,Adult Health - Nurse Practitioner,"Edward Condon Medical, P.C.",F,
@@ -11245,8 +11297,8 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1861582231,Kenrick Waithe,Bronx,1265 Franklin Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Martin Luther King Jr. Health Center,M,Spanish
 1861582231,Kenrick Waithe,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Wellness Center,M,Spanish
 1861582231,Kenrick Waithe,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Family Medicine Center,M,Spanish
-1861582231,Kenrick Waithe,Bronx,1591 Fulton Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Crotona Park Family Practice,M,Spanish
 1861582231,Kenrick Waithe,Bronx,1650 Grand Concourse,Bronx,NY,10457,Y,PCP,Family Medicine,BronxCare Inpatient,M,Spanish
+1861582231,Kenrick Waithe,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,M,Spanish
 1861582231,Kenrick Waithe,Bronx,1690 Bryant Avenue,Bronx,NY,10460,Y,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,M,Spanish
 1861585093,Robert Beil,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Internal Medicine,Montefiore Medical Center,M,
 1861585093,Robert Beil,Bronx,305 East 161st Street,Bronx,NY,10451,Y,PCP,Internal Medicine,MMC CHCC,M,
@@ -11486,6 +11538,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1881672038,John Douglas Reich,Bronx,1067 Ogden Avenue,Bronx,NY,10452,Y,PCP,Family Medicine,Ogden Dental Clinic,M,Spanish
 1881672038,John Douglas Reich,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Family Medicine Center,M,Spanish
 1881672038,John Douglas Reich,Bronx,1650 Grand Concourse,Bronx,NY,10457,Y,PCP,Family Medicine,BronxCare Inpatient,M,Spanish
+1881672038,John Douglas Reich,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,M,Spanish
 1881672038,John Douglas Reich,Bronx,2739-2745 3rd Avenue,Bronx,NY,10451,Y,PCP,Family Medicine,BRONXCARE HEALTH SYSTEM,M,Spanish
 1881699791,Mitchell Aaron Adler,Westchester,11 Ashford Avenue,Dobbs Ferry,NY,10522,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
 1881699791,Mitchell Aaron Adler,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,N,PCP,Internal Medicine,North Shore LIJ Medical PC,M,
@@ -11501,6 +11554,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1881747848,Latha Rajagopal,Bronx,2532 Grand Concourse,Bronx,NY,10458,N,PCP,Internal Medicine,MMC Urgent Care Center Grand Concourse,F,Tamil
 1881747848,Latha Rajagopal,Bronx,3400 Bainbridge Avenue,Bronx,NY,10467,Y,PCP,Internal Medicine,MMC Medical Arts Pavilion,F,Tamil
 1881747848,Latha Rajagopal,Bronx,3444 Kossuth Avenue,Bronx,NY,10467,Y,PCP,Internal Medicine,MMC Family Care Center,F,Tamil
+1881760049,Anees Ahmad,Erie,60 Brynstone Court,Amherst,NY,14228,Y,PCP,Internal Medicine,,M,
 1881762169,James C. W. Moy,New York,185 Canal Street,New York,NY,10013,Y,PCP,Family Medicine,"James C.W. Moy, MD",M,
 1881766756,Akbar Khan,Queens,3730 73rd Street,Jackson Heights,NY,11372,Y,PCP,Internal Medicine,"Island Medical Care, PLLC",M,Hindi
 1881766756,Akbar Khan,Queens,4500 Parsons Boulevard,Flushing,NY,11355,Y,PCP,Internal Medicine,"TJH Medical Services, PC",M,Urdu
@@ -11543,6 +11597,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1881945665,Shailja Dilip Mukhtyar,Bronx,1211 White Plains Road,Bronx,NY,10472,Y,PCP,Family Medicine,Parkchester Medical Services Of Ny,F,
 1881945665,Shailja Dilip Mukhtyar,Bronx,1957 Westchester Avenue,Bronx,NY,10462,Y,PCP,Family Medicine,,F,
 1881957363,Saqib Hafeez,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Wellness Center,M,"Hindi, Punjabi, Spanish"
+1881957363,Saqib Hafeez,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,M,"Hindi, Punjabi, Spanish"
 1881972875,Sabaa Chaudhry,Suffolk,301 East Main Street,Bay Shore,NY,11706,N,PCP,Internal Medicine,North Shore LIJ Medical PC,F,Urdu
 1881983518,Sharon Rikin,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Internal Medicine,Montefiore Medical Center,F,
 1881983518,Sharon Rikin,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Pediatrics,Montefiore Medical Center,F,
@@ -11644,7 +11699,9 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1891942645,Peyman Eli Younesi,Kings,50 Sheffield Avenue,Brooklyn,NY,11207,Y,PCP,Internal Medicine,"CHE Senior Psychological Services, PC",M,
 1891956769,George A Boutis,Nassau,2001 Marcus Avenue,New Hyde Park,NY,11042,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,Spanish
 1891956769,George A Boutis,Nassau,225 Community Drive,Great Neck,NY,11021,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,Spanish
+1891956769,George A Boutis,Queens,256-11 Union Turnpike,Glen Oaks,NY,11004,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,"Greek, Spanish"
 1891956769,George A Boutis,Nassau,300 Community Drive,Manhasset,NY,11030,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,Spanish
+1891956769,George A Boutis,Nassau,865 Northern Boulevard,Great Neck,NY,11021,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,"Greek, Spanish"
 1891957916,Yun Feng,Queens,131-07 40th Road,Flushing,NY,11354,Y,PCP,Internal Medicine,"Yun Feng Medical, PC",F,Chinese Mandarin
 1891957916,Yun Feng,New York,139 Centre Street,New York,NY,10013,Y,PCP,Internal Medicine,Yun Feng Medical PC,F,"Chinese - Cantonese, Chinese Mandarin"
 1891962296,Vikram Maddikunta Brahmanandam,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Internal Medicine,Montefiore Medical Center,M,
@@ -11672,8 +11729,8 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1902079882,Emem Uche Okonkwo,Bronx,1265 Franklin Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Martin Luther King Jr. Health Center,F,
 1902079882,Emem Uche Okonkwo,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Wellness Center,F,
 1902079882,Emem Uche Okonkwo,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Family Medicine Center,F,
-1902079882,Emem Uche Okonkwo,Bronx,1591 Fulton Avenue,Bronx,NY,10457,Y,PCP,Family Medicine,Crotona Park Family Practice,F,
 1902079882,Emem Uche Okonkwo,Bronx,1650 Grand Concourse,Bronx,NY,10457,Y,PCP,Family Medicine,BronxCare Inpatient,F,
+1902079882,Emem Uche Okonkwo,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,F,
 1902079882,Emem Uche Okonkwo,Bronx,1690 Bryant Avenue,Bronx,NY,10460,Y,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,F,
 1902082431,Sherry Farzan,Nassau,269-01 76th Avenue,New Hyde Park,NY,11040,N,PCP,Internal Medicine,North Shore LIJ Medical PC,F,Faroese
 1902082431,Sherry Farzan,Nassau,300 Community Drive,Manhasset,NY,11030,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,Faroese
@@ -11854,7 +11911,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1912906710,Hillary S Kushner,Nassau,1165 Northern Boulevard,Manhasset,NY,11030,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,
 1912907742,Stella Ilyaev,Kings,2705 Mermaid Avenue,Brooklyn,NY,11224,Y,PCP,Internal Medicine,AMBOY MEDICAL PC,F,
 1912907742,Stella Ilyaev,Queens,5629 Metropolitan Avenue,Ridgewood,NY,11385,Y,PCP,Internal Medicine,MK Healthcare Medical PC,F,
-1912907825,Sophia Gazis,Bronx,1371 Seabury Avenue,Bronx,NY,10461,N,PCP,Internal Medicine,"House Call Medical Services of New York, PLLC",F,Spanish
 1912938937,Robin Gail Rivera,Nassau,240 Jericho Turnpike,Syosset,NY,11791,Y,PCP,Family Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
 1912940214,Maria Elena Matala-Sullivan,Erie,4855 Camp Road,Hamburg,NY,14075,N,PCP,Family Medicine,,F,
 1912942624,Eduard Shnaydman,Queens,3457 82nd Street,Jackson Heights,NY,11372,Y,PCP,Family Medicine,,M,
@@ -11904,7 +11960,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1922070150,Mark Ira Sotsky,New York,3510 Johnson Avenue,Bronx,NY,10463,Y,PCP,Internal Medicine,MMC Johnson Avenue Practice,M,Spanish
 1922070150,Mark Ira Sotsky,Bronx,3860 East Tremont Avenue,Bronx,NY,10465,Y,PCP,Internal Medicine,Montefiore at Throggs Neck,M,Spanish
 1922070150,Mark Ira Sotsky,Westchester,440 White Plains Road,Eastchester,NY,10709,N,PCP,Internal Medicine,MMC Eastchester Practice at 440,M,Spanish
-1922072115,Susanne Ying Lee,Bronx,1371 Seabury Avenue,Bronx,NY,10461,N,PCP,Internal Medicine,"House Call Medical Services of New York, PLLC",F,Spanish
 1922072313,Miguel Antonio Tirado,Richmond,135 Vanderbilt Avenue,Staten Island,NY,10304,Y,PCP,Internal Medicine,"Richmond Medical Rehabilitation Services, PLLC",M,
 1922072313,Miguel Antonio Tirado,Richmond,88 Old Town Road,Staten Island,NY,10304,Y,PCP,Internal Medicine,,M,
 1922077510,Michael Feld,Westchester,362 North Broadway,Sleepy Hollow,NY,10591,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,Hebrew
@@ -11922,7 +11977,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1922190388,Teresa T. Chan,Queens,260 East Broadway,New York,NY,10002,Y,PCP,Family Medicine,"Lower East Side Family Medicine, PLLC",F,"Chinese - Cantonese, Spanish"
 1922208594,Amgad Nihad Makaryus,Nassau,2201 Hempstead Turnpike,East Meadow,NY,11554,Y,PCP,Internal Medicine,Nassau Health Care Corporation,M,
 1922231604,Golali Nejati,Kings,810 Rogers Avenue,Brooklyn,NY,11226,Y,PCP,Internal Medicine,Loring Medical PC,M,"Farsi, Spanish"
-1922260058,Ronald Herman Sumter,Bronx,1371 Seabury Avenue,Bronx,NY,10461,N,PCP,Internal Medicine,"House Call Medical Services of New York, PLLC",M,Spanish
 1922260660,Valeriy Kraydman,Suffolk,270 Park Avenue,Huntington,NY,11743,Y,PCP,Family Medicine,North Shore-LIJ Medical PC,M,Russian
 1922261460,Joseph N. Mosak,Suffolk,180 East Main Street,Bay Shore,NY,11706,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
 1922261460,Joseph N. Mosak,Nassau,1872 Bellmore Avenue,North Bellmore,NY,11710,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
@@ -11976,6 +12030,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1922466358,Emelia Baah,Bronx,1276 Fulton Avenue,Bronx,NY,10456,N,PCP,Family Health - Nurse Practitioner,Wellness Center,F,Twi
 1922466358,Emelia Baah,Bronx,1276 Fulton Avenue,Bronx,NY,10456,N,PCP,Family Health - Nurse Practitioner,Family Medicine Center,F,Twi
 1922466358,Emelia Baah,Bronx,1650 Grand Concourse,Bronx,NY,10457,N,PCP,Family Health - Nurse Practitioner,BronxCare Inpatient,F,Twi
+1922466358,Emelia Baah,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Health - Nurse Practitioner,Family Medicine Post Discharge Clinic,F,Twi
 1922494160,Talina Kuznetsov,Queens,900 Franklin Avenue,Valley Stream,NY,11580,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,Russian
 1922494160,Talina Kuznetsov,Queens,900 Franklin Avenue,Valley Stream,NY,11580,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,Russian
 1922500982,Jian Bertolino,New York,139 Centre Street,New York,NY,10013,Y,PCP,Adult Health - Nurse Practitioner,"Chinatown True Care Medical, PLLC aka RenDr Care Physicians",F,Chinese Mandarin
@@ -12043,6 +12098,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1932203239,Collette Brown,Westchester,1010 Central Park Avenue,Yonkers,NY,10704,N,PCP,Family Health - Nurse Practitioner,MMC Cross County Practice & Urgent Care,F,
 1932203239,Collette Brown,Bronx,1055 East Tremont Avenue,Bronx,NY,10460,Y,PCP,Family Health - Nurse Practitioner,MMC West Farms Practice,F,
 1932203239,Collette Brown,Bronx,1621 Eastchester Road,Bronx,NY,10461,Y,PCP,Adult Health - Nurse Practitioner,MMG CFCC,F,
+1932203239,Collette Brown,Bronx,2175 Westchester Avenue,Bronx,NY,10462,N,PCP,Family Health - Nurse Practitioner,MMC Castle Hill Practice,F,
 1932203239,Collette Brown,Bronx,2300 Westchester Avenue,Bronx,NY,10462,N,PCP,Family Health - Nurse Practitioner,MMC Urgent Care Center,F,
 1932203239,Collette Brown,Bronx,2532 Grand Concourse,Bronx,NY,10458,N,PCP,Family Health - Nurse Practitioner,MMC Urgent Care Center Grand Concourse,F,
 1932203239,Collette Brown,Bronx,730 Brook Avenue,Bronx,NY,10455,N,PCP,Family Health - Nurse Practitioner,MMC Via Verde,F,
@@ -12107,8 +12163,8 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1932518016,Syed Asim A Shah,Bronx,1265 Franklin Avenue,Bronx,NY,10456,N,PCP,Family Medicine,Martin Luther King Jr. Health Center,M,"Hindi, Spanish, Urdu"
 1932518016,Syed Asim A Shah,Bronx,1276 Fulton Avenue,Bronx,NY,10456,N,PCP,Family Medicine,Wellness Center,M,"Hindi, Spanish, Urdu"
 1932518016,Syed Asim A Shah,Bronx,1276 Fulton Avenue,Bronx,NY,10456,N,PCP,Family Medicine,Family Medicine Center,M,"Hindi, Spanish, Urdu"
-1932518016,Syed Asim A Shah,Bronx,1591 Fulton Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Crotona Park Family Practice,M,"Hindi, Spanish, Urdu"
 1932518016,Syed Asim A Shah,Bronx,1650 Grand Concourse,Bronx,NY,10457,N,PCP,Family Medicine,BronxCare Inpatient,M,"Hindi, Spanish, Urdu"
+1932518016,Syed Asim A Shah,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,M,"Hindi, Spanish, Urdu"
 1932518016,Syed Asim A Shah,Bronx,1690 Bryant Avenue,Bronx,NY,10460,N,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,M,"Hindi, Spanish, Urdu"
 1932519675,Caitlin Gilman,Bronx,1621 Eastchester Road,Bronx,NY,10461,Y,PCP,Pediatrics,MMG CFCC,F,
 1932519675,Caitlin Gilman,Bronx,1825 Eastchester Road,Bronx,NY,10461,Y,PCP,Pediatrics,Montefiore Medical Center,F,
@@ -12361,8 +12417,8 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1952616724,Srilakshmi Kadiyala,Bronx,1265 Franklin Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Martin Luther King Jr. Health Center,F,
 1952616724,Srilakshmi Kadiyala,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Wellness Center,F,
 1952616724,Srilakshmi Kadiyala,Bronx,1276 Fulton Avenue,Bronx,NY,10456,Y,PCP,Family Medicine,Family Medicine Center,F,
-1952616724,Srilakshmi Kadiyala,Bronx,1591 Fulton Avenue,Bronx,NY,10457,Y,PCP,Family Medicine,Crotona Park Family Practice,F,
 1952616724,Srilakshmi Kadiyala,Bronx,1650 Grand Concourse,Bronx,NY,10457,Y,PCP,Family Medicine,BronxCare Inpatient,F,
+1952616724,Srilakshmi Kadiyala,Bronx,1650 Selwyn Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Family Medicine Post Discharge Clinic,F,
 1952616724,Srilakshmi Kadiyala,Bronx,1690 Bryant Avenue,Bronx,NY,10460,Y,PCP,Family Medicine,Mid-Bronx Desperadoes Family Practice,F,
 1952628695,Eleanor Bathory,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Pediatrics,Montefiore Medical Center,F,
 1952628695,Eleanor Bathory,Bronx,1825 Eastchester Road,Bronx,NY,10461,Y,PCP,Pediatrics,MMC Einstein Division,F,
@@ -12394,6 +12450,18 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1952799033,Abby Nimotalai Fashakin,Kings,656 Pennsylvania Avenue,Brooklyn,NY,11207,Y,PCP,Family Health - Nurse Practitioner,,F,
 1952799033,Abby Nimotalai Fashakin,Queens,7838 Parsons Boulevard,Flushing,NY,11366,Y,PCP,Family Health - Nurse Practitioner,,F,
 1952799033,Abby Nimotalai Fashakin,Nassau,98 Meacham Avenue,Elmont,NY,11003,Y,PCP,Family Health - Nurse Practitioner,,F,
+1952808164,Connor Carmichael,Kings,1167 Nostrand Avenue,Brooklyn,NY,11225,N,PCP,Family Medicine,Crown Heights Health Center,M,
+1952808164,Connor Carmichael,Queens,150 Essex Street,New York,NY,10002,N,PCP,Family Medicine,Lower East Side Health Center,M,
+1952808164,Connor Carmichael,Kings,2581 Atlantic Avenue,Brooklyn,NY,11207,N,PCP,Family Medicine,East New York Hub Health Center,M,
+1952808164,Connor Carmichael,Queens,3611 21st Street,Long Island City,NY,11106,N,PCP,Family Medicine,Sutphin Boulevard Health Center,M,
+1952808164,Connor Carmichael,Bronx,4215 3rd Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Tremont Health Center,M,
+1952808164,Connor Carmichael,New York,511 West 157th Street,New York,NY,10032,N,PCP,Family Medicine,Washington Heights Health Center,M,
+1952808164,Connor Carmichael,New York,81 West 115th Street,New York,NY,10026,Y,PCP,Family Medicine,Harlem Health Center,M,
+1952808164,Connor Carmichael,Queens,9004 161st Street,Jamaica,NY,11432,N,PCP,Family Medicine,South Bronx Health Center,M,
+1952808164,Connor Carmichael,Kings,9498 Manhattan Avenue,Brooklyn,NY,11206,N,PCP,Family Medicine,Williamsburg Health Center,M,
+1952808164,Connor Carmichael,Queens,9704 Sutphin Boulevard,Jamaica,NY,11435,N,PCP,Family Medicine,Sutphin Boulevard Health Center,M,
+1952808164,Connor Carmichael,Bronx,975 Westchester Avenue,Bronx,NY,10459,N,PCP,Family Medicine,Tremont Health Center,M,
+1952808164,Connor Carmichael,Kings,999 Blake Avenue,Brooklyn,NY,11208,N,PCP,Family Medicine,Long Island City Health Center,M,
 1952821969,Lipa Mustafa,Westchester,440 South Riverside,Croton on Hudson,NY,10520,Y,PCP,Family Medicine,North Shore-LIJ Medical PC,F,Bengali
 1952821969,Lipa Mustafa,Westchester,701 North Broadway,Sleepy Hollow,NY,10591,Y,PCP,Family Medicine,North Shore-LIJ Medical PC,F,Bengali
 1952833162,Jeffy Mathew,Westchester,41 East Post Road,White Plains,NY,10601,Y,PCP,Internal Medicine,WPH-Pediatrics Hospitalist Program,M,
@@ -12481,6 +12549,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1962641746,Emily Harris,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Pediatrics,Montefiore Medical Center,F,
 1962641746,Emily Harris,Bronx,1110 Boston Road,Bronx,NY,10456,Y,PCP,Pediatrics,MMC at Morris Campus,F,
 1962641746,Emily Harris,Bronx,1501 Jerome Avenue,Bronx,NY,10452,Y,PCP,Pediatrics,Montefiore at New Settlement,F,
+1962641746,Emily Harris,Bronx,1600 Webster Avenue,Bronx,NY,10457,N,PCP,Pediatrics,P.S. 147,F,
 1962641746,Emily Harris,Bronx,1861 Anthony Avenue,Bronx,NY,10457,Y,PCP,Pediatrics,Montefiore at CES 28/ PS 28,F,
 1962641746,Emily Harris,Bronx,1980 Lafayette Avenue,Bronx,NY,10473,Y,PCP,Pediatrics,Adlai E. Stevenson High School,F,
 1962641746,Emily Harris,Bronx,240 East 172nd Street,Bronx,NY,10457,Y,PCP,Pediatrics,MMC at Taft,F,
@@ -12488,7 +12557,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1962641746,Emily Harris,Bronx,2502 Lorillard Place,Bronx,NY,10458,Y,PCP,Pediatrics,MMC at IS 45,F,
 1962641746,Emily Harris,Bronx,2532 Grand Concourse,Bronx,NY,10458,Y,PCP,Pediatrics,MMC Urgent Care Center Grand Concourse,F,
 1962641746,Emily Harris,Bronx,2780 Reservoir Avenue,Bronx,NY,10468,Y,PCP,Pediatrics,MMC at Walton High School,F,
-1962641746,Emily Harris,Bronx,3010 Briggs Avenue,Bronx,NY,10458,Y,PCP,Pediatrics,MMC at PS8,F,
 1962641746,Emily Harris,New York,3961 Hillman Avenue,Bronx,NY,10463,Y,PCP,Pediatrics,MMC At PS 95,F,
 1962641746,Emily Harris,Bronx,450 Saint Pauls Place,Bronx,NY,10456,Y,PCP,Pediatrics,MMC at PS 55,F,
 1962641746,Emily Harris,Bronx,456 White Plains Road,Bronx,NY,10473,N,PCP,Pediatrics,MMC at MS 174,F,
@@ -12620,9 +12688,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1972765741,Esther Ahn,Nassau,300 Community Drive,Manhasset,NY,11030,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,Korean
 1972765741,Esther Ahn,Queens,7559 263rd Street,Glen Oaks,NY,11004,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,F,Korean
 1972766418,Olawole Olafisoye,Queens,102-01 66th Road,Forest Hills,NY,11375,N,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
-1972795706,Jennifer C. Lau,Nassau,2035 Lakeville Road,New Hyde Park,NY,11040,Y,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,Chinese - Cantonese
-1972795706,Jennifer C. Lau,Suffolk,2950 Expressway Drive South,Islandia,NY,11749,N,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,Chinese - Cantonese
-1972795706,Jennifer C. Lau,Nassau,300 Community Drive,Manhasset,NY,11030,Y,PCP,Adult Health - Nurse Practitioner,North Shore-LIJ Medical PC,F,
 1972808509,Debra Sheppard,Nassau,270-05 76th Avenue,New Hyde Park,NY,11040,N,PCP,Adult Health - Nurse Practitioner,North Shore LIJ Medical PC,F,
 1972861300,Ruby Chara Greywoode,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Internal Medicine,Montefiore Medical Center,F,
 1972861300,Ruby Chara Greywoode,Bronx,1200 Waters Place,Bronx,NY,10461,N,PCP,Internal Medicine,"New York GI Center, LLC",F,
@@ -12678,6 +12743,9 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1982098539,Rajiv K Punn,Westchester,355 Main Street,Armonk,NY,10504,Y,PCP,Family Medicine,Westchester Health Medical  P C,M,Hindi
 1982098539,Rajiv K Punn,Westchester,60 Goldens Bridge Road,Katonah,NY,10536,Y,PCP,Family Medicine,Westchester Health Medical PC,M,"Hindi, Punjabi, Spanish"
 1982098539,Rajiv K Punn,Westchester,666 Lexington Avenue,Mount Kisco,NY,10549,Y,PCP,Family Medicine,Westchester Health Medical  P C,M,"Hindi, Punjabi, Spanish"
+1982160123,Christine Higgins,Bronx,853 Longwood Avenue,Bronx,NY,10459,N,PCP,Family Health - Nurse Practitioner,MMC CHP Practice,F,
+1982160123,Christine Higgins,Bronx,871 Prospect Avenue,Bronx,NY,10459,Y,PCP,Family Health - Nurse Practitioner,MMC South Bronx Children and Families,F,
+1982160123,Christine Higgins,Bronx,890 Prospect Avenue,Bronx,NY,10459,N,PCP,Family Health - Nurse Practitioner,MMC South Bronx at 890,F,
 1982290177,Shena A Joseph,Bronx,387 Bedford Park Boulevard,Bronx,NY,10458,N,PCP,Family Health - Nurse Practitioner,"Essen Medical Associates, PC",F,
 1982290177,Shena A Joseph,Bronx,930 Grand Concourse,Bronx,NY,10451,N,PCP,Family Health - Nurse Practitioner,"Essen Medical Associates, PC",F,
 1982604310,Kathrine A. Gold,Kings,5 Debevoise Street,Brooklyn,NY,11206,Y,PCP,Internal Medicine,,F,
@@ -12903,6 +12971,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1992880017,Marianne Dietrich,Bronx,1000 Teller Avenue,Bronx,NY,10456,N,PCP,Family Medicine,MMC at MS 145,F,
 1992880017,Marianne Dietrich,Bronx,111 East 210th Street,Bronx,NY,10467,N,PCP,Family Medicine,Montefiore Medical Center,F,
 1992880017,Marianne Dietrich,Bronx,1110 Boston Road,Bronx,NY,10456,N,PCP,Family Medicine,MMC at Morris Campus,F,
+1992880017,Marianne Dietrich,Bronx,1449 Shakespeare Avenue,Bronx,NY,10452,N,PCP,Family Medicine,P.S. 199,F,
 1992880017,Marianne Dietrich,Bronx,1501 Jerome Avenue,Bronx,NY,10452,N,PCP,Family Medicine,Montefiore at New Settlement,F,
 1992880017,Marianne Dietrich,Bronx,1619 Boston Road,Bronx,NY,10460,N,PCP,Family Medicine,IS 98/Bronx Envision HS,F,
 1992880017,Marianne Dietrich,Bronx,1861 Anthony Avenue,Bronx,NY,10457,N,PCP,Family Medicine,Montefiore at CES 28/ PS 28,F,
@@ -12911,6 +12980,7 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1992880017,Marianne Dietrich,Bronx,2400 Marion Avenue,Bronx,NY,10458,N,PCP,Family Medicine,MMC at PS 85,F,
 1992880017,Marianne Dietrich,Bronx,2502 Lorillard Place,Bronx,NY,10458,Y,PCP,Family Medicine,MMC at IS 45,F,
 1992880017,Marianne Dietrich,Bronx,2780 Reservoir Avenue,Bronx,NY,10468,N,PCP,Family Medicine,MMC at Walton High School,F,
+1992880017,Marianne Dietrich,Bronx,3000 East Tremont Avenue,Bronx,NY,10461,N,PCP,Family Medicine,MMC at Lehman High School,F,
 1992880017,Marianne Dietrich,Bronx,3010 Briggs Avenue,Bronx,NY,10458,N,PCP,Family Medicine,MMC at PS8,F,
 1992880017,Marianne Dietrich,Bronx,3710 Barnes Avenue,Bronx,NY,10467,N,PCP,Family Medicine,MMC at MS113,F,
 1992880017,Marianne Dietrich,Bronx,3750 Baychester Avenue,Bronx,NY,10466,N,PCP,Family Medicine,Montefiore at MS142/John Phillip Sousa,F,
@@ -12938,8 +13008,6 @@ NPI,PROVIDER FULL NAME,County,STREET ADDRESS,City,State,Zip code,Accepting New P
 1992938534,Sapna Prabhakaran,Bronx,2021 Grand Concourse,Bronx,NY,10453,Y,PCP,Pediatrics,Union Community Health Center,F,
 1992958466,Jonathan Robert Caronia,Nassau,888 Old Country Road,Plainview,NY,11803,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
 1992958466,Jonathan Robert Caronia,Queens,900 Franklin Avenue,Valley Stream,NY,11580,Y,PCP,Internal Medicine,North Shore-LIJ Medical PC,M,
-1992960538,William Edward Kalafatic,Bronx,4422 3rd Avenue,Bronx,NY,10457,Y,PCP,Internal Medicine,William E Kalafatic MD,M,
-1992960538,William Edward Kalafatic,Bronx,4487 3rd Avenue,Bronx,NY,10457,Y,PCP,Internal Medicine,William E Kalafatic MD,M,
 1992961775,Sergey Zasypayko,Queens,8900 Van Wyck Expressway,Jamaica,NY,11418,Y,PCP,Internal Medicine,Jamaica Hospital Medical Center,M,
 1992976385,Ferid Osmanovic,Queens,2318 31st Street,Astoria,NY,11105,N,PCP,Internal Medicine,NYU Langone Astoria Medical,M,
 1992976385,Ferid Osmanovic,Queens,9785 Queens Boulevard,Rego Park,NY,11374,Y,PCP,Internal Medicine,NYU Radiology Associates,M,
