@@ -169,7 +169,7 @@ PARTNERSHIP"
 ENTERTAINER:
 GIVEVAWAYS",1HOUR EARLY,0.0,3.0,0.0,0.0,"BRANDING
 PARTNERSHIP"
-2021-10-27,PROVIDERS,Vantage Medical Associates,Vantage Medical Associates,11691.0,Far Rockaway,Miriam,"Alfredo, Charlie, Eugene","COLLATERAL
+2021-10-27,PROVIDERS,Vantage Medical Associates,Vantage Medical Associates,11691.0,Queens,Miriam,"Alfredo, Charlie, Eugene","COLLATERAL
 GIVEVAWAYS
 RV",1HOUR EARLY,2.0,6.0,0.0,0.0,"BRANDING
 PARTNERSHIP"
@@ -186,7 +186,7 @@ PARTNERSHIP"
 ENTERTAINER:
 GIVEVAWAYS",1HOUR EARLY,1.0,0.0,0.0,120.0,"BRANDING
 PARTNERSHIP"
-2021-10-29,Street Festival,NYPD 40th PCT Community Council Halloween Safe Street & Treat,NYPD 40th PCT Community Council Halloween Safe Street & Treat,10454.0,Bronx,Gabe De Jesus,"Paula, Kathy, Jose","COLLATERAL
+2021-10-29,Street Festival,NYPD 40th PCT Community Council Halloween Safe Street & Treat,NYPD 40th PCT,10454.0,Bronx,Gabe De Jesus,"Paula, Kathy, Jose","COLLATERAL
 GIVEVAWAYS
 TABLE
 TENT",1HOUR EARLY,0.0,0.0,0.0,0.0,"BRANDING
@@ -227,7 +227,7 @@ GIVEVAWAYS
 TABLE
 TENT",1HOUR EARLY,0.0,0.0,0.0,0.0,"BRANDING
 PARTNERSHIP"
-2021-11-08,PROVIDERS,Canceled Event Tommy Experience Zumba,Vantage Medical Associates,11691.0,Far Rockaway,Miriam,Canceled Event,"COLLATERAL
+2021-11-08,PROVIDERS,Canceled Event Tommy Experience Zumba,Vantage Medical Associates,11691.0,Queens,Miriam,Canceled Event,"COLLATERAL
 ENTERTAINER:
 GIVEVAWAYS",1HOUR EARLY,0.0,0.0,0.0,0.0,"BRANDING
 PARTNERSHIP"
@@ -249,6 +249,11 @@ DECORATION
 ENTERTAINER:
 GIVEVAWAYS",1HOUR EARLY,0.0,3.0,0.0,120.0,"BRANDING
 PARTNERSHIP"
+2021-11-12,RV,RV- Tribeca Barber & Beauty School Event,RV Park in Front of Tribeca Barber & Beauty School,11374.0,Queens,Robert Borukhov,Canceled Event,"COLLATERAL
+GIVEVAWAYS
+RV
+TABLE",1HOUR EARLY,0.0,0.0,0.0,0.0,"BRANDING
+PARTNERSHIP"
 2021-11-15,Social Adult Day Center,Jokesercise Comedy,Sunshine Days Adult Social Day Care Center,10456.0,Bronx,AnnaMarie Thompson,"Jose, Kathy","COLLATERAL
 ENTERTAINER:
 GIVEVAWAYS",1HOUR EARLY,0.0,0.0,0.0,100.0,"BRANDING
@@ -258,8 +263,71 @@ GIVEVAWAYS
 TABLE
 TENT",1HOUR EARLY,0.0,0.0,0.0,0.0,"BRANDING
 PARTNERSHIP"
-2021-11-12,RV,RV- Tribeca Barber & Beauty School Event,RV Park in Front of Tribeca Barber & Beauty School,11374.0,Queens,Robert Borukhov,Donald,"COLLATERAL
+2021-11-16,Senior Centers,Thanksgiving Celebration,Hanac Ravenswood Senior Center,11106.0,Queens,Shahenaz Hamde,Alfredo,"COLLATERAL
+GIVEVAWAYS",1HOUR EARLY,0.0,1.0,0.0,0.0,"BRANDING
+PARTNERSHIP"
+2021-11-17,Senior Centers,CPHL Presentation,Jacob Riis Neighborhood Settlement,11101.0,Queens,Robin Davis,Alfredo,"COLLATERAL
+GIVEVAWAYS",1HOUR EARLY,0.0,0.0,0.0,0.0,"BRANDING
+PARTNERSHIP"
+2021-11-17,RV,Holiday Event,South Island Medical Associates,11691.0,Queens,Michael Jurewicz,"Charlie, Alfredo","COLLATERAL
+GIVEVAWAYS
+RV
+TABLE",1HOUR EARLY,0.0,1.0,0.0,0.0,"BRANDING
+COMPETITIVENESS
+PARTNERSHIP"
+2021-11-18,Senior Centers,PSS Parkside Center,PSS Parkside Center,10467.0,Bronx,Janessa Jeffrey,Canceled Event,"COLLATERAL
+GIVEVAWAYS",1HOUR EARLY,0.0,0.0,0.0,0.0,"BRANDING
+PARTNERSHIP"
+2021-11-18,Senior Centers,Guess Senior Center,Guess Senior Center,10457.0,Bronx,Jeffrey Bejarano,Paula,"COLLATERAL
+GIVEVAWAYS",1HOUR EARLY,1.0,1.0,1.0,0.0,"BRANDING
+PARTNERSHIP"
+2021-11-19,Senior Centers,Thanksgiving/ Birthday Celebration,PSS Davidson Senior Center,10459.0,Bronx,Nellie (Yanelis) Sarante,Jose,"COLLATERAL
+GIVEVAWAYS",1HOUR EARLY,0.0,0.0,0.0,0.0,"BRANDING
+PARTNERSHIP"
+2021-11-19,Social Adult Day Center,Singer Giovanni,Better Days DayCare,10467.0,Bronx,Rosangelie,Ivonne,"COLLATERAL
+ENTERTAINER:
+GIVEVAWAYS",1HOUR EARLY,1.0,0.0,0.0,250.0,"BRANDING
+PARTNERSHIP"
+2021-11-19,Senior Centers,Puerto Rican Heritage Month,Elmhurst Jackson Heights Neighborhood Older Adult Center,11373.0,Queens,Gin Moy Lee,Alfredo,"COLLATERAL
+GIVEVAWAYS",1HOUR EARLY,2.0,0.0,0.0,0.0,"BRANDING
+PARTNERSHIP"
+2021-11-19,Social Adult Day Center,Thanksgiving Celebration,La Familia Adult Day Center,10451.0,Bronx,Rafaela Villafana,Charlie,"COLLATERAL
+ENTERTAINER:
+GIVEVAWAYS",1HOUR EARLY,0.0,3.0,0.0,0.0,"BRANDING
+PARTNERSHIP"
+2021-11-19,RV,RV- Tribeca Barber & Beauty School Event,RV Park in Front of Tribeca Barber & Beauty School,11374.0,Queens,Robert Borukhov,Canceled Event,"COLLATERAL
 GIVEVAWAYS
 RV
 TABLE",1HOUR EARLY,0.0,0.0,0.0,0.0,"BRANDING
+PARTNERSHIP"
+2021-11-20,"CHURCHES
+Clothing Drive
+FOOD PANTRIES",Thanksgiving Food Pantry Distribution,City of Refuge Church,10454.0,Bronx,Jose Munoz,"Paula, Kathy","COLLATERAL
+GIVEVAWAYS
+TABLE",1HOUR EARLY,7.0,0.0,0.0,0.0,"BRANDING
+COMPETITIVENESS
+PARTNERSHIP"
+2021-11-20,"FOOD PANTRIES
+RV",Community Thanksgiving Distribution Event,Community Thanksgiving Distribution Event,11207.0,Brooklyn,Pastor Byrd,"Kenny, Eugene, Donald","COLLATERAL
+GIVEVAWAYS
+RV
+TABLE",2 HOURS EARLY,0.0,0.0,0.0,0.0,"BRANDING
+COMPETITIVENESS
+PARTNERSHIP"
+2021-11-20,Congressman Hakeem Jeffries,Congressman Hakeem Jeffries Breukelen Thanksgiving Turkey Distribution Event,Congressman Hakeem Jeffries Breukelen Thanksgiving Turkey Distribution Event,11236.0,Brooklyn,Angel King,"Alfredo, Ivonne","COLLATERAL
+GIVEVAWAYS
+RV
+TABLE",1HOUR EARLY,0.0,0.0,0.0,0.0,"BRANDING
+COMPETITIVENESS
+PARTNERSHIP
+POLITICS"
+2021-11-21,CHURCHES,La Familia Health Fair,St. Rita's Roman Catholic Church,11208.0,Brooklyn,Rafaela Villafana,Canceled Event,"COLLATERAL
+GIVEVAWAYS
+TABLE",1HOUR EARLY,0.0,0.0,0.0,0.0,"BRANDING
+COMPETITIVENESS
+PARTNERSHIP"
+2021-11-21,NYPD,NYPD 40th PCT Community Council Thanksgiving Turkey Giveaway,NYPD 40th PCT,10454.0,Bronx,Gabe De Jesus,"Yanery, Kenny, Alfredo","COLLATERAL
+GIVEVAWAYS
+TABLE",1HOUR EARLY,0.0,2.0,0.0,0.0,"BRANDING
+COMPETITIVENESS
 PARTNERSHIP"
